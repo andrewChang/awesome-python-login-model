@@ -26,14 +26,14 @@ class Leipin(object):
             'X-Requested-With': 'XMLHttpRequest',
             'Upgrade-Insecure-Requests': '1',
         }
-        self.proxies = {
-            'HTTP': 'http://120.198.231.88:80',
-            # 'HTTP':'http://222.174.71.46:9999',
-        }  # 测试所用代理
+        # self.proxies = {
+        #     'HTTP': 'http://120.198.231.88:80',
+        #     # 'HTTP':'http://222.174.71.46:9999',
+        # }  # 测试所用代理
         self.session = requests.session()
         self.accountUrl = 'https://passport.liepin.com/h/account'
         self.loginUrl = 'https://passport.liepin.com/h/login.json'
-        self.Dir = 'E:\\python\\authcode.jpg'  # authcode folder 根据自己情况选择文件夹
+        self.Dir = 'authcode.jpg'  # authcode folder 根据自己情况选择文件夹
 
     def _md5(self):
         md5 = hashlib.md5()
@@ -42,7 +42,7 @@ class Leipin(object):
         return psw
 
     def _getAuthcode(self):
-        r = self.session.get(self.accountUrl, headers=self.headers, timeout=10, proxies=self.proxies)
+        r = self.session.get(self.accountUrl, headers=self.headers, timeout=10)
         page = BeautifulSoup(r.text)
         selector = page.find_all('div', class_="ui-tab-toggle hide")[0]
         imageUrl = selector.select('div > img')[0]['src']

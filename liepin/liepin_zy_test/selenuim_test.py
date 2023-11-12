@@ -14,12 +14,17 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 import concurrent.futures
 import requests
+from selenium.common.exceptions import TimeoutException
 
 
 class ResumeCrawl:
     def __init__(self) -> None:
         self.driver = self.init_drive()
         self.cookies = None
+        self.person_list = []
+
+    def quit(self):
+        self.driver.quit()
     
     def set_cookies(self, cookies):
         self.cookies = cookies
@@ -47,13 +52,14 @@ class ResumeCrawl:
         driver.get(url=url)
         # assert "在线沟通" in driver.title
         wait = WebDriverWait(driver, 500)
-        wait.until(EC.title_contains("在线沟通"))
+        # wait.until(EC.title_contains("在线沟通"))
+        wait.until(EC.visibility_of_element_located((By.XPATH,"//li[@data-selector='search']/a")))
         self.cookies = driver.get_cookies()
         # 点击search_link
         search_link = driver.find_element(By.XPATH, "//li[@data-selector='search']/a")
         search_link.click()
         # 等待页面加载完成
-        wait = WebDriverWait(driver, 10)  # 设置最长等待时间为10秒
+        wait = WebDriverWait(driver, 5)  # 设置最长等待时间为10秒
         input = wait.until(EC.visibility_of_element_located((By.XPATH, "//input[@class='search-input']")))
         # input = driver.find_element(By.XPATH, "//input[@class='search-input']")
         # 输入搜索内容
@@ -74,10 +80,61 @@ class ResumeCrawl:
             print(f"resume_url[{index}]={resume_url}")
         return resume_urls
 
-    def step_two_get_every_resume_content(self, resume_urls):
+    def step_two_open_multi_tab(self, resume_urls):
         # 打开新标签页
-        self.driver.execute_script("window.open('{}', '_blank')".format(resume_urls[0]))
+        driver = self.driver
+        # 浏览器打开新标签
+        for resume_url in resume_urls[:3]:
+            driver.execute_script("window.open('{}', '_blank')".format(resume_url))
+        # 处理每个打开的标签页
+        window_handles = driver.window_handles
+        for handle in window_handles:
+            # 切换到标签页
+            try:
+                driver.switch_to.window(handle)   
+                wait = WebDriverWait(driver, 5)
+                wait.until(EC.visibility_of_element_located((By.XPATH,"//div[@id='resume_detail_page_wrap']")))
+                print(f"--------title={driver.title}----------")
+                # if "猎聘企业版" in driver.title:
+                #     continue
+                person = Person()
+                person.name = driver.title
+                self.person_list.append(person)
+                self.step_three_get_resume_content(wait, person)
+            except TimeoutException as e:
+                print(f"process handle of window occurs error ={e}")
+
+            
+                
+
+    def step_three_get_resume_content(self, wait, person):    
+        # 提取个人总结，summary
+        summary_element = wait.until(EC.visibility_of_element_located \
+                                     ((By.XPATH, "//div[contains(@class, 'jsx-') \
+                                       and contains(@class,' c-wrap') \
+                                       and span[contains(@class, 'jsx-')]]")))
+        summary = summary_element.text
+        print(f">>> personal summary ={summary}")
+        person.summary = summary
+        # 提取详细内容 content_element
+        content_elements = wait.until(EC.visibility_of_all_elements_located \
+                                     ((By.XPATH, "//section[contains(@class,'c-content-wrap')]")))
+        for content_element in content_elements:
+            content = content_element.text
+            print(f">>> personal content ={content}")
+            person.content_list.append(content)
+        
         print("未完待续")
+
+
+class Person:
+    def __init__(self):
+        self.name = None
+        self.summary = None
+        self.content_list = []
+
+    def __str__(self):
+        return f"Person: name={self.name}, summary={self.summary}, content_list={self.content_list}"
 
 # 配置日志记录
 # logging.basicConfig(level=logging.DEBUG,  # 设置日志级别（DEBUG、INFO、WARNING、ERROR、CRITICAL）
@@ -124,6 +181,10 @@ if __name__ == '__main__':
     qurey = "嵌入式开发"
     resume_crawl = ResumeCrawl()
     resume_urls = resume_crawl.step_one_query_resume_lists(url, qurey)
-    resume_crawl.step_two_get_every_resume_content(resume_urls)
+    resume_crawl.step_two_open_multi_tab(resume_urls)
+    person_list = resume_crawl.person_list
+    for person in person_list:
+        print(person)
+    resume_crawl.quit()
                                             
 

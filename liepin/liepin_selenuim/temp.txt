@@ -1,0 +1,7 @@
+<li data-resumeidencode="2f9b86d278R315f98aaf3ba" data-resumeurl="https://lpt1.com>
+</li>
+<li data-resumeidencode="2f9b86d278R315f98aaf3ba" data-resumeurl="https://lpt2.com>
+</li>
+<li data-resumeidencode="2f9b86d278R315f98aaf3ba" data-resumeurl="https://lpt3.com>
+</li>
+在selenuim中如何打开新标签的方式，同时打开三个data-resumeurl，并做不同的处理

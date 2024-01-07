@@ -1,0 +1,389 @@
+<aside id="water-mark-wrap" class="jsx-3817459491 c-card-left c-board">
+	<div data-show="true" class="ant-alert ant-alert-info ant-alert-no-icon intention-info xpath-intention-tip" role="alert" data-info="%7B%22guideType%22%3A3%7D">
+		<span class="ant-alert-message">
+			<div class="jsx-3817459491 c-alert-content">
+				<span role="img" class="anticon" style="font-size: 14px; margin-right: 3px;">
+					<svg width="1em" height="1em" viewBox="0 0 14 14" xmlns="http://www.w3.org/2000/svg" fill="currentColor" aria-hidden="true" focusable="false" class="">
+						<path d="M4.378 8.974C2.897 8.129 1.91 6.59 1.91 4.833 1.91 2.163 4.187 0 7 0s5.09 2.164 5.09 4.833c0 1.757-.988 3.296-2.468 4.141a2.449 2.449 0 01-.565 1.15H4.943a2.467 2.467 0 01-.566-1.15h.001zm6.258-3.682A3.66 3.66 0 007 1.612c-.322 0-.485.153-.485.459 0 .076.163.229.485.229 1.553 0 2.91 1.29 2.91 2.992 0 .076.162.23.483.23.08 0 .243-.154.243-.229v-.001zM4.82 11.274c0-.253.216-.458.483-.458h3.396a.47.47 0 01.483.458c0 .254-.216.46-.483.46H5.302a.47.47 0 01-.483-.459v-.001zm4.136 1.152c-.356.68-1.098 1.15-1.955 1.15a2.195 2.195 0 01-1.955-1.15h3.91z" fill="#FF6400" fill-rule="nonzero"/>
+					</svg>
+				</span>
+				<span class="jsx-3817459491">急需联系该人选？试试意向沟通，快速触达，人选信息全了解。</span>
+				<a target="_blank" href="https://msk.liepin.com/intention/order/addorder/?resIdEncode=2b9385de71V38589ca5f6bd&amp;ejobId=&amp;imscid=R000303066" class="jsx-3817459491 c-alert-action xpath-intention-tip-btn">发起意向沟通</a>
+			</div>
+		</span>
+		<span class="ant-alert-description"/>
+	</div>
+	<section class="jsx-1224198851 c-individual">
+		<div class="jsx-1224198851 c-individual-img">
+			<div class="c-special-face-wrap">
+				<img class="c-special-face" src="//image0.lietou-static.com/big/5f8fa3a78dbe6273dcf85e2608u.png" alt="Photo">
+					<div class="c-special-face-mask">
+						<span>查看大图</span>
+					</div>
+				</div>
+				<span role="img" class="anticon c-icon-gender">
+					<svg width="1em" height="1em" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" fill="currentColor" aria-hidden="true" focusable="false" class="">
+						<g fill-rule="nonzero" fill="none">
+							<circle fill="#085DFF" cx="12" cy="12" r="12"/>
+							<path d="M17.538 5.538c.51 0 .924.414.924.924v3.692a.923.923 0 01-1.847 0V8.372l-2.544 2.547a5.54 5.54 0 01-.3 7.108l-.176.183a5.538 5.538 0 11-.88-8.549l2.277-2.277h-1.146a.923.923 0 010-1.846h3.692zm-5.248 6.145a3.692 3.692 0 10-5.222 5.222 3.692 3.692 0 005.222-5.222z" fill="#FFF"/>
+						</g>
+					</svg>
+				</span>
+				<span class="jsx-1224198851" style="display: none;">&lt;img style="display:none;width:0;height:0;" src="https://concat2.lietou-static.com/image/open?sign=cf71f889d8864258df69012ac55d2ad789632804546f2fbc2f604865b0ee0a84e7b41c1d59b70946"&gt;</span>
+			</div>
+			<div class="jsx-1224198851 c-individual-info">
+				<div class="jsx-1224198851 c-individual-name-and-time">
+					<div class="jsx-1224198851 c-individual-info-item">
+						<span title="李**" class="jsx-1224198851 c-name">李**</span>
+					</div>
+					<div class="jsx-1224198851 c-time">
+						<span>更新简历时间</span>：对方设置了隐私保护</div>
+				</div>
+				<div class="jsx-1224198851 c-individual-detail">
+					<div class="jsx-1224198851">
+						<span class="jsx-1012121964 c-info-item">
+							<span class="jsx-1012121964">
+								<span role="img" class="anticon lp-ant-icon-onetonecolor">
+									<svg width="1em" height="1em" viewBox="0 0 14 14" xmlns="http://www.w3.org/2000/svg" fill="currentColor" aria-hidden="true" focusable="false" class="">
+										<path d="M6.928 1.575c2.595 0 5.148 1.861 5.148 4.903 0 2.154-1.359 4.11-4.022 5.867l-.292.189a1.425 1.425 0 01-1.523 0C3.384 10.73 1.925 8.711 1.925 6.478c0-3.05 2.447-4.903 5.003-4.903zm0 .85c-2.13 0-4.153 1.533-4.153 4.053 0 1.895 1.285 3.674 3.918 5.337a.574.574 0 00.611.003l.285-.184c2.444-1.613 3.637-3.33 3.637-5.156 0-2.504-2.125-4.053-4.298-4.053zM7 5.6a.9.9 0 110 1.8.9.9 0 010-1.8z" fill="#394255" fill-rule="nonzero"/>
+									</svg>
+								</span>
+							</span>
+							<span title="佛山-南海区" class="jsx-1012121964 c-has-icon c-ellipsis" style="max-width: 180px;">佛山-南海区</span>
+						</span>
+						<span class="jsx-1012121964 c-info-item">
+							<span class="jsx-1012121964">
+								<span role="img" class="anticon lp-ant-icon-onetonecolor">
+									<svg width="1em" height="1em" viewBox="0 0 14 14" xmlns="http://www.w3.org/2000/svg" fill="currentColor" aria-hidden="true" focusable="false" class="">
+										<path d="M8.46 1.475c.724 0 1.323.543 1.39 1.242l.007.133-.001.887h.723a1.7 1.7 0 011.694 1.554l.006.147v5.221a1.7 1.7 0 01-1.7 1.7H3.415a1.7 1.7 0 01-1.7-1.7V5.438a1.7 1.7 0 011.7-1.7l.734-.001V2.85c0-.717.556-1.302 1.263-1.369l.134-.006H8.46zm2.12 3.113H3.414a.85.85 0 00-.85.85v5.221c0 .47.38.85.85.85h7.164c.47 0 .85-.38.85-.85V5.438a.85.85 0 00-.85-.85zM8.513 6.105a.486.486 0 110 .972H5.486a.486.486 0 010-.972h3.028zm-.054-3.78H5.546a.54.54 0 00-.54.44L5 2.85l-.001.887h4.007V2.85a.532.532 0 00-.456-.518l-.09-.007z" fill="#394255" fill-rule="evenodd"/>
+									</svg>
+								</span>
+							</span>
+							<span title="工作3年" class="jsx-1012121964 c-has-icon">工作3年</span>
+						</span>
+						<span class="jsx-1012121964 c-info-item">
+							<span class="jsx-1012121964">
+								<span role="img" class="anticon lp-ant-icon-onetonecolor">
+									<svg width="1em" height="1em" viewBox="0 0 14 14" xmlns="http://www.w3.org/2000/svg" fill="currentColor" aria-hidden="true" focusable="false" class="">
+										<path d="M9.5 2.575c.209 0 .382.15.418.349L9.925 3v2.012a3.826 3.826 0 012.5 3.589V11c0 .787-.638 1.425-1.425 1.425H3A1.425 1.425 0 011.575 11V8.6a3.826 3.826 0 012.501-3.588L4.075 5V3a.425.425 0 01.843-.076L4.925 3v1.806c.155-.02.313-.03.474-.03h1.176V3a.425.425 0 01.843-.076L7.425 3v1.776h1.176c.16 0 .32.01.475.03L9.075 3c0-.235.19-.425.425-.425zm-.9 3.052H5.4A2.974 2.974 0 002.424 8.6V11c0 .318.257.575.575.575h8a.575.575 0 00.575-.575V8.6a2.974 2.974 0 00-2.974-2.973zm.9-4.552c.209 0 .382.15.418.349l.007.076v.3a.425.425 0 01-.843.076L9.075 1.8v-.3c0-.235.19-.425.425-.425zm-2.5 0c.209 0 .382.15.418.349l.007.076v.3a.425.425 0 01-.843.076L6.575 1.8v-.3c0-.235.19-.425.425-.425zm-2.5 0c.209 0 .382.15.418.349l.007.076v.3a.425.425 0 01-.843.076L4.075 1.8v-.3c0-.235.19-.425.425-.425z" fill="#394255" fill-rule="nonzero"/>
+									</svg>
+								</span>
+							</span>
+							<span class="jsx-1012121964 c-has-icon">25 <span>岁</span>
+							</span>
+						</span>
+						<span class="jsx-1012121964 c-info-item">
+							<span class="jsx-1012121964">
+								<span role="img" class="anticon lp-ant-icon-onetonecolor">
+									<svg width="1em" height="1em" viewBox="0 0 14 14" xmlns="http://www.w3.org/2000/svg" fill="currentColor" aria-hidden="true" focusable="false" class="">
+										<g fill="#394255" fill-rule="nonzero">
+											<path d="M11.389 3.75H2.61c-.874 0-1.583.709-1.583 1.583v5.556c0 .874.709 1.583 1.583 1.583h8.778c.874 0 1.583-.709 1.583-1.583V5.333c0-.874-.709-1.583-1.583-1.583zm-8.778.944h8.778c.353 0 .639.286.639.64v5.555a.639.639 0 01-.64.639H2.612a.639.639 0 01-.639-.64V5.334c0-.353.286-.639.64-.639z"/>
+											<path d="M8.089 1.528H5.91c-.874 0-1.583.709-1.583 1.583v1.583h5.344V3.111c0-.874-.709-1.583-1.583-1.583zm0 .944l.094.007a.639.639 0 01.545.632l-.001.638H5.272v-.638c0-.353.286-.639.64-.639h2.177zM1.668 5.911c3.918 1.495 7.347 1.545 10.315.167l.305-.148.424.844c-3.185 1.601-6.85 1.653-10.967.173l-.413-.154.336-.882z"/>
+											<path d="M7.048 6.528c.232 0 .424.167.464.387L7.52 7v1.111a.472.472 0 01-.937.085l-.008-.085V7c0-.26.212-.472.473-.472z"/>
+										</g>
+									</svg>
+								</span>
+							</span>
+							<span title="在职，暂无跳槽打算" class="jsx-1012121964 c-has-icon">在职，暂无跳槽打算</span>
+						</span>
+					</div>
+					<div class="jsx-1224198851">
+						<span class="jsx-1012121964 c-info-item">
+							<span class="jsx-1012121964">
+								<span role="img" class="anticon lp-ant-icon-onetonecolor">
+									<svg width="1em" height="1em" viewBox="0 0 14 14" xmlns="http://www.w3.org/2000/svg" fill="currentColor" aria-hidden="true" focusable="false" class="">
+										<path d="M5.819 1.891a2.975 2.975 0 012.362.01l4.01 1.754a1.275 1.275 0 010 2.337l-.767.334.001 3.147c0 .616-.267 1.202-.733 1.605-1.033.897-2.27 1.347-3.692 1.347-1.422 0-2.659-.45-3.692-1.347a2.125 2.125 0 01-.725-1.421l-.008-.184v-3.19L1.8 5.937a1.275 1.275 0 01-.591-.54l-.06-.123a1.275 1.275 0 01.67-1.674zM3.424 6.664l.001 2.809c0 .37.16.72.44.963.877.76 1.915 1.139 3.135 1.139 1.22 0 2.258-.378 3.135-1.139.245-.212.398-.507.433-.826l.007-.137V6.698l-2.37 1.038a2.975 2.975 0 01-2.215.068l-.194-.079-2.372-1.061zM7.84 2.68a2.125 2.125 0 00-1.687-.007l-4 1.709a.425.425 0 00-.006.779L6.144 6.95a2.125 2.125 0 001.72.007l3.986-1.744a.425.425 0 000-.779z" fill="#394255" fill-rule="nonzero"/>
+									</svg>
+								</span>
+							</span>
+							<span class="jsx-1012121964 c-has-icon c-ellipsis" style="max-width: 500px;">
+								<span title="广州航海学院 · 船舶电子电气专业 · 本科" class="jsx-1224198851">广州航海学院 · 船舶电子电气专业 · 本科 · <span>统招</span>
+								</span>
+							</span>
+						</span>
+					</div>
+					<div class="jsx-1224198851 c-contact-info"/>
+				</div>
+				<div class="jsx-1224198851 c-insight">
+					<span class="jsx-1283937356 c-insight-title ant-dropdown-trigger">
+						<span role="img" class="anticon">
+							<svg width="1em" height="1em" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" fill="currentColor" aria-hidden="true" focusable="false" class="">
+								<defs>
+									<linearGradient x1="92.9%" y1="4.796%" x2="10.332%" y2="92.994%" id="insight_svg__a">
+										<stop stop-color="#3279FF" offset="0%"/>
+										<stop stop-color="#085DFF" offset="100%"/>
+									</linearGradient>
+								</defs>
+								<g fill="none" fill-rule="evenodd">
+									<path d="M8 0h16a8 8 0 018 8v16a8 8 0 01-8 8H8a8 8 0 01-8-8V8a8 8 0 018-8z" fill="url(#insight_svg__a)" opacity="0.049"/>
+									<path d="M4 4h24v24H4V4z"/>
+									<path d="M20.38 6c2.436 0 4.423 1.929 4.55 4.353l.006.215.036 4.515a1 1 0 01-1.993.132l-.007-.116-.036-4.516c-.01-1.375-1.064-2.49-2.39-2.578L20.38 8h-8.824C10.2 8 9.089 9.074 9.005 10.435L9 10.6v9.9c0 1.871 1.444 3.395 3.256 3.495l.189.005h3.387a1 1 0 01.117 1.993l-.117.007h-3.387c-2.937 0-5.326-2.346-5.44-5.279L7 20.5v-9.9c0-2.465 1.922-4.482 4.341-4.595L11.556 6h8.824zm.12 10.91a3.9 3.9 0 013.305 5.971l1.204 1.205a.9.9 0 11-1.273 1.273l-1.214-1.213A3.9 3.9 0 1120.5 16.91zm0 1.8a2.1 2.1 0 100 4.2 2.1 2.1 0 000-4.2zM15 14.67a1 1 0 01.117 1.993l-.117.007h-2.9a1 1 0 01-.117-1.994l.117-.006H15zm4.44-4.04a1 1 0 01.117 1.994l-.117.007H12.1a1 1 0 01-.117-1.994l.117-.006h7.34z" fill="#085DFF"/>
+								</g>
+							</svg>
+						</span>
+					</span>
+				</div>
+			</div>
+		</section>
+		<div class="jsx-3260779692 c-wrap">1.使用过stm32、泰凌、富芮坤、博通、辉芒、九齐、华芯等多款多品牌芯片，能快速熟悉新ic特性并完成工作；
+2. 有机器人行业经验，熟悉电机驱动，写过有感FOC算法，熟悉pid，熟悉imu传感器及相关滤波算法；
+3. 能力较为全面，能独立完成mcu开发、pcb绘制和上位机编写；<span class="jsx-3260779692"/>
+			<span class="jsx-3260779692 c-btn-more xpath-resume-highlights-btn">展开</span>
+		</div>
+		<section class="jsx-1527519663 c-content-wrap c-no-divider">
+			<header class="jsx-1527519663">
+				<span class="jsx-1527519663">
+					<span>求职意向</span>
+				</span>
+			</header>
+			<div class="jsx-1527519663">
+				<div class="jsx-3687365166 c-wrap">
+					<button class="jsx-3687365166 c-btn resume-detail-btn-light xpath-job-seeking-intention-btn">查看全部3个</button>
+					<ul class="jsx-3687365166 c-hide-more-want">
+						<li class="jsx-3687365166">
+							<p class="jsx-3687365166" style="display: flex;">
+								<span title="销售工程师" class="jsx-3687365166 c-text-divider">销售工程师</span>
+								<span title="佛山" class="jsx-3687365166 c-text-divider">佛山</span>
+								<span data-selector="resume_detail_page_expect_income" class="jsx-3687365166 c-text-divider">18-25k×13薪</span>
+							</p>
+							<div class="jsx-3687365166 c-tag-box">
+								<span title="全部行业" class="jsx-2015731650 " style="max-width: 168px;">全部行业</span>
+							</div>
+						</li>
+						<li class="jsx-3687365166">
+							<p class="jsx-3687365166" style="display: flex;">
+								<span title="硬件工程师" class="jsx-3687365166 c-text-divider">硬件工程师</span>
+								<span title="佛山" class="jsx-3687365166 c-text-divider">佛山</span>
+								<span data-selector="resume_detail_page_expect_income" class="jsx-3687365166 c-text-divider">12-24k×12薪</span>
+							</p>
+							<div class="jsx-3687365166 c-tag-box">
+								<span title="全部行业" class="jsx-2015731650 " style="max-width: 168px;">全部行业</span>
+							</div>
+						</li>
+						<li class="jsx-3687365166">
+							<p class="jsx-3687365166" style="display: flex;">
+								<span title="嵌入式软件开发" class="jsx-3687365166 c-text-divider">嵌入式软件开发</span>
+								<span title="佛山" class="jsx-3687365166 c-text-divider">佛山</span>
+								<span data-selector="resume_detail_page_expect_income" class="jsx-3687365166 c-text-divider">12-24k×12薪</span>
+							</p>
+							<div class="jsx-3687365166 c-tag-box">
+								<span title="全部行业" class="jsx-2015731650 " style="max-width: 168px;">全部行业</span>
+							</div>
+						</li>
+					</ul>
+				</div>
+			</div>
+		</section>
+		<section class="jsx-1527519663 c-content-wrap">
+			<header class="jsx-1527519663">
+				<span class="jsx-1527519663">
+					<span>工作经历</span>
+				</span>
+			</header>
+			<div class="jsx-1527519663">
+				<div class="jsx-2046868313 xpath-work-experience">
+					<div class="jsx-2046868313 c-work-cont">
+						<img src="https://image0.lietou-static.com/bg_white_120x120/629888a9da1d7020f1d29e1f08u.png" alt="logo" class="jsx-2046868313 c-logo">
+							<div class="jsx-2046868313 c-content">
+								<header class="jsx-2046868313 c-header">
+									<div id="company_name_for_guide" class="jsx-2046868313">
+										<h2 class="jsx-2046868313 xpath-work-cont-company">
+											<span class="ant-typography ant-typography-ellipsis ant-typography-ellipsis-single-line">广东广宇科技发展有限公司</span>
+											<span role="img" class="anticon c-open-detail xpath-company-detail-btn">
+												<svg width="1em" height="1em" viewBox="0 0 18 18" xmlns="http://www.w3.org/2000/svg" fill="currentColor" aria-hidden="true" focusable="false" class="">
+													<g fill="none" fill-rule="evenodd">
+														<path d="M6 0h6a6 6 0 016 6v6a6 6 0 01-6 6H6a6 6 0 01-6-6V6a6 6 0 016-6z" fill="#F0F6FF"/>
+														<path d="M8.633 4c2.558 0 4.632 2.066 4.632 4.615a4.588 4.588 0 01-1.172 3.07l1.772 1.763a.495.495 0 01.058.632l-.057.068-.001.002a.499.499 0 01-.705 0l-1.806-1.799a4.623 4.623 0 01-2.721.88C6.074 13.23 4 11.164 4 8.615 4 6.066 6.074 4 8.633 4zm0 1A3.624 3.624 0 005 8.615a3.624 3.624 0 003.633 3.616 3.624 3.624 0 003.632-3.616A3.624 3.624 0 008.633 5z" fill="#085DFF"/>
+													</g>
+												</svg>
+											</span>
+										</h2>
+										<h3 class="jsx-2046868313 c-company-position">
+											<span class="ant-typography ant-typography-ellipsis ant-typography-ellipsis-single-line">嵌入式开发工程师</span>
+										</h3>
+									</div>
+									<p class="jsx-2046868313 c-time">2022.08-至今 (1年2个月)</p>
+								</header>
+								<p class="jsx-2046868313 c-more-info">
+									<span class="jsx-2046868313 c-text-divider">产品中心</span>
+								</p>
+								<p class="jsx-2046868313 c-detail-content">1.	参与管道机器人的需求分析及方案制定，独立负责全部的嵌入式软件模块的详细设计及代码实现；
+2.	独立负责管道机器人的底盘和收线车的OTA功能及配套上位机编写；
+3.	独立负责管道机器人测试上位机的编写；
+4.	配合硬件工程师和测试工程师验证方案、测试产品；
+5.	编写相关通信协议文档，配合上位机工程师编写上位机；</p>
+							</div>
+						</div>
+						<div class="ask-about-wrap ask-about-wrap-work">
+							<div class="content">
+								<span role="img" class="anticon" style="font-size: 14px; margin-right: 8px;">
+									<svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 14 14" fill="currentColor" aria-hidden="true" focusable="false" class="">
+										<path d="M1.75 5.243c0-1.442.511-2.667 1.533-3.696C4.305.517 5.537.007 6.986.007c1.45 0 2.688.51 3.717 1.54 1.03 1.029 1.547 2.26 1.547 3.696 0 .196-.007.399-.028.602-.035.035-.028.105-.028.133l-.084.49c-.035 0-.028.049-.028.084-.056.182-.112.35-.16.49v.028l-.029.028c-.077.196-.147.378-.217.518 0 .02-.007.028-.028.028a4.173 4.173 0 01-.3.518c-.113.16-.225.329-.358.49l-.014.014-.014.014a3.993 3.993 0 01-.385.385s-.014.007-.042.028c-.07.049-.077.09-.154.16-.035 0-.084.022-.084.057l-.259.203-.056.042-.042.028c-.16.133-.28.273-.357.434-.077.16-.14.28-.217.357-.077.077-.21.112-.413.112h-3.94c-.197 0-.337-.035-.414-.112a1.207 1.207 0 01-.23-.357 1.447 1.447 0 00-.344-.434c-.02 0-.035-.007-.056-.028l-.042-.042-.259-.203-.084-.056-.112-.112-.084-.084-.385-.385-.014-.014-.014-.014a7.11 7.11 0 01-.658-1.008c-.02 0-.028-.007-.028-.028a3.732 3.732 0 01-.217-.518c-.02 0-.028-.007-.028-.028v-.028a4.478 4.478 0 01-.16-.49s-.008-.014-.015-.042l-.014-.042a3.933 3.933 0 01-.084-.49c0-.035-.028-.105-.028-.133.014-.196.007-.4.007-.595zm3.087 6.11h4.375a.42.42 0 01.434.435.42.42 0 01-.434.434H4.837a.425.425 0 01-.44-.434.429.429 0 01.44-.434zm.196 1.744h3.962l-1.61.819a.973.973 0 01-.79 0l-1.562-.82zm2.43-10.48c.524 0 1.021.21 1.49.645.462.427.7.959.7 1.596a.44.44 0 00.434.434.447.447 0 00.441-.434c0-.945-.308-1.701-.93-2.268-.624-.567-1.33-.847-2.136-.847a.425.425 0 00-.44.434c.006.259.188.44.44.44z" fill="url(#info_svg__paint0_linear_481_6242)"/>
+										<defs>
+											<linearGradient id="info_svg__paint0_linear_481_6242" x1="2.5" y1="0.5" x2="11.5" y2="13.5" gradientUnits="userSpaceOnUse">
+												<stop stop-color="#085DFF" stop-opacity="0.3"/>
+												<stop offset="1" stop-color="#085DFF" stop-opacity="0.9"/>
+											</linearGradient>
+										</defs>
+									</svg>
+								</span>最近两份工作平均在职时间不足1年</div>
+							<div data-info="%7B%22text%22%3A%22%E6%9C%80%E8%BF%91%E4%B8%A4%E4%BB%BD%E5%B7%A5%E4%BD%9C%E5%B9%B3%E5%9D%87%E5%9C%A8%E8%81%8C%E6%97%B6%E9%97%B4%E4%B8%8D%E8%B6%B31%E5%B9%B4%22%7D" class="open-chat-btn">询问TA</div>
+						</div>
+						<div class="jsx-2046868313 c-work-cont">
+							<img src="https://image0.lietou-static.com/bg_white_120x120/6539cdd75ba6a700f6fb98a303u.png" alt="logo" class="jsx-2046868313 c-logo">
+								<div class="jsx-2046868313 c-content">
+									<header class="jsx-2046868313 c-header">
+										<div id="" class="jsx-2046868313">
+											<h2 class="jsx-2046868313 xpath-work-cont-company">
+												<span class="ant-typography ant-typography-ellipsis ant-typography-ellipsis-single-line">深圳市矽昊智能科技有限公司</span>
+												<span role="img" class="anticon c-open-detail xpath-company-detail-btn">
+													<svg width="1em" height="1em" viewBox="0 0 18 18" xmlns="http://www.w3.org/2000/svg" fill="currentColor" aria-hidden="true" focusable="false" class="">
+														<g fill="none" fill-rule="evenodd">
+															<path d="M6 0h6a6 6 0 016 6v6a6 6 0 01-6 6H6a6 6 0 01-6-6V6a6 6 0 016-6z" fill="#F0F6FF"/>
+															<path d="M8.633 4c2.558 0 4.632 2.066 4.632 4.615a4.588 4.588 0 01-1.172 3.07l1.772 1.763a.495.495 0 01.058.632l-.057.068-.001.002a.499.499 0 01-.705 0l-1.806-1.799a4.623 4.623 0 01-2.721.88C6.074 13.23 4 11.164 4 8.615 4 6.066 6.074 4 8.633 4zm0 1A3.624 3.624 0 005 8.615a3.624 3.624 0 003.633 3.616 3.624 3.624 0 003.632-3.616A3.624 3.624 0 008.633 5z" fill="#085DFF"/>
+														</g>
+													</svg>
+												</span>
+											</h2>
+											<h3 class="jsx-2046868313 c-company-position">
+												<span class="ant-typography ant-typography-ellipsis ant-typography-ellipsis-single-line">嵌入式软件工程师</span>
+											</h3>
+										</div>
+										<p class="jsx-2046868313 c-time">2022.01-2022.06 (5个月)</p>
+									</header>
+									<p class="jsx-2046868313 c-more-info"/>
+									<p class="jsx-2046868313 c-detail-content">1.基于 sdk 进行开发，独立负责红外遥控器、空调遥控器、蓝牙语音遥控器等项目的编写。
+2.负责老项目的维护及新功能编写。及时响应客户反馈，修复 bug 及实现如陀螺仪校准、一键拷贝等新功能。</p>
+								</div>
+							</div>
+							<div class="jsx-2046868313 c-work-cont">
+								<img src="https://image0.lietou-static.com/bg_white_120x120/61b07937d0458d53c627567e02u.jpg" alt="logo" class="jsx-2046868313 c-logo">
+									<div class="jsx-2046868313 c-content">
+										<header class="jsx-2046868313 c-header">
+											<div id="" class="jsx-2046868313">
+												<h2 class="jsx-2046868313 xpath-work-cont-company">
+													<span class="ant-typography ant-typography-ellipsis ant-typography-ellipsis-single-line">佛山云芯电子科技有限公司</span>
+													<span role="img" class="anticon c-open-detail xpath-company-detail-btn">
+														<svg width="1em" height="1em" viewBox="0 0 18 18" xmlns="http://www.w3.org/2000/svg" fill="currentColor" aria-hidden="true" focusable="false" class="">
+															<g fill="none" fill-rule="evenodd">
+																<path d="M6 0h6a6 6 0 016 6v6a6 6 0 01-6 6H6a6 6 0 01-6-6V6a6 6 0 016-6z" fill="#F0F6FF"/>
+																<path d="M8.633 4c2.558 0 4.632 2.066 4.632 4.615a4.588 4.588 0 01-1.172 3.07l1.772 1.763a.495.495 0 01.058.632l-.057.068-.001.002a.499.499 0 01-.705 0l-1.806-1.799a4.623 4.623 0 01-2.721.88C6.074 13.23 4 11.164 4 8.615 4 6.066 6.074 4 8.633 4zm0 1A3.624 3.624 0 005 8.615a3.624 3.624 0 003.633 3.616 3.624 3.624 0 003.632-3.616A3.624 3.624 0 008.633 5z" fill="#085DFF"/>
+															</g>
+														</svg>
+													</span>
+												</h2>
+												<h3 class="jsx-2046868313 c-company-position">
+													<span class="ant-typography ant-typography-ellipsis ant-typography-ellipsis-single-line">单片机</span>
+												</h3>
+											</div>
+											<p class="jsx-2046868313 c-time">2020.06-2021.12 (1年6个月)</p>
+										</header>
+										<p class="jsx-2046868313 c-more-info"/>
+										<p class="jsx-2046868313 c-detail-content">独立负责小家电类、工业类产品的单片机程序编写及后期批量相关问题的解决。
+批量做过小夜灯、消毒灯、按摩仪、锅炉控制板、汽车防盗器、吸料机控制板、彩灯带控制板等多款产品。
+在实际项目中使用过433、315、iic、spi 、红外、段码式液晶屏、数码管、ws2812等，能根据数据手册中给出的时序图或外设原理快速写出底层驱动并实现项目功能。</p>
+									</div>
+								</div>
+							</div>
+						</div>
+					</section>
+					<section class="jsx-1527519663 c-content-wrap">
+						<header class="jsx-1527519663">
+							<span class="jsx-1527519663">
+								<span>教育经历</span>
+							</span>
+						</header>
+						<div class="jsx-1527519663">
+							<div class="jsx-585882223 c-wrap xpath-education-experience-wrap">
+								<ul class="jsx-585882223 c-education-cont">
+									<li class="jsx-585882223">
+										<dl class="jsx-585882223 c-education-cont-item">
+											<dt class="jsx-585882223 c-school-logo">
+												<img src="https://bdfe.liepin.com/school/a273d83a149d41418e6f29a7da14cb07.jpg" alt="" class="jsx-585882223"/>
+												<dd class="jsx-585882223 c-education-cont-content">
+													<p class="jsx-585882223 c-school-info-header">
+														<span title="广州航海学院" class="jsx-585882223 c-school-name">广州航海学院</span>
+														<span class="jsx-585882223 c-tag-box">
+															<span class="jsx-2015731650 ">
+																<span>统招</span>
+															</span>
+														</span>
+														<time class="jsx-585882223 c-time">2016.09-2020.06 (4年)</time>
+													</p>
+													<p class="jsx-585882223 c-edu-other-info">
+														<span class="jsx-585882223 c-edu-other-info-item">船舶电子电气专业</span>
+														<span class="jsx-585882223 c-edu-other-info-item">本科</span>
+													</p>
+												</dd>
+											</dl>
+										</li>
+									</ul>
+								</div>
+							</div>
+						</section>
+						<section class="jsx-1527519663 c-content-wrap">
+							<header class="jsx-1527519663">
+								<span class="jsx-1527519663">
+									<span>技能标签</span>
+								</span>
+							</header>
+							<div class="jsx-1527519663">
+								<div class="jsx-155300808 c-wrap">
+									<span class="jsx-155300808 c-tag c-tag-auto-width">c++</span>
+									<span class="jsx-155300808 c-tag c-tag-auto-width">keil</span>
+									<span class="jsx-155300808 c-tag c-tag-auto-width">arm开发</span>
+									<span class="jsx-155300808 c-tag c-tag-auto-width">单片机开发</span>
+									<span class="jsx-155300808 c-tag c-tag-auto-width">altium designer</span>
+								</div>
+							</div>
+						</section>
+						<section class="jsx-1527519663 c-content-wrap">
+							<header class="jsx-1527519663">
+								<span class="jsx-1527519663">
+									<span>语言能力</span>
+								</span>
+							</header>
+							<div class="jsx-1527519663">
+								<div class="jsx-155300808 c-wrap">
+									<span class="jsx-155300808 c-tag xpath-language-tag">普通话</span>
+									<span class="jsx-155300808 c-tag xpath-language-tag">粤语(同声翻译)</span>
+								</div>
+							</div>
+						</section>
+						<section class="jsx-1527519663 c-content-wrap">
+							<header class="jsx-1527519663">
+								<span class="jsx-1527519663">
+									<span>附加信息</span>
+								</span>
+							</header>
+							<div class="jsx-1527519663">
+								<p class="jsx-1904503980 c-attach-info xpath-attach-info-title">计算机四级（嵌入式方向）</p>
+							</div>
+						</section>
+						<div id="portfolio-wrap" data-info="%7B%22type%22%3A2%7D" class="xpath-portfolio-wrap">
+							<section class="jsx-1527519663 c-content-wrap">
+								<header class="jsx-1527519663">
+									<span class="jsx-1527519663">
+										<span>附件简历/作品</span>
+									</span>
+								</header>
+								<div class="jsx-1527519663">
+									<div class="no-authorization-wrap-gray xpath-no-authorization-wrap-gray">
+										<div class="avatar-top">
+											<p>TA上传了附件简历/作品，点击开聊向TA索要</p>
+										</div>
+										<button type="button" class="ant-btn ant-btn-primary">
+											<span>向TA索要</span>
+										</button>
+									</div>
+								</div>
+							</section>
+						</div>
+						<div class="jsx-535538350 c-warp">
+							<span class="jsx-535538350 c-btn resume-detail-btn-text xpath-copy-resId-btn">
+								<span class="jsx-535538350">简历编号</span>
+								<span class="jsx-535538350">: 2b9385de71V38589ca5f6bd</span>
+							</span>
+						</div>
+						<div class="gmzvwghlk" style="height: inherit !important; background-color: transparent !important; transform: inherit !important; visibility: visible !important; display: block !important; position: absolute !important; z-index: 99 !important; opacity: 1 !important; top: 0 !important; left: 0 !important; right: 0 !important; bottom: 0 !important; pointer-events: none !important; background-repeat: repeat !important; background-image: url(data:image/png;base64,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) !important;"/>
+					</aside>

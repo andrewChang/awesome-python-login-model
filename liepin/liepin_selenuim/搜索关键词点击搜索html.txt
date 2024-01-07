@@ -1,0 +1,2333 @@
+<ul class="resume-list">
+	<li data-resumeidencode="2d938ed2742cI37589da3f5b6" data-resumeurl="https://lpt.liepin.com/cvview/showresumedetail?resIdEncode=2d938ed2742cI37589da3f5b6&amp;sfrom=R_SEARCH_CONDITION&amp;ck_id=cae454c1-2c43-45f6-937d-5b81bb21cc10&amp;sk_id=cae454c1-2c43-45f6-937d-5b81bb21cc10&amp;fk_id=cae454c1-2c43-45f6-937d-5b81bb21cc10&amp;sv=abtest-page-search_resume-new&amp;st=0&amp;cur_page=0&amp;page_size=20&amp;auth_status=0&amp;res_source=1&amp;index=0&amp;position=1&amp;sss=57aae4b07062d61a197b99097930b0eb&amp;sScene=49382s7WS&amp;dqCode=&amp;jobtitleCode=N000046" data-info="%7B%22sfrom%22%3A%22R_SEARCH_CONDITION%22%7D" class="resumecard-new-li-wrap">
+		<label class="checkbox-box ant-checkbox-wrapper">
+			<span class="ant-checkbox">
+				<input type="checkbox" class="ant-checkbox-input" value="2d938ed2742cI37589da3f5b6">
+					<span class="ant-checkbox-inner"/>
+				</span>
+			</label>
+			<div class="clearfix resume-card resume-card-container resume-card-new resume-card-new-2d938ed2742cI37589da3f5b6" data-info="%7B%22res_id%22%3A%222d938ed2742cI37589da3f5b6%22%2C%22sk_id%22%3A%22cae454c1-2c43-45f6-937d-5b81bb21cc10%22%2C%22ck_id%22%3A%22cae454c1-2c43-45f6-937d-5b81bb21cc10%22%2C%22fk_id%22%3A%22cae454c1-2c43-45f6-937d-5b81bb21cc10%22%2C%22res_source%22%3A%221%22%2C%22sfrom%22%3A%22R_SEARCH_CONDITION%22%2C%22shield_flag%22%3A0%7D">
+				<div class="new-search-card-container">
+					<div class="new-search-left">
+						<div class="new-resume-status">
+							<div class="">
+								<img class="new-resume-logo" src="//image0.lietou-static.com/big/5f8fa3a6f6d1ab58476f322808u.png" alt="头像"/>
+								<span class="new-resume-offline new-resume-offline-active">
+									<em>今天活跃</em>
+								</span>
+							</div>
+							<div class="new-resume-personal" style="width: 312px;">
+								<div class="new-resume-personal-name">
+									<em>赵**</em>
+									<span role="img" class="anticon" style="margin-left: 8px; font-size: 16px;">
+										<svg width="1em" height="1em" viewBox="0 0 16 17" xmlns="http://www.w3.org/2000/svg" fill="currentColor" aria-hidden="true" focusable="false" class="">
+											<g transform="translate(0 .41)" fill="none" fill-rule="evenodd">
+												<ellipse fill="#085DFF" opacity="0.2" cx="8" cy="8.268" rx="7.429" ry="7.677"/>
+												<g fill-rule="nonzero" stroke="#085DFF" stroke-width="1.2">
+													<path d="M7.04 12.366c1.507 0 2.727-1.257 2.727-2.808 0-1.55-1.22-2.808-2.726-2.808S4.315 8.007 4.315 9.558s1.22 2.808 2.726 2.808z"/>
+													<path stroke-linecap="square" d="M8.625 7.103l1.29-1.763"/>
+													<path stroke-linecap="round" d="M8 4.578h2.496l.78 2.172"/>
+												</g>
+											</g>
+										</svg>
+									</span>
+								</div>
+								<div class="new-resume-personal-detail">
+									<span title="25岁" class="personal-detail-age" style="max-width: 50px;">25岁</span>
+									<span title="2024年毕业" class="personal-detail-workyears" style="max-width: 78px;">2024年毕业</span>
+									<span title="硕士" class="personal-detail-edulevel" style="max-width: 78px;">硕士</span>
+									<span title="天津" class="personal-detail-dq">天津</span>
+								</div>
+								<div class="new-resume-personal-expect">
+									<em>求职期望：</em>
+									<span title="武汉  嵌入式开发" class="personal-expect-content">
+										<span>武汉</span>
+										<span>嵌入式开发</span>
+									</span>
+								</div>
+								<div class="new-resume-personal-skills">
+									<span>仪器仪表</span>
+									<span>C/C++</span>
+									<span>C语言</span>
+								</div>
+							</div>
+						</div>
+						<div class="new-search-right">
+							<div class="new-resume-right-item new-resume-work" style="width: 594px;">
+								<div class="new-resume-work-item">
+									<span role="img" class="anticon" style="margin-right: 6px; font-size: 19px;">
+										<svg width="1em" height="1em" viewBox="0 0 19 19" xmlns="http://www.w3.org/2000/svg" fill="currentColor" aria-hidden="true" focusable="false" class="">
+											<g fill="none" fill-rule="evenodd">
+												<path d="M0 0h19v19H0z"/>
+												<path d="M9.883 4.31c.078.213.117.438.117.664v8.052h1v-5.34a.993.993 0 011-.988c.15 0 .296.033.431.097l1.862.878A2.957 2.957 0 0116 10.343v2.684c0 1.09-.895 1.973-2 1.973h-3v-.001h-1V15H5c-1.105 0-2-.883-2-1.973v-6.3c0-1.252.797-2.368 1.991-2.788l2.336-.824A2.007 2.007 0 019.883 4.31zM7.5 10.067h-2c-.276 0-.5.22-.5.493 0 .242.177.444.41.486l.09.007h2c.276 0 .5-.22.5-.493a.497.497 0 00-.5-.493zm6 0h-1c-.276 0-.5.22-.5.493 0 .242.177.444.41.486l.09.007h1c.276 0 .5-.22.5-.493a.497.497 0 00-.5-.493zm-6-2.96h-2c-.276 0-.5.22-.5.493 0 .242.177.444.41.486l.09.008h2c.276 0 .5-.221.5-.494a.497.497 0 00-.5-.493z" fill="#D3DAE5" fill-rule="nonzero"/>
+											</g>
+										</svg>
+									</span>
+									<div class="work-item-content">
+										<span title="北京锐达仪表有限公司" class="work-item-compname" style="max-width: 252px;">北京锐达仪表有限公司</span>
+										<em>·</em>
+										<span class="work-item-extra">
+											<span title="嵌入式开发">
+												<span data-selector="keyword_嵌入式开发" class="jsx-3110714573 c-highlight">嵌入式开发</span>
+											</span>
+											<span title="2023.07-2023.09(2个月)" class="work-item-content-duration">2023.07-2023.09(2个月)</span>
+										</span>
+									</div>
+								</div>
+								<div class="new-resume-work-item work-item-content-icon">
+									<div class="work-item-content">
+										<span title="青岛德林科姆电子科技有限公司" class="work-item-compname" style="max-width: 252px;">青岛德林科姆电子科技有限公司</span>
+										<em>·</em>
+										<span class="work-item-extra">
+											<span title="教育机器人开发">教育机器人开发</span>
+											<span title="2018.07-2018.08(1个月)" class="work-item-content-duration">2018.07-2018.08(1个月)</span>
+										</span>
+									</div>
+								</div>
+							</div>
+							<div class="new-resume-right-item new-resume-edu" style="width: 594px;">
+								<div class="new-resume-edu-item">
+									<span role="img" class="anticon" style="margin-right: 6px; font-size: 19px;">
+										<svg width="1em" height="1em" viewBox="0 0 19 19" xmlns="http://www.w3.org/2000/svg" fill="currentColor" aria-hidden="true" focusable="false" class="">
+											<g fill="none" fill-rule="evenodd">
+												<path d="M0 0h19v19H0z"/>
+												<path d="M5.004 9.93c.072 0 .143.016.209.047l2.197 1.045a4.85 4.85 0 004.18 0l2.197-1.045a.493.493 0 01.663.253.53.53 0 01.046.216v1.122a2.08 2.08 0 01-.97 1.77l-1.528.947a4.722 4.722 0 01-4.996 0l-1.528-.947a2.08 2.08 0 01-.97-1.77v-1.122c0-.285.224-.517.5-.517zm2.112-5.432a5.819 5.819 0 014.76.021L15.4 6.113a1.046 1.046 0 010 1.892l-3.47 1.568a5.82 5.82 0 01-4.853-.02L3.591 7.938a1.045 1.045 0 01.016-1.892v.001z" fill="#D3DAE5" fill-rule="nonzero"/>
+											</g>
+										</svg>
+									</span>
+									<div title="华东交通大学 · 电子信息 · 硕士 · 统招 2021.09-2024.06(3年)" class="edu-item-content">
+										<span>华东交通大学</span>
+										<em>·</em>
+										<span>电子信息</span>
+										<em>·</em>
+										<span>硕士</span>
+										<em>·</em>
+										<span>统招</span>
+										<span class="edu-item-content-duration">2021.09-2024.06(3年)</span>
+									</div>
+								</div>
+								<div class="new-resume-edu-item edu-item-content-icon">
+									<div title="青岛理工大学琴岛学院(现青岛城市学院) · 电气工程及其自动化 · 本科 · 统招 2017.09-2021.06(4年)" class="edu-item-content">
+										<span>青岛理工大学琴岛学院(现青岛城市学院)</span>
+										<em>·</em>
+										<span>电气工程及其自动化</span>
+										<em>·</em>
+										<span>本科</span>
+										<em>·</em>
+										<span>统招</span>
+										<span class="edu-item-content-duration">2017.09-2021.06(4年)</span>
+									</div>
+								</div>
+							</div>
+						</div>
+						<button type="button" class="ant-btn resume-item-chat ant-btn-sm">
+							<span>立即沟通</span>
+						</button>
+					</div>
+				</div>
+			</li>
+			<li data-resumeidencode="2b9f82da7eB385c9ea2fabf" data-resumeurl="https://lpt.liepin.com/cvview/showresumedetail?resIdEncode=2b9f82da7eB385c9ea2fabf&amp;sfrom=R_SEARCH_CONDITION&amp;ck_id=cae454c1-2c43-45f6-937d-5b81bb21cc10&amp;sk_id=cae454c1-2c43-45f6-937d-5b81bb21cc10&amp;fk_id=cae454c1-2c43-45f6-937d-5b81bb21cc10&amp;sv=abtest-page-search_resume-new&amp;st=0&amp;cur_page=0&amp;page_size=20&amp;auth_status=0&amp;res_source=1&amp;index=1&amp;position=2&amp;sss=1ec9426ed6a8ecee4bfaf297d53f9d55&amp;sScene=49382s7WS&amp;dqCode=&amp;jobtitleCode=N000046" data-info="%7B%22sfrom%22%3A%22R_SEARCH_CONDITION%22%7D" class="resumecard-new-li-wrap">
+				<label class="checkbox-box ant-checkbox-wrapper">
+					<span class="ant-checkbox">
+						<input type="checkbox" class="ant-checkbox-input" value="2b9f82da7eB385c9ea2fabf">
+							<span class="ant-checkbox-inner"/>
+						</span>
+					</label>
+					<div class="clearfix resume-card resume-card-container resume-card-new resume-card-new-2b9f82da7eB385c9ea2fabf" data-info="%7B%22res_id%22%3A%222b9f82da7eB385c9ea2fabf%22%2C%22sk_id%22%3A%22cae454c1-2c43-45f6-937d-5b81bb21cc10%22%2C%22ck_id%22%3A%22cae454c1-2c43-45f6-937d-5b81bb21cc10%22%2C%22fk_id%22%3A%22cae454c1-2c43-45f6-937d-5b81bb21cc10%22%2C%22res_source%22%3A%221%22%2C%22sfrom%22%3A%22R_SEARCH_CONDITION%22%2C%22shield_flag%22%3A0%7D">
+						<div class="new-search-card-container">
+							<div class="new-search-left">
+								<div class="new-resume-status">
+									<div class="">
+										<img class="new-resume-logo" src="//image0.lietou-static.com/big/5f8fa3a9dfb13a7dee343d4808u.png" alt="头像"/>
+										<span class="new-resume-offline">
+											<em>7天内活跃</em>
+										</span>
+									</div>
+									<div class="new-resume-personal" style="width: 312px;">
+										<div class="new-resume-personal-name">
+											<em>任**</em>
+											<span role="img" class="anticon" style="margin-left: 8px; font-size: 16px;">
+												<svg width="1em" height="1em" viewBox="0 0 16 17" xmlns="http://www.w3.org/2000/svg" fill="currentColor" aria-hidden="true" focusable="false" class="">
+													<g transform="translate(0 .41)" fill="none" fill-rule="evenodd">
+														<ellipse fill="#085DFF" opacity="0.2" cx="8" cy="8.268" rx="7.429" ry="7.677"/>
+														<g fill-rule="nonzero" stroke="#085DFF" stroke-width="1.2">
+															<path d="M7.04 12.366c1.507 0 2.727-1.257 2.727-2.808 0-1.55-1.22-2.808-2.726-2.808S4.315 8.007 4.315 9.558s1.22 2.808 2.726 2.808z"/>
+															<path stroke-linecap="square" d="M8.625 7.103l1.29-1.763"/>
+															<path stroke-linecap="round" d="M8 4.578h2.496l.78 2.172"/>
+														</g>
+													</g>
+												</svg>
+											</span>
+										</div>
+										<div class="new-resume-personal-detail">
+											<span title="29岁" class="personal-detail-age" style="max-width: 50px;">29岁</span>
+											<span title="工作7年" class="personal-detail-workyears" style="max-width: 78px;">工作7年</span>
+											<span title="本科" class="personal-detail-edulevel" style="max-width: 78px;">本科</span>
+											<span title="湖北" class="personal-detail-dq">湖北</span>
+										</div>
+										<div class="new-resume-personal-expect">
+											<em>求职期望：</em>
+											<span title="武汉  Android" class="personal-expect-content">
+												<span>武汉</span>
+												<span>Android</span>
+											</span>
+										</div>
+										<div class="new-resume-personal-skills">
+											<span>智能硬件</span>
+											<span>R语言</span>
+											<span>WIFI</span>
+											<span>D语言</span>
+											<span>C++</span>
+											<span>硬件调试</span>
+											<span>硬件设计</span>
+											<span>Android</span>
+											<span>软件开发</span>
+											<span>C语言</span>
+										</div>
+									</div>
+								</div>
+								<div class="new-search-right">
+									<div class="new-resume-right-item new-resume-work" style="width: 594px;">
+										<div class="new-resume-work-item">
+											<span role="img" class="anticon" style="margin-right: 6px; font-size: 19px;">
+												<svg width="1em" height="1em" viewBox="0 0 19 19" xmlns="http://www.w3.org/2000/svg" fill="currentColor" aria-hidden="true" focusable="false" class="">
+													<g fill="none" fill-rule="evenodd">
+														<path d="M0 0h19v19H0z"/>
+														<path d="M9.883 4.31c.078.213.117.438.117.664v8.052h1v-5.34a.993.993 0 011-.988c.15 0 .296.033.431.097l1.862.878A2.957 2.957 0 0116 10.343v2.684c0 1.09-.895 1.973-2 1.973h-3v-.001h-1V15H5c-1.105 0-2-.883-2-1.973v-6.3c0-1.252.797-2.368 1.991-2.788l2.336-.824A2.007 2.007 0 019.883 4.31zM7.5 10.067h-2c-.276 0-.5.22-.5.493 0 .242.177.444.41.486l.09.007h2c.276 0 .5-.22.5-.493a.497.497 0 00-.5-.493zm6 0h-1c-.276 0-.5.22-.5.493 0 .242.177.444.41.486l.09.007h1c.276 0 .5-.22.5-.493a.497.497 0 00-.5-.493zm-6-2.96h-2c-.276 0-.5.22-.5.493 0 .242.177.444.41.486l.09.008h2c.276 0 .5-.221.5-.494a.497.497 0 00-.5-.493z" fill="#D3DAE5" fill-rule="nonzero"/>
+													</g>
+												</svg>
+											</span>
+											<div class="work-item-content">
+												<span title="依迅北斗" class="work-item-compname" style="max-width: 252px;">依迅北斗</span>
+												<em>·</em>
+												<span class="work-item-extra">
+													<span title="Android嵌入式开发工程师">Android<span data-selector="keyword_嵌入式开发" class="jsx-3110714573 c-highlight">嵌入式开发</span>工程师</span>
+													<span title="2021.07-至今(2年3个月)" class="work-item-content-duration">2021.07-至今(2年3个月)</span>
+												</span>
+											</div>
+										</div>
+										<div class="new-resume-work-item work-item-content-icon">
+											<div class="work-item-content">
+												<span title="南方卫星导航" class="work-item-compname" style="max-width: 252px;">南方卫星导航</span>
+												<em>·</em>
+												<span class="work-item-extra">
+													<span title="Android开发工程师">Android开发工程师</span>
+													<span title="2019.07-2021.07(2年)" class="work-item-content-duration">2019.07-2021.07(2年)</span>
+												</span>
+											</div>
+										</div>
+										<div class="new-resume-work-item work-item-content-icon">
+											<div class="work-item-content">
+												<span title="富士康科技集团" class="work-item-compname" style="max-width: 252px;">富士康科技集团</span>
+												<em>·</em>
+												<span class="work-item-extra">
+													<span title="Android开发工程师">Android开发工程师</span>
+													<span title="2016.07-2019.05(2年10个月)" class="work-item-content-duration">2016.07-2019.05(2年10个月)</span>
+												</span>
+											</div>
+										</div>
+									</div>
+									<div class="new-resume-right-item new-resume-edu" style="width: 594px;">
+										<div class="new-resume-edu-item">
+											<span role="img" class="anticon" style="margin-right: 6px; font-size: 19px;">
+												<svg width="1em" height="1em" viewBox="0 0 19 19" xmlns="http://www.w3.org/2000/svg" fill="currentColor" aria-hidden="true" focusable="false" class="">
+													<g fill="none" fill-rule="evenodd">
+														<path d="M0 0h19v19H0z"/>
+														<path d="M5.004 9.93c.072 0 .143.016.209.047l2.197 1.045a4.85 4.85 0 004.18 0l2.197-1.045a.493.493 0 01.663.253.53.53 0 01.046.216v1.122a2.08 2.08 0 01-.97 1.77l-1.528.947a4.722 4.722 0 01-4.996 0l-1.528-.947a2.08 2.08 0 01-.97-1.77v-1.122c0-.285.224-.517.5-.517zm2.112-5.432a5.819 5.819 0 014.76.021L15.4 6.113a1.046 1.046 0 010 1.892l-3.47 1.568a5.82 5.82 0 01-4.853-.02L3.591 7.938a1.045 1.045 0 01.016-1.892v.001z" fill="#D3DAE5" fill-rule="nonzero"/>
+													</g>
+												</svg>
+											</span>
+											<div title="武汉轻工大学 · 软件工程 · 本科 · 统招 2013.09-2017.06(4年)" class="edu-item-content">
+												<span>武汉轻工大学</span>
+												<em>·</em>
+												<span>软件工程</span>
+												<em>·</em>
+												<span>本科</span>
+												<em>·</em>
+												<span>统招</span>
+												<span class="edu-item-content-duration">2013.09-2017.06(4年)</span>
+											</div>
+										</div>
+									</div>
+								</div>
+								<button type="button" class="ant-btn resume-item-chat ant-btn-sm">
+									<span>立即沟通</span>
+								</button>
+							</div>
+						</div>
+					</li>
+					<li data-resumeidencode="2f9e8bdb7526C325b9aa7f4bd" data-resumeurl="https://lpt.liepin.com/cvview/showresumedetail?resIdEncode=2f9e8bdb7526C325b9aa7f4bd&amp;sfrom=R_SEARCH_CONDITION&amp;ck_id=cae454c1-2c43-45f6-937d-5b81bb21cc10&amp;sk_id=cae454c1-2c43-45f6-937d-5b81bb21cc10&amp;fk_id=cae454c1-2c43-45f6-937d-5b81bb21cc10&amp;sv=abtest-page-search_resume-new&amp;st=0&amp;cur_page=0&amp;page_size=20&amp;auth_status=0&amp;res_source=1&amp;index=2&amp;position=3&amp;sss=463f3f5ff61feccd3e07b3184706f649&amp;sScene=49382s7WS&amp;dqCode=&amp;jobtitleCode=N000046" data-info="%7B%22sfrom%22%3A%22R_SEARCH_CONDITION%22%7D" class="resumecard-new-li-wrap">
+						<label class="checkbox-box ant-checkbox-wrapper">
+							<span class="ant-checkbox">
+								<input type="checkbox" class="ant-checkbox-input" value="2f9e8bdb7526C325b9aa7f4bd">
+									<span class="ant-checkbox-inner"/>
+								</span>
+							</label>
+							<div class="clearfix resume-card resume-card-container resume-card-new resume-card-new-2f9e8bdb7526C325b9aa7f4bd" data-info="%7B%22res_id%22%3A%222f9e8bdb7526C325b9aa7f4bd%22%2C%22sk_id%22%3A%22cae454c1-2c43-45f6-937d-5b81bb21cc10%22%2C%22ck_id%22%3A%22cae454c1-2c43-45f6-937d-5b81bb21cc10%22%2C%22fk_id%22%3A%22cae454c1-2c43-45f6-937d-5b81bb21cc10%22%2C%22res_source%22%3A%221%22%2C%22sfrom%22%3A%22R_SEARCH_CONDITION%22%2C%22shield_flag%22%3A0%7D">
+								<div class="new-search-card-container">
+									<div class="new-search-left">
+										<div class="new-resume-status">
+											<div class="">
+												<img class="new-resume-logo" src="//image0.lietou-static.com/big/5f8fa3a78dbe6273dcf85e2608u.png" alt="头像"/>
+												<span class="new-resume-offline">
+													<em>3天内活跃</em>
+												</span>
+											</div>
+											<div class="new-resume-personal" style="width: 312px;">
+												<div class="new-resume-personal-name">
+													<em>刘**</em>
+													<span role="img" class="anticon" style="margin-left: 8px; font-size: 16px;">
+														<svg width="1em" height="1em" viewBox="0 0 16 17" xmlns="http://www.w3.org/2000/svg" fill="currentColor" aria-hidden="true" focusable="false" class="">
+															<g transform="translate(0 .41)" fill="none" fill-rule="evenodd">
+																<ellipse fill="#085DFF" opacity="0.2" cx="8" cy="8.268" rx="7.429" ry="7.677"/>
+																<g fill-rule="nonzero" stroke="#085DFF" stroke-width="1.2">
+																	<path d="M7.04 12.366c1.507 0 2.727-1.257 2.727-2.808 0-1.55-1.22-2.808-2.726-2.808S4.315 8.007 4.315 9.558s1.22 2.808 2.726 2.808z"/>
+																	<path stroke-linecap="square" d="M8.625 7.103l1.29-1.763"/>
+																	<path stroke-linecap="round" d="M8 4.578h2.496l.78 2.172"/>
+																</g>
+															</g>
+														</svg>
+													</span>
+												</div>
+												<div class="new-resume-personal-detail">
+													<span title="21岁" class="personal-detail-age" style="max-width: 50px;">21岁</span>
+													<span title="2024年毕业" class="personal-detail-workyears" style="max-width: 78px;">2024年毕业</span>
+													<span title="本科" class="personal-detail-edulevel" style="max-width: 78px;">本科</span>
+													<span title="株洲" class="personal-detail-dq">株洲</span>
+												</div>
+												<div class="new-resume-personal-expect">
+													<em>求职期望：</em>
+													<span title="株洲  单片机工程师" class="personal-expect-content">
+														<span>株洲</span>
+														<span>单片机工程师</span>
+													</span>
+												</div>
+												<div class="new-resume-personal-skills">
+													<span>互联网</span>
+												</div>
+											</div>
+										</div>
+										<div class="new-search-right">
+											<div class="new-resume-right-item new-resume-work" style="width: 594px;">
+												<div class="new-resume-work-item">
+													<span role="img" class="anticon" style="margin-right: 6px; font-size: 19px;">
+														<svg width="1em" height="1em" viewBox="0 0 19 19" xmlns="http://www.w3.org/2000/svg" fill="currentColor" aria-hidden="true" focusable="false" class="">
+															<g fill="none" fill-rule="evenodd">
+																<path d="M0 0h19v19H0z"/>
+																<path d="M9.883 4.31c.078.213.117.438.117.664v8.052h1v-5.34a.993.993 0 011-.988c.15 0 .296.033.431.097l1.862.878A2.957 2.957 0 0116 10.343v2.684c0 1.09-.895 1.973-2 1.973h-3v-.001h-1V15H5c-1.105 0-2-.883-2-1.973v-6.3c0-1.252.797-2.368 1.991-2.788l2.336-.824A2.007 2.007 0 019.883 4.31zM7.5 10.067h-2c-.276 0-.5.22-.5.493 0 .242.177.444.41.486l.09.007h2c.276 0 .5-.22.5-.493a.497.497 0 00-.5-.493zm6 0h-1c-.276 0-.5.22-.5.493 0 .242.177.444.41.486l.09.007h1c.276 0 .5-.22.5-.493a.497.497 0 00-.5-.493zm-6-2.96h-2c-.276 0-.5.22-.5.493 0 .242.177.444.41.486l.09.008h2c.276 0 .5-.221.5-.494a.497.497 0 00-.5-.493z" fill="#D3DAE5" fill-rule="nonzero"/>
+															</g>
+														</svg>
+													</span>
+													<div class="work-item-content">
+														<span title="广州粤嵌通信科技股份有限公司" class="work-item-compname" style="max-width: 252px;">广州粤嵌通信科技股份有限公司</span>
+														<em>·</em>
+														<span class="work-item-extra">
+															<span title="linux C 嵌入式开发">linux C <span data-selector="keyword_嵌入式开发" class="jsx-3110714573 c-highlight">嵌入式开发</span>
+															</span>
+															<span title="2023.07-2023.09(2个月)" class="work-item-content-duration">2023.07-2023.09(2个月)</span>
+														</span>
+													</div>
+												</div>
+											</div>
+											<div class="new-resume-right-item new-resume-edu" style="width: 594px;">
+												<div class="new-resume-edu-item">
+													<span role="img" class="anticon" style="margin-right: 6px; font-size: 19px;">
+														<svg width="1em" height="1em" viewBox="0 0 19 19" xmlns="http://www.w3.org/2000/svg" fill="currentColor" aria-hidden="true" focusable="false" class="">
+															<g fill="none" fill-rule="evenodd">
+																<path d="M0 0h19v19H0z"/>
+																<path d="M5.004 9.93c.072 0 .143.016.209.047l2.197 1.045a4.85 4.85 0 004.18 0l2.197-1.045a.493.493 0 01.663.253.53.53 0 01.046.216v1.122a2.08 2.08 0 01-.97 1.77l-1.528.947a4.722 4.722 0 01-4.996 0l-1.528-.947a2.08 2.08 0 01-.97-1.77v-1.122c0-.285.224-.517.5-.517zm2.112-5.432a5.819 5.819 0 014.76.021L15.4 6.113a1.046 1.046 0 010 1.892l-3.47 1.568a5.82 5.82 0 01-4.853-.02L3.591 7.938a1.045 1.045 0 01.016-1.892v.001z" fill="#D3DAE5" fill-rule="nonzero"/>
+															</g>
+														</svg>
+													</span>
+													<div title="湖南工业大学 · 物联网工程 · 本科 · 统招 2020.09-2024.06(4年)" class="edu-item-content">
+														<span>湖南工业大学</span>
+														<em>·</em>
+														<span>物联网工程</span>
+														<em>·</em>
+														<span>本科</span>
+														<em>·</em>
+														<span>统招</span>
+														<span class="edu-item-content-duration">2020.09-2024.06(4年)</span>
+													</div>
+												</div>
+											</div>
+										</div>
+										<button type="button" class="ant-btn resume-item-chat ant-btn-sm">
+											<span>立即沟通</span>
+										</button>
+									</div>
+								</div>
+							</li>
+							<li data-resumeidencode="25938dd071E395898a0f1bd" data-resumeurl="https://lpt.liepin.com/cvview/showresumedetail?resIdEncode=25938dd071E395898a0f1bd&amp;sfrom=R_SEARCH_CONDITION&amp;ck_id=cae454c1-2c43-45f6-937d-5b81bb21cc10&amp;sk_id=cae454c1-2c43-45f6-937d-5b81bb21cc10&amp;fk_id=cae454c1-2c43-45f6-937d-5b81bb21cc10&amp;sv=abtest-page-search_resume-new&amp;st=0&amp;cur_page=0&amp;page_size=20&amp;auth_status=0&amp;res_source=1&amp;index=3&amp;position=4&amp;sss=9f982be8fb419d90f9b786a46eb8849e&amp;sScene=49382s7WS&amp;dqCode=&amp;jobtitleCode=N000046" data-info="%7B%22sfrom%22%3A%22R_SEARCH_CONDITION%22%7D" class="resumecard-new-li-wrap">
+								<label class="checkbox-box ant-checkbox-wrapper">
+									<span class="ant-checkbox">
+										<input type="checkbox" class="ant-checkbox-input" value="25938dd071E395898a0f1bd">
+											<span class="ant-checkbox-inner"/>
+										</span>
+									</label>
+									<div class="clearfix resume-card resume-card-container resume-card-new resume-card-new-25938dd071E395898a0f1bd" data-info="%7B%22res_id%22%3A%2225938dd071E395898a0f1bd%22%2C%22sk_id%22%3A%22cae454c1-2c43-45f6-937d-5b81bb21cc10%22%2C%22ck_id%22%3A%22cae454c1-2c43-45f6-937d-5b81bb21cc10%22%2C%22fk_id%22%3A%22cae454c1-2c43-45f6-937d-5b81bb21cc10%22%2C%22res_source%22%3A%221%22%2C%22sfrom%22%3A%22R_SEARCH_CONDITION%22%2C%22shield_flag%22%3A0%7D">
+										<div class="new-search-card-container">
+											<div class="new-search-left">
+												<div class="new-resume-status">
+													<div class="">
+														<img class="new-resume-logo" src="//image0.lietou-static.com/big/5f8fa3a78dbe6273dcf85e2608u.png" alt="头像"/>
+														<span class="new-resume-offline new-resume-offline-active">
+															<em>今天活跃</em>
+														</span>
+													</div>
+													<div class="new-resume-personal" style="width: 312px;">
+														<div class="new-resume-personal-name">
+															<em>陶**</em>
+															<span role="img" class="anticon" style="margin-left: 8px; font-size: 16px;">
+																<svg width="1em" height="1em" viewBox="0 0 16 17" xmlns="http://www.w3.org/2000/svg" fill="currentColor" aria-hidden="true" focusable="false" class="">
+																	<g transform="translate(0 .41)" fill="none" fill-rule="evenodd">
+																		<ellipse fill="#085DFF" opacity="0.2" cx="8" cy="8.268" rx="7.429" ry="7.677"/>
+																		<g fill-rule="nonzero" stroke="#085DFF" stroke-width="1.2">
+																			<path d="M7.04 12.366c1.507 0 2.727-1.257 2.727-2.808 0-1.55-1.22-2.808-2.726-2.808S4.315 8.007 4.315 9.558s1.22 2.808 2.726 2.808z"/>
+																			<path stroke-linecap="square" d="M8.625 7.103l1.29-1.763"/>
+																			<path stroke-linecap="round" d="M8 4.578h2.496l.78 2.172"/>
+																		</g>
+																	</g>
+																</svg>
+															</span>
+														</div>
+														<div class="new-resume-personal-detail">
+															<span title="24岁" class="personal-detail-age" style="max-width: 50px;">24岁</span>
+															<span title="工作2年" class="personal-detail-workyears" style="max-width: 78px;">工作2年</span>
+															<span title="硕士" class="personal-detail-edulevel" style="max-width: 78px;">硕士</span>
+															<span title="上海-普陀区" class="personal-detail-dq">上海-普陀区</span>
+														</div>
+														<div class="new-resume-personal-expect">
+															<em>求职期望：</em>
+															<span title="上海  C++" class="personal-expect-content">
+																<span>上海</span>
+																<span>C++</span>
+															</span>
+														</div>
+														<div class="new-resume-personal-skills">
+															<span>专业技术服务</span>
+															<span>Unix</span>
+															<span>Windows</span>
+															<span>Linux</span>
+															<span>C++</span>
+															<span>C/C++</span>
+															<span>C语言</span>
+														</div>
+													</div>
+												</div>
+												<div class="new-search-right">
+													<div class="new-resume-right-item new-resume-work" style="width: 594px;">
+														<div class="new-resume-work-item">
+															<span role="img" class="anticon" style="margin-right: 6px; font-size: 19px;">
+																<svg width="1em" height="1em" viewBox="0 0 19 19" xmlns="http://www.w3.org/2000/svg" fill="currentColor" aria-hidden="true" focusable="false" class="">
+																	<g fill="none" fill-rule="evenodd">
+																		<path d="M0 0h19v19H0z"/>
+																		<path d="M9.883 4.31c.078.213.117.438.117.664v8.052h1v-5.34a.993.993 0 011-.988c.15 0 .296.033.431.097l1.862.878A2.957 2.957 0 0116 10.343v2.684c0 1.09-.895 1.973-2 1.973h-3v-.001h-1V15H5c-1.105 0-2-.883-2-1.973v-6.3c0-1.252.797-2.368 1.991-2.788l2.336-.824A2.007 2.007 0 019.883 4.31zM7.5 10.067h-2c-.276 0-.5.22-.5.493 0 .242.177.444.41.486l.09.007h2c.276 0 .5-.22.5-.493a.497.497 0 00-.5-.493zm6 0h-1c-.276 0-.5.22-.5.493 0 .242.177.444.41.486l.09.007h1c.276 0 .5-.22.5-.493a.497.497 0 00-.5-.493zm-6-2.96h-2c-.276 0-.5.22-.5.493 0 .242.177.444.41.486l.09.008h2c.276 0 .5-.221.5-.494a.497.497 0 00-.5-.493z" fill="#D3DAE5" fill-rule="nonzero"/>
+																	</g>
+																</svg>
+															</span>
+															<div class="work-item-content">
+																<span title="深圳市法本信息技术股份有限公司上海分公司" class="work-item-compname" style="max-width: 252px;">深圳市法本信息技术股份有限公司上海分公司</span>
+																<em>·</em>
+																<span class="work-item-extra">
+																	<span title="嵌入式开发工程师">
+																		<span data-selector="keyword_嵌入式开发" class="jsx-3110714573 c-highlight">嵌入式开发</span>工程师</span>
+																	<span title="2023.05-2023.08(3个月)" class="work-item-content-duration">2023.05-2023.08(3个月)</span>
+																</span>
+															</div>
+														</div>
+														<div class="new-resume-work-item work-item-content-icon">
+															<div class="work-item-content">
+																<span title="深圳市天蓝色软件服务有限公司" class="work-item-compname" style="max-width: 252px;">深圳市天蓝色软件服务有限公司</span>
+																<em>·</em>
+																<span class="work-item-extra">
+																	<span title="C/C++开发工程师">C/C++开发工程师</span>
+																	<span title="2021.07-2023.04(1年9个月)" class="work-item-content-duration">2021.07-2023.04(1年9个月)</span>
+																</span>
+															</div>
+														</div>
+													</div>
+													<div class="new-resume-right-item new-resume-edu" style="width: 594px;">
+														<div class="new-resume-edu-item">
+															<span role="img" class="anticon" style="margin-right: 6px; font-size: 19px;">
+																<svg width="1em" height="1em" viewBox="0 0 19 19" xmlns="http://www.w3.org/2000/svg" fill="currentColor" aria-hidden="true" focusable="false" class="">
+																	<g fill="none" fill-rule="evenodd">
+																		<path d="M0 0h19v19H0z"/>
+																		<path d="M5.004 9.93c.072 0 .143.016.209.047l2.197 1.045a4.85 4.85 0 004.18 0l2.197-1.045a.493.493 0 01.663.253.53.53 0 01.046.216v1.122a2.08 2.08 0 01-.97 1.77l-1.528.947a4.722 4.722 0 01-4.996 0l-1.528-.947a2.08 2.08 0 01-.97-1.77v-1.122c0-.285.224-.517.5-.517zm2.112-5.432a5.819 5.819 0 014.76.021L15.4 6.113a1.046 1.046 0 010 1.892l-3.47 1.568a5.82 5.82 0 01-4.853-.02L3.591 7.938a1.045 1.045 0 01.016-1.892v.001z" fill="#D3DAE5" fill-rule="nonzero"/>
+																	</g>
+																</svg>
+															</span>
+															<div title="复旦大学 · 电子信息 · 硕士 · 统招 2023.09-2026.06(3年)" class="edu-item-content">
+																<span>复旦大学</span>
+																<em>·</em>
+																<span>电子信息</span>
+																<em>·</em>
+																<span>硕士</span>
+																<em>·</em>
+																<span>统招</span>
+																<span class="edu-item-content-duration">2023.09-2026.06(3年)</span>
+															</div>
+														</div>
+														<div class="new-resume-edu-item edu-item-content-icon">
+															<div title="安徽理工大学 · 工科 · 本科 · 统招 2017.09-2021.06(4年)" class="edu-item-content">
+																<span>安徽理工大学</span>
+																<em>·</em>
+																<span>工科</span>
+																<em>·</em>
+																<span>本科</span>
+																<em>·</em>
+																<span>统招</span>
+																<span class="edu-item-content-duration">2017.09-2021.06(4年)</span>
+															</div>
+														</div>
+													</div>
+												</div>
+												<button type="button" class="ant-btn resume-item-chat ant-btn-sm">
+													<span>立即沟通</span>
+												</button>
+											</div>
+										</div>
+									</li>
+									<li data-resumeidencode="2f9e89d77cK315b97a5f2bf" data-resumeurl="https://lpt.liepin.com/cvview/showresumedetail?resIdEncode=2f9e89d77cK315b97a5f2bf&amp;sfrom=R_SEARCH_CONDITION&amp;ck_id=cae454c1-2c43-45f6-937d-5b81bb21cc10&amp;sk_id=cae454c1-2c43-45f6-937d-5b81bb21cc10&amp;fk_id=cae454c1-2c43-45f6-937d-5b81bb21cc10&amp;sv=abtest-page-search_resume-new&amp;st=0&amp;cur_page=0&amp;page_size=20&amp;auth_status=0&amp;res_source=1&amp;index=4&amp;position=5&amp;sss=42453c63e52e7af852a77d74573d8929&amp;sScene=49382s7WS&amp;dqCode=&amp;jobtitleCode=N000046" data-info="%7B%22sfrom%22%3A%22R_SEARCH_CONDITION%22%7D" class="resumecard-new-li-wrap">
+										<label class="checkbox-box ant-checkbox-wrapper">
+											<span class="ant-checkbox">
+												<input type="checkbox" class="ant-checkbox-input" value="2f9e89d77cK315b97a5f2bf">
+													<span class="ant-checkbox-inner"/>
+												</span>
+											</label>
+											<div class="clearfix resume-card resume-card-container resume-card-new resume-card-new-2f9e89d77cK315b97a5f2bf" data-info="%7B%22res_id%22%3A%222f9e89d77cK315b97a5f2bf%22%2C%22sk_id%22%3A%22cae454c1-2c43-45f6-937d-5b81bb21cc10%22%2C%22ck_id%22%3A%22cae454c1-2c43-45f6-937d-5b81bb21cc10%22%2C%22fk_id%22%3A%22cae454c1-2c43-45f6-937d-5b81bb21cc10%22%2C%22res_source%22%3A%221%22%2C%22sfrom%22%3A%22R_SEARCH_CONDITION%22%2C%22shield_flag%22%3A0%7D">
+												<div class="new-search-card-container">
+													<div class="new-search-left">
+														<div class="new-resume-status">
+															<div class="">
+																<img class="new-resume-logo" src="//image0.lietou-static.com/big/5f8fa3a9dfb13a7dee343d4808u.png" alt="头像"/>
+																<span class="new-resume-offline new-resume-offline-active">
+																	<em>今天活跃</em>
+																</span>
+															</div>
+															<div class="new-resume-personal" style="width: 312px;">
+																<div class="new-resume-personal-name">
+																	<em>陈**</em>
+																	<span role="img" class="anticon" style="margin-left: 8px; font-size: 16px;">
+																		<svg width="1em" height="1em" viewBox="0 0 16 17" xmlns="http://www.w3.org/2000/svg" fill="currentColor" aria-hidden="true" focusable="false" class="">
+																			<g transform="translate(0 .41)" fill="none" fill-rule="evenodd">
+																				<ellipse fill="#085DFF" opacity="0.2" cx="8" cy="8.268" rx="7.429" ry="7.677"/>
+																				<g fill-rule="nonzero" stroke="#085DFF" stroke-width="1.2">
+																					<path d="M7.04 12.366c1.507 0 2.727-1.257 2.727-2.808 0-1.55-1.22-2.808-2.726-2.808S4.315 8.007 4.315 9.558s1.22 2.808 2.726 2.808z"/>
+																					<path stroke-linecap="square" d="M8.625 7.103l1.29-1.763"/>
+																					<path stroke-linecap="round" d="M8 4.578h2.496l.78 2.172"/>
+																				</g>
+																			</g>
+																		</svg>
+																	</span>
+																</div>
+																<div class="new-resume-personal-detail">
+																	<span title="26岁" class="personal-detail-age" style="max-width: 50px;">26岁</span>
+																	<span title="工作4年" class="personal-detail-workyears" style="max-width: 78px;">工作4年</span>
+																	<span title="本科" class="personal-detail-edulevel" style="max-width: 78px;">本科</span>
+																	<span title="常州" class="personal-detail-dq">常州</span>
+																</div>
+																<div class="new-resume-personal-expect">
+																	<em>求职期望：</em>
+																	<span title="苏州  C++" class="personal-expect-content">
+																		<span>苏州</span>
+																		<span>C++</span>
+																	</span>
+																</div>
+																<div class="new-resume-personal-skills">
+																	<span>互联网</span>
+																</div>
+															</div>
+														</div>
+														<div class="new-search-right">
+															<div class="new-resume-right-item new-resume-work" style="width: 594px;">
+																<div class="new-resume-work-item">
+																	<span role="img" class="anticon" style="margin-right: 6px; font-size: 19px;">
+																		<svg width="1em" height="1em" viewBox="0 0 19 19" xmlns="http://www.w3.org/2000/svg" fill="currentColor" aria-hidden="true" focusable="false" class="">
+																			<g fill="none" fill-rule="evenodd">
+																				<path d="M0 0h19v19H0z"/>
+																				<path d="M9.883 4.31c.078.213.117.438.117.664v8.052h1v-5.34a.993.993 0 011-.988c.15 0 .296.033.431.097l1.862.878A2.957 2.957 0 0116 10.343v2.684c0 1.09-.895 1.973-2 1.973h-3v-.001h-1V15H5c-1.105 0-2-.883-2-1.973v-6.3c0-1.252.797-2.368 1.991-2.788l2.336-.824A2.007 2.007 0 019.883 4.31zM7.5 10.067h-2c-.276 0-.5.22-.5.493 0 .242.177.444.41.486l.09.007h2c.276 0 .5-.22.5-.493a.497.497 0 00-.5-.493zm6 0h-1c-.276 0-.5.22-.5.493 0 .242.177.444.41.486l.09.007h1c.276 0 .5-.22.5-.493a.497.497 0 00-.5-.493zm-6-2.96h-2c-.276 0-.5.22-.5.493 0 .242.177.444.41.486l.09.008h2c.276 0 .5-.221.5-.494a.497.497 0 00-.5-.493z" fill="#D3DAE5" fill-rule="nonzero"/>
+																			</g>
+																		</svg>
+																	</span>
+																	<div class="work-item-content">
+																		<span title="上海翌旭网络科技有限公司" class="work-item-compname" style="max-width: 252px;">上海翌旭网络科技有限公司</span>
+																		<em>·</em>
+																		<span class="work-item-extra">
+																			<span title="嵌入式开发工程师">
+																				<span data-selector="keyword_嵌入式开发" class="jsx-3110714573 c-highlight">嵌入式开发</span>工程师</span>
+																			<span title="2022.10-2023.10(1年)" class="work-item-content-duration">2022.10-2023.10(1年)</span>
+																		</span>
+																	</div>
+																</div>
+																<div class="new-resume-work-item work-item-content-icon">
+																	<div class="work-item-content">
+																		<span title="西安多面体教育科技合伙企业(普通合伙)" class="work-item-compname" style="max-width: 252px;">西安多面体教育科技合伙企业(普通合伙)</span>
+																		<em>·</em>
+																		<span class="work-item-extra">
+																			<span title="C++开发工程师">C++开发工程师</span>
+																			<span title="2020.06-2022.10(2年4个月)" class="work-item-content-duration">2020.06-2022.10(2年4个月)</span>
+																		</span>
+																	</div>
+																</div>
+															</div>
+															<div class="new-resume-right-item new-resume-edu" style="width: 594px;">
+																<div class="new-resume-edu-item">
+																	<span role="img" class="anticon" style="margin-right: 6px; font-size: 19px;">
+																		<svg width="1em" height="1em" viewBox="0 0 19 19" xmlns="http://www.w3.org/2000/svg" fill="currentColor" aria-hidden="true" focusable="false" class="">
+																			<g fill="none" fill-rule="evenodd">
+																				<path d="M0 0h19v19H0z"/>
+																				<path d="M5.004 9.93c.072 0 .143.016.209.047l2.197 1.045a4.85 4.85 0 004.18 0l2.197-1.045a.493.493 0 01.663.253.53.53 0 01.046.216v1.122a2.08 2.08 0 01-.97 1.77l-1.528.947a4.722 4.722 0 01-4.996 0l-1.528-.947a2.08 2.08 0 01-.97-1.77v-1.122c0-.285.224-.517.5-.517zm2.112-5.432a5.819 5.819 0 014.76.021L15.4 6.113a1.046 1.046 0 010 1.892l-3.47 1.568a5.82 5.82 0 01-4.853-.02L3.591 7.938a1.045 1.045 0 01.016-1.892v.001z" fill="#D3DAE5" fill-rule="nonzero"/>
+																			</g>
+																		</svg>
+																	</span>
+																	<div title="太原理工大学 · 电子信息工程 · 本科 · 统招 2015.09-2019.06(4年)" class="edu-item-content">
+																		<span>太原理工大学</span>
+																		<em>·</em>
+																		<span>电子信息工程</span>
+																		<em>·</em>
+																		<span>本科</span>
+																		<em>·</em>
+																		<span>统招</span>
+																		<span class="edu-item-content-duration">2015.09-2019.06(4年)</span>
+																	</div>
+																</div>
+															</div>
+														</div>
+														<button type="button" class="ant-btn resume-item-chat ant-btn-sm">
+															<span>立即沟通</span>
+														</button>
+													</div>
+												</div>
+											</li>
+											<li data-resumeidencode="2f9388dd7aU31589eaaf5b9" data-resumeurl="https://lpt.liepin.com/cvview/showresumedetail?resIdEncode=2f9388dd7aU31589eaaf5b9&amp;sfrom=R_SEARCH_CONDITION&amp;ck_id=cae454c1-2c43-45f6-937d-5b81bb21cc10&amp;sk_id=cae454c1-2c43-45f6-937d-5b81bb21cc10&amp;fk_id=cae454c1-2c43-45f6-937d-5b81bb21cc10&amp;sv=abtest-page-search_resume-new&amp;st=0&amp;cur_page=0&amp;page_size=20&amp;auth_status=0&amp;res_source=1&amp;index=5&amp;position=6&amp;sss=b09bb7640269cdd9de2846adfb59f9ed&amp;sScene=49382s7WS&amp;dqCode=&amp;jobtitleCode=N000046" data-info="%7B%22sfrom%22%3A%22R_SEARCH_CONDITION%22%7D" class="resumecard-new-li-wrap">
+												<label class="checkbox-box ant-checkbox-wrapper">
+													<span class="ant-checkbox">
+														<input type="checkbox" class="ant-checkbox-input" value="2f9388dd7aU31589eaaf5b9">
+															<span class="ant-checkbox-inner"/>
+														</span>
+													</label>
+													<div class="clearfix resume-card resume-card-container resume-card-new resume-card-new-2f9388dd7aU31589eaaf5b9" data-info="%7B%22res_id%22%3A%222f9388dd7aU31589eaaf5b9%22%2C%22sk_id%22%3A%22cae454c1-2c43-45f6-937d-5b81bb21cc10%22%2C%22ck_id%22%3A%22cae454c1-2c43-45f6-937d-5b81bb21cc10%22%2C%22fk_id%22%3A%22cae454c1-2c43-45f6-937d-5b81bb21cc10%22%2C%22res_source%22%3A%221%22%2C%22sfrom%22%3A%22R_SEARCH_CONDITION%22%2C%22shield_flag%22%3A0%7D">
+														<div class="new-search-card-container">
+															<div class="new-search-left">
+																<div class="new-resume-status">
+																	<div class="">
+																		<img class="new-resume-logo" src="//image0.lietou-static.com/big/6340f5e68d2ab127fab0d7c507u.jpg" alt="头像"/>
+																		<span class="new-resume-offline new-resume-offline-active">
+																			<em>今天活跃</em>
+																		</span>
+																	</div>
+																	<div class="new-resume-personal" style="width: 312px;">
+																		<div class="new-resume-personal-name">
+																			<em>李**</em>
+																			<span role="img" class="anticon" style="margin-left: 8px; font-size: 16px;">
+																				<svg width="1em" height="1em" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg" fill="currentColor" aria-hidden="true" focusable="false" class="">
+																					<g fill="none" fill-rule="evenodd">
+																						<circle fill="#FF5833" opacity="0.2" cx="8" cy="8" r="7.429"/>
+																						<g transform="translate(5.143 4)" fill-rule="nonzero" stroke="#FF5833" stroke-width="1.247">
+																							<ellipse cx="2.857" cy="2.783" rx="2.857" ry="2.783"/>
+																							<path stroke-linecap="round" d="M2.792 8.55V5.565M1.539 7.329h2.572"/>
+																						</g>
+																					</g>
+																				</svg>
+																			</span>
+																		</div>
+																		<div class="new-resume-personal-detail">
+																			<span title="25岁" class="personal-detail-age" style="max-width: 50px;">25岁</span>
+																			<span title="2023年毕业" class="personal-detail-workyears" style="max-width: 78px;">2023年毕业</span>
+																			<span title="硕士" class="personal-detail-edulevel" style="max-width: 78px;">硕士</span>
+																			<span title="东莞-中堂镇" class="personal-detail-dq">东莞-中堂镇</span>
+																		</div>
+																		<div class="new-resume-personal-expect">
+																			<em>求职期望：</em>
+																			<span title="广州  DSP工程师" class="personal-expect-content">
+																				<span>广州</span>
+																				<span>DSP工程师</span>
+																			</span>
+																		</div>
+																		<div class="new-resume-personal-skills">
+																			<span>新能源</span>
+																		</div>
+																	</div>
+																</div>
+																<div class="new-search-right">
+																	<div class="new-resume-right-item new-resume-work" style="width: 594px;">
+																		<div class="new-resume-work-item">
+																			<span role="img" class="anticon" style="margin-right: 6px; font-size: 19px;">
+																				<svg width="1em" height="1em" viewBox="0 0 19 19" xmlns="http://www.w3.org/2000/svg" fill="currentColor" aria-hidden="true" focusable="false" class="">
+																					<g fill="none" fill-rule="evenodd">
+																						<path d="M0 0h19v19H0z"/>
+																						<path d="M9.883 4.31c.078.213.117.438.117.664v8.052h1v-5.34a.993.993 0 011-.988c.15 0 .296.033.431.097l1.862.878A2.957 2.957 0 0116 10.343v2.684c0 1.09-.895 1.973-2 1.973h-3v-.001h-1V15H5c-1.105 0-2-.883-2-1.973v-6.3c0-1.252.797-2.368 1.991-2.788l2.336-.824A2.007 2.007 0 019.883 4.31zM7.5 10.067h-2c-.276 0-.5.22-.5.493 0 .242.177.444.41.486l.09.007h2c.276 0 .5-.22.5-.493a.497.497 0 00-.5-.493zm6 0h-1c-.276 0-.5.22-.5.493 0 .242.177.444.41.486l.09.007h1c.276 0 .5-.22.5-.493a.497.497 0 00-.5-.493zm-6-2.96h-2c-.276 0-.5.22-.5.493 0 .242.177.444.41.486l.09.008h2c.276 0 .5-.221.5-.494a.497.497 0 00-.5-.493z" fill="#D3DAE5" fill-rule="nonzero"/>
+																					</g>
+																				</svg>
+																			</span>
+																			<div class="work-item-content">
+																				<span title="珠海瓦特电力设备有限公司" class="work-item-compname" style="max-width: 252px;">珠海瓦特电力设备有限公司</span>
+																				<em>·</em>
+																				<span class="work-item-extra">
+																					<span title="嵌入式开发实习生">
+																						<span data-selector="keyword_嵌入式开发" class="jsx-3110714573 c-highlight">嵌入式开发</span>实习生</span>
+																					<span title="2022.07-2022.08(1个月)" class="work-item-content-duration">2022.07-2022.08(1个月)</span>
+																				</span>
+																			</div>
+																		</div>
+																	</div>
+																	<div class="new-resume-right-item new-resume-edu" style="width: 594px;">
+																		<div class="new-resume-edu-item">
+																			<span role="img" class="anticon" style="margin-right: 6px; font-size: 19px;">
+																				<svg width="1em" height="1em" viewBox="0 0 19 19" xmlns="http://www.w3.org/2000/svg" fill="currentColor" aria-hidden="true" focusable="false" class="">
+																					<g fill="none" fill-rule="evenodd">
+																						<path d="M0 0h19v19H0z"/>
+																						<path d="M5.004 9.93c.072 0 .143.016.209.047l2.197 1.045a4.85 4.85 0 004.18 0l2.197-1.045a.493.493 0 01.663.253.53.53 0 01.046.216v1.122a2.08 2.08 0 01-.97 1.77l-1.528.947a4.722 4.722 0 01-4.996 0l-1.528-.947a2.08 2.08 0 01-.97-1.77v-1.122c0-.285.224-.517.5-.517zm2.112-5.432a5.819 5.819 0 014.76.021L15.4 6.113a1.046 1.046 0 010 1.892l-3.47 1.568a5.82 5.82 0 01-4.853-.02L3.591 7.938a1.045 1.045 0 01.016-1.892v.001z" fill="#D3DAE5" fill-rule="nonzero"/>
+																					</g>
+																				</svg>
+																			</span>
+																			<div title="燕山大学 · 电子信息 · 硕士 · 统招 2020.09-2023.06(3年)" class="edu-item-content">
+																				<span>燕山大学</span>
+																				<em>·</em>
+																				<span>电子信息</span>
+																				<em>·</em>
+																				<span>硕士</span>
+																				<em>·</em>
+																				<span>统招</span>
+																				<span class="edu-item-content-duration">2020.09-2023.06(3年)</span>
+																			</div>
+																		</div>
+																		<div class="new-resume-edu-item edu-item-content-icon">
+																			<div title="南昌航空大学 · 自动化 · 本科 · 统招 2016.09-2020.06(4年)" class="edu-item-content">
+																				<span>南昌航空大学</span>
+																				<em>·</em>
+																				<span>自动化</span>
+																				<em>·</em>
+																				<span>本科</span>
+																				<em>·</em>
+																				<span>统招</span>
+																				<span class="edu-item-content-duration">2016.09-2020.06(4年)</span>
+																			</div>
+																		</div>
+																	</div>
+																</div>
+																<button type="button" class="ant-btn resume-item-chat ant-btn-sm">
+																	<span>立即沟通</span>
+																</button>
+															</div>
+														</div>
+													</li>
+													<li data-resumeidencode="2c918ed67eY325296abf3b7" data-resumeurl="https://lpt.liepin.com/cvview/showresumedetail?resIdEncode=2c918ed67eY325296abf3b7&amp;sfrom=R_SEARCH_CONDITION&amp;ck_id=cae454c1-2c43-45f6-937d-5b81bb21cc10&amp;sk_id=cae454c1-2c43-45f6-937d-5b81bb21cc10&amp;fk_id=cae454c1-2c43-45f6-937d-5b81bb21cc10&amp;sv=abtest-page-search_resume-new&amp;st=0&amp;cur_page=0&amp;page_size=20&amp;auth_status=0&amp;res_source=1&amp;index=6&amp;position=7&amp;sss=5ad34292687b83e273786d9dd7393434&amp;sScene=49382s7WS&amp;dqCode=&amp;jobtitleCode=N000046" data-info="%7B%22sfrom%22%3A%22R_SEARCH_CONDITION%22%7D" class="resumecard-new-li-wrap">
+														<label class="checkbox-box ant-checkbox-wrapper">
+															<span class="ant-checkbox">
+																<input type="checkbox" class="ant-checkbox-input" value="2c918ed67eY325296abf3b7">
+																	<span class="ant-checkbox-inner"/>
+																</span>
+															</label>
+															<div class="clearfix resume-card resume-card-container resume-card-new resume-card-new-2c918ed67eY325296abf3b7" data-info="%7B%22res_id%22%3A%222c918ed67eY325296abf3b7%22%2C%22sk_id%22%3A%22cae454c1-2c43-45f6-937d-5b81bb21cc10%22%2C%22ck_id%22%3A%22cae454c1-2c43-45f6-937d-5b81bb21cc10%22%2C%22fk_id%22%3A%22cae454c1-2c43-45f6-937d-5b81bb21cc10%22%2C%22res_source%22%3A%221%22%2C%22sfrom%22%3A%22R_SEARCH_CONDITION%22%2C%22shield_flag%22%3A0%7D">
+																<div class="new-search-card-container">
+																	<div class="new-search-left">
+																		<div class="new-resume-status">
+																			<div class="">
+																				<img class="new-resume-logo" src="//image0.lietou-static.com/big/5f8fa3a679c7cc70efbf444e08u.png" alt="头像"/>
+																				<span class="new-resume-offline">
+																					<em>30天内活跃</em>
+																				</span>
+																			</div>
+																			<div class="new-resume-personal" style="width: 312px;">
+																				<div class="new-resume-personal-name">
+																					<em>桑**</em>
+																					<span role="img" class="anticon" style="margin-left: 8px; font-size: 16px;">
+																						<svg width="1em" height="1em" viewBox="0 0 16 17" xmlns="http://www.w3.org/2000/svg" fill="currentColor" aria-hidden="true" focusable="false" class="">
+																							<g transform="translate(0 .41)" fill="none" fill-rule="evenodd">
+																								<ellipse fill="#085DFF" opacity="0.2" cx="8" cy="8.268" rx="7.429" ry="7.677"/>
+																								<g fill-rule="nonzero" stroke="#085DFF" stroke-width="1.2">
+																									<path d="M7.04 12.366c1.507 0 2.727-1.257 2.727-2.808 0-1.55-1.22-2.808-2.726-2.808S4.315 8.007 4.315 9.558s1.22 2.808 2.726 2.808z"/>
+																									<path stroke-linecap="square" d="M8.625 7.103l1.29-1.763"/>
+																									<path stroke-linecap="round" d="M8 4.578h2.496l.78 2.172"/>
+																								</g>
+																							</g>
+																						</svg>
+																					</span>
+																				</div>
+																				<div class="new-resume-personal-detail">
+																					<span title="24岁" class="personal-detail-age" style="max-width: 50px;">24岁</span>
+																					<span title="2021年毕业" class="personal-detail-workyears" style="max-width: 78px;">2021年毕业</span>
+																					<span title="本科" class="personal-detail-edulevel" style="max-width: 78px;">本科</span>
+																					<span title="西安-长安区" class="personal-detail-dq">西安-长安区</span>
+																				</div>
+																				<div class="new-resume-personal-expect">
+																					<em>求职期望：</em>
+																					<span title="西安  FPGA工程师" class="personal-expect-content">
+																						<span>西安</span>
+																						<span>FPGA工程师</span>
+																					</span>
+																				</div>
+																				<div class="new-resume-personal-skills">
+																					<span>IT服务</span>
+																				</div>
+																			</div>
+																		</div>
+																		<div class="new-search-right">
+																			<div class="new-resume-right-item new-resume-work" style="width: 594px;">
+																				<div class="new-resume-work-item">
+																					<span role="img" class="anticon" style="margin-right: 6px; font-size: 19px;">
+																						<svg width="1em" height="1em" viewBox="0 0 19 19" xmlns="http://www.w3.org/2000/svg" fill="currentColor" aria-hidden="true" focusable="false" class="">
+																							<g fill="none" fill-rule="evenodd">
+																								<path d="M0 0h19v19H0z"/>
+																								<path d="M9.883 4.31c.078.213.117.438.117.664v8.052h1v-5.34a.993.993 0 011-.988c.15 0 .296.033.431.097l1.862.878A2.957 2.957 0 0116 10.343v2.684c0 1.09-.895 1.973-2 1.973h-3v-.001h-1V15H5c-1.105 0-2-.883-2-1.973v-6.3c0-1.252.797-2.368 1.991-2.788l2.336-.824A2.007 2.007 0 019.883 4.31zM7.5 10.067h-2c-.276 0-.5.22-.5.493 0 .242.177.444.41.486l.09.007h2c.276 0 .5-.22.5-.493a.497.497 0 00-.5-.493zm6 0h-1c-.276 0-.5.22-.5.493 0 .242.177.444.41.486l.09.007h1c.276 0 .5-.22.5-.493a.497.497 0 00-.5-.493zm-6-2.96h-2c-.276 0-.5.22-.5.493 0 .242.177.444.41.486l.09.008h2c.276 0 .5-.221.5-.494a.497.497 0 00-.5-.493z" fill="#D3DAE5" fill-rule="nonzero"/>
+																							</g>
+																						</svg>
+																					</span>
+																					<div class="work-item-content">
+																						<span title="广东省粤嵌科技股份有限公司" class="work-item-compname" style="max-width: 252px;">广东省粤嵌科技股份有限公司</span>
+																						<em>·</em>
+																						<span class="work-item-extra">
+																							<span title="嵌入式开发工程师">
+																								<span data-selector="keyword_嵌入式开发" class="jsx-3110714573 c-highlight">嵌入式开发</span>工程师</span>
+																							<span title="2020.08-2020.09(1个月)" class="work-item-content-duration">2020.08-2020.09(1个月)</span>
+																						</span>
+																					</div>
+																				</div>
+																			</div>
+																			<div class="new-resume-right-item new-resume-edu" style="width: 594px;">
+																				<div class="new-resume-edu-item">
+																					<span role="img" class="anticon" style="margin-right: 6px; font-size: 19px;">
+																						<svg width="1em" height="1em" viewBox="0 0 19 19" xmlns="http://www.w3.org/2000/svg" fill="currentColor" aria-hidden="true" focusable="false" class="">
+																							<g fill="none" fill-rule="evenodd">
+																								<path d="M0 0h19v19H0z"/>
+																								<path d="M5.004 9.93c.072 0 .143.016.209.047l2.197 1.045a4.85 4.85 0 004.18 0l2.197-1.045a.493.493 0 01.663.253.53.53 0 01.046.216v1.122a2.08 2.08 0 01-.97 1.77l-1.528.947a4.722 4.722 0 01-4.996 0l-1.528-.947a2.08 2.08 0 01-.97-1.77v-1.122c0-.285.224-.517.5-.517zm2.112-5.432a5.819 5.819 0 014.76.021L15.4 6.113a1.046 1.046 0 010 1.892l-3.47 1.568a5.82 5.82 0 01-4.853-.02L3.591 7.938a1.045 1.045 0 01.016-1.892v.001z" fill="#D3DAE5" fill-rule="nonzero"/>
+																							</g>
+																						</svg>
+																					</span>
+																					<div title="西安科技大学 · 物联网工程 · 本科 · 统招 2017.09-2021.07(4年)" class="edu-item-content">
+																						<span>西安科技大学</span>
+																						<em>·</em>
+																						<span>物联网工程</span>
+																						<em>·</em>
+																						<span>本科</span>
+																						<em>·</em>
+																						<span>统招</span>
+																						<span class="edu-item-content-duration">2017.09-2021.07(4年)</span>
+																					</div>
+																				</div>
+																				<div class="new-resume-edu-item edu-item-content-icon">
+																					<div title="西安科技大学 · 物联网工程 · 本科 · 统招 2017.09-2021.07(4年)" class="edu-item-content">
+																						<span>西安科技大学</span>
+																						<em>·</em>
+																						<span>物联网工程</span>
+																						<em>·</em>
+																						<span>本科</span>
+																						<em>·</em>
+																						<span>统招</span>
+																						<span class="edu-item-content-duration">2017.09-2021.07(4年)</span>
+																					</div>
+																				</div>
+																			</div>
+																		</div>
+																		<button type="button" class="ant-btn resume-item-chat ant-btn-sm">
+																			<span>立即沟通</span>
+																		</button>
+																	</div>
+																</div>
+															</li>
+															<li data-resumeidencode="20958ddf72X365e98a5f4b9" data-resumeurl="https://lpt.liepin.com/cvview/showresumedetail?resIdEncode=20958ddf72X365e98a5f4b9&amp;sfrom=R_SEARCH_CONDITION&amp;ck_id=cae454c1-2c43-45f6-937d-5b81bb21cc10&amp;sk_id=cae454c1-2c43-45f6-937d-5b81bb21cc10&amp;fk_id=cae454c1-2c43-45f6-937d-5b81bb21cc10&amp;sv=abtest-page-search_resume-new&amp;st=0&amp;cur_page=0&amp;page_size=20&amp;auth_status=0&amp;res_source=1&amp;index=7&amp;position=8&amp;sss=54743de9f199cd97ebc07cdeac5d9fae&amp;sScene=49382s7WS&amp;dqCode=&amp;jobtitleCode=N000046" data-info="%7B%22sfrom%22%3A%22R_SEARCH_CONDITION%22%7D" class="resumecard-new-li-wrap">
+																<label class="checkbox-box ant-checkbox-wrapper">
+																	<span class="ant-checkbox">
+																		<input type="checkbox" class="ant-checkbox-input" value="20958ddf72X365e98a5f4b9">
+																			<span class="ant-checkbox-inner"/>
+																		</span>
+																	</label>
+																	<div class="clearfix resume-card resume-card-container resume-card-new resume-card-new-20958ddf72X365e98a5f4b9" data-info="%7B%22res_id%22%3A%2220958ddf72X365e98a5f4b9%22%2C%22sk_id%22%3A%22cae454c1-2c43-45f6-937d-5b81bb21cc10%22%2C%22ck_id%22%3A%22cae454c1-2c43-45f6-937d-5b81bb21cc10%22%2C%22fk_id%22%3A%22cae454c1-2c43-45f6-937d-5b81bb21cc10%22%2C%22res_source%22%3A%221%22%2C%22sfrom%22%3A%22R_SEARCH_CONDITION%22%2C%22shield_flag%22%3A0%7D">
+																		<div class="new-search-card-container">
+																			<div class="new-search-left">
+																				<div class="new-resume-status">
+																					<div class="">
+																						<img class="new-resume-logo" src="//image0.lietou-static.com/big/5f8fa3a8ea60860b75385c7208u.png" alt="头像"/>
+																						<span class="new-resume-offline"/>
+																					</div>
+																					<div class="new-resume-personal" style="width: 312px;">
+																						<div class="new-resume-personal-name">
+																							<em>邱**</em>
+																							<span role="img" class="anticon" style="margin-left: 8px; font-size: 16px;">
+																								<svg width="1em" height="1em" viewBox="0 0 16 17" xmlns="http://www.w3.org/2000/svg" fill="currentColor" aria-hidden="true" focusable="false" class="">
+																									<g transform="translate(0 .41)" fill="none" fill-rule="evenodd">
+																										<ellipse fill="#085DFF" opacity="0.2" cx="8" cy="8.268" rx="7.429" ry="7.677"/>
+																										<g fill-rule="nonzero" stroke="#085DFF" stroke-width="1.2">
+																											<path d="M7.04 12.366c1.507 0 2.727-1.257 2.727-2.808 0-1.55-1.22-2.808-2.726-2.808S4.315 8.007 4.315 9.558s1.22 2.808 2.726 2.808z"/>
+																											<path stroke-linecap="square" d="M8.625 7.103l1.29-1.763"/>
+																											<path stroke-linecap="round" d="M8 4.578h2.496l.78 2.172"/>
+																										</g>
+																									</g>
+																								</svg>
+																							</span>
+																						</div>
+																						<div class="new-resume-personal-detail">
+																							<span title="28岁" class="personal-detail-age" style="max-width: 50px;">28岁</span>
+																							<span title="工作6年" class="personal-detail-workyears" style="max-width: 78px;">工作6年</span>
+																							<span title="本科" class="personal-detail-edulevel" style="max-width: 78px;">本科</span>
+																							<span title="杭州" class="personal-detail-dq">杭州</span>
+																						</div>
+																						<div class="new-resume-personal-expect">
+																							<em>求职期望：</em>
+																							<span title="武汉  嵌入式软件开发" class="personal-expect-content">
+																								<span>武汉</span>
+																								<span>嵌入式软件开发</span>
+																							</span>
+																						</div>
+																						<div class="new-resume-personal-skills">
+																							<span>新能源</span>
+																							<span>模块开发</span>
+																							<span>R语言</span>
+																							<span>Docker</span>
+																							<span>D语言</span>
+																							<span>C/C++</span>
+																							<span>C语言</span>
+																							<span>Objective-C</span>
+																						</div>
+																					</div>
+																				</div>
+																				<div class="new-search-right">
+																					<div class="new-resume-right-item new-resume-work" style="width: 594px;">
+																						<div class="new-resume-work-item">
+																							<span role="img" class="anticon" style="margin-right: 6px; font-size: 19px;">
+																								<svg width="1em" height="1em" viewBox="0 0 19 19" xmlns="http://www.w3.org/2000/svg" fill="currentColor" aria-hidden="true" focusable="false" class="">
+																									<g fill="none" fill-rule="evenodd">
+																										<path d="M0 0h19v19H0z"/>
+																										<path d="M9.883 4.31c.078.213.117.438.117.664v8.052h1v-5.34a.993.993 0 011-.988c.15 0 .296.033.431.097l1.862.878A2.957 2.957 0 0116 10.343v2.684c0 1.09-.895 1.973-2 1.973h-3v-.001h-1V15H5c-1.105 0-2-.883-2-1.973v-6.3c0-1.252.797-2.368 1.991-2.788l2.336-.824A2.007 2.007 0 019.883 4.31zM7.5 10.067h-2c-.276 0-.5.22-.5.493 0 .242.177.444.41.486l.09.007h2c.276 0 .5-.22.5-.493a.497.497 0 00-.5-.493zm6 0h-1c-.276 0-.5.22-.5.493 0 .242.177.444.41.486l.09.007h1c.276 0 .5-.22.5-.493a.497.497 0 00-.5-.493zm-6-2.96h-2c-.276 0-.5.22-.5.493 0 .242.177.444.41.486l.09.008h2c.276 0 .5-.221.5-.494a.497.497 0 00-.5-.493z" fill="#D3DAE5" fill-rule="nonzero"/>
+																									</g>
+																								</svg>
+																							</span>
+																							<div class="work-item-content">
+																								<span title="浙江中自庆安新能源技术有限公司" class="work-item-compname" style="max-width: 252px;">浙江中自庆安新能源技术有限公司</span>
+																								<em>·</em>
+																								<span class="work-item-extra">
+																									<span title="嵌入式开发工程师">
+																										<span data-selector="keyword_嵌入式开发" class="jsx-3110714573 c-highlight">嵌入式开发</span>工程师</span>
+																									<span title="2021.11-至今(1年11个月)" class="work-item-content-duration">2021.11-至今(1年11个月)</span>
+																								</span>
+																							</div>
+																						</div>
+																						<div class="new-resume-work-item work-item-content-icon">
+																							<div class="work-item-content">
+																								<span title="浙江中自庆安新能源技术有限公司" class="work-item-compname" style="max-width: 252px;">浙江中自庆安新能源技术有限公司</span>
+																								<em>·</em>
+																								<span class="work-item-extra">
+																									<span title="测试工程师">测试工程师</span>
+																									<span title="2019.07-2021.10(2年3个月)" class="work-item-content-duration">2019.07-2021.10(2年3个月)</span>
+																								</span>
+																							</div>
+																						</div>
+																					</div>
+																					<div class="new-resume-right-item new-resume-edu" style="width: 594px;">
+																						<div class="new-resume-edu-item">
+																							<span role="img" class="anticon" style="margin-right: 6px; font-size: 19px;">
+																								<svg width="1em" height="1em" viewBox="0 0 19 19" xmlns="http://www.w3.org/2000/svg" fill="currentColor" aria-hidden="true" focusable="false" class="">
+																									<g fill="none" fill-rule="evenodd">
+																										<path d="M0 0h19v19H0z"/>
+																										<path d="M5.004 9.93c.072 0 .143.016.209.047l2.197 1.045a4.85 4.85 0 004.18 0l2.197-1.045a.493.493 0 01.663.253.53.53 0 01.046.216v1.122a2.08 2.08 0 01-.97 1.77l-1.528.947a4.722 4.722 0 01-4.996 0l-1.528-.947a2.08 2.08 0 01-.97-1.77v-1.122c0-.285.224-.517.5-.517zm2.112-5.432a5.819 5.819 0 014.76.021L15.4 6.113a1.046 1.046 0 010 1.892l-3.47 1.568a5.82 5.82 0 01-4.853-.02L3.591 7.938a1.045 1.045 0 01.016-1.892v.001z" fill="#D3DAE5" fill-rule="nonzero"/>
+																									</g>
+																								</svg>
+																							</span>
+																							<div title="河南科技大学 · 测控技术与仪器 · 本科 · 统招 2015.09-2019.07(4年)" class="edu-item-content">
+																								<span>河南科技大学</span>
+																								<em>·</em>
+																								<span>测控技术与仪器</span>
+																								<em>·</em>
+																								<span>本科</span>
+																								<em>·</em>
+																								<span>统招</span>
+																								<span class="edu-item-content-duration">2015.09-2019.07(4年)</span>
+																							</div>
+																						</div>
+																					</div>
+																				</div>
+																				<button type="button" class="ant-btn resume-item-chat ant-btn-sm">
+																					<span>立即沟通</span>
+																				</button>
+																			</div>
+																		</div>
+																	</li>
+																	<li data-resumeidencode="2b9385de71V38589ca5f6bd" data-resumeurl="https://lpt.liepin.com/cvview/showresumedetail?resIdEncode=2b9385de71V38589ca5f6bd&amp;sfrom=R_SEARCH_CONDITION&amp;ck_id=cae454c1-2c43-45f6-937d-5b81bb21cc10&amp;sk_id=cae454c1-2c43-45f6-937d-5b81bb21cc10&amp;fk_id=cae454c1-2c43-45f6-937d-5b81bb21cc10&amp;sv=abtest-page-search_resume-new&amp;st=0&amp;cur_page=0&amp;page_size=20&amp;auth_status=0&amp;res_source=1&amp;index=8&amp;position=9&amp;sss=bb87b284af6c925d6f5f8763ebd3fedf&amp;sScene=49382s7WS&amp;dqCode=&amp;jobtitleCode=N000046" data-info="%7B%22sfrom%22%3A%22R_SEARCH_CONDITION%22%7D" class="resumecard-new-li-wrap">
+																		<label class="checkbox-box ant-checkbox-wrapper">
+																			<span class="ant-checkbox">
+																				<input type="checkbox" class="ant-checkbox-input" value="2b9385de71V38589ca5f6bd">
+																					<span class="ant-checkbox-inner"/>
+																				</span>
+																			</label>
+																			<div class="clearfix resume-card resume-card-container resume-card-new resume-card-new-2b9385de71V38589ca5f6bd" data-info="%7B%22res_id%22%3A%222b9385de71V38589ca5f6bd%22%2C%22sk_id%22%3A%22cae454c1-2c43-45f6-937d-5b81bb21cc10%22%2C%22ck_id%22%3A%22cae454c1-2c43-45f6-937d-5b81bb21cc10%22%2C%22fk_id%22%3A%22cae454c1-2c43-45f6-937d-5b81bb21cc10%22%2C%22res_source%22%3A%221%22%2C%22sfrom%22%3A%22R_SEARCH_CONDITION%22%2C%22shield_flag%22%3A0%7D">
+																				<div class="new-search-card-container">
+																					<div class="new-search-left">
+																						<div class="new-resume-status">
+																							<div class="">
+																								<img class="new-resume-logo" src="//image0.lietou-static.com/big/5f8fa3a78dbe6273dcf85e2608u.png" alt="头像"/>
+																								<span class="new-resume-offline"/>
+																							</div>
+																							<div class="new-resume-personal" style="width: 312px;">
+																								<div class="new-resume-personal-name">
+																									<em>李**</em>
+																									<span role="img" class="anticon" style="margin-left: 8px; font-size: 16px;">
+																										<svg width="1em" height="1em" viewBox="0 0 16 17" xmlns="http://www.w3.org/2000/svg" fill="currentColor" aria-hidden="true" focusable="false" class="">
+																											<g transform="translate(0 .41)" fill="none" fill-rule="evenodd">
+																												<ellipse fill="#085DFF" opacity="0.2" cx="8" cy="8.268" rx="7.429" ry="7.677"/>
+																												<g fill-rule="nonzero" stroke="#085DFF" stroke-width="1.2">
+																													<path d="M7.04 12.366c1.507 0 2.727-1.257 2.727-2.808 0-1.55-1.22-2.808-2.726-2.808S4.315 8.007 4.315 9.558s1.22 2.808 2.726 2.808z"/>
+																													<path stroke-linecap="square" d="M8.625 7.103l1.29-1.763"/>
+																													<path stroke-linecap="round" d="M8 4.578h2.496l.78 2.172"/>
+																												</g>
+																											</g>
+																										</svg>
+																									</span>
+																								</div>
+																								<div class="new-resume-personal-detail">
+																									<span title="25岁" class="personal-detail-age" style="max-width: 50px;">25岁</span>
+																									<span title="工作3年" class="personal-detail-workyears" style="max-width: 78px;">工作3年</span>
+																									<span title="本科" class="personal-detail-edulevel" style="max-width: 78px;">本科</span>
+																									<span title="佛山-南海区" class="personal-detail-dq">佛山-南海区</span>
+																								</div>
+																								<div class="new-resume-personal-expect">
+																									<em>求职期望：</em>
+																									<span title="佛山  销售工程师" class="personal-expect-content">
+																										<span>佛山</span>
+																										<span>销售工程师</span>
+																									</span>
+																								</div>
+																								<div class="new-resume-personal-skills">
+																									<span>计算机软件</span>
+																									<span>C/C++</span>
+																									<span>C语言</span>
+																								</div>
+																							</div>
+																						</div>
+																						<div class="new-search-right">
+																							<div class="new-resume-right-item new-resume-work" style="width: 594px;">
+																								<div class="new-resume-work-item">
+																									<span role="img" class="anticon" style="margin-right: 6px; font-size: 19px;">
+																										<svg width="1em" height="1em" viewBox="0 0 19 19" xmlns="http://www.w3.org/2000/svg" fill="currentColor" aria-hidden="true" focusable="false" class="">
+																											<g fill="none" fill-rule="evenodd">
+																												<path d="M0 0h19v19H0z"/>
+																												<path d="M9.883 4.31c.078.213.117.438.117.664v8.052h1v-5.34a.993.993 0 011-.988c.15 0 .296.033.431.097l1.862.878A2.957 2.957 0 0116 10.343v2.684c0 1.09-.895 1.973-2 1.973h-3v-.001h-1V15H5c-1.105 0-2-.883-2-1.973v-6.3c0-1.252.797-2.368 1.991-2.788l2.336-.824A2.007 2.007 0 019.883 4.31zM7.5 10.067h-2c-.276 0-.5.22-.5.493 0 .242.177.444.41.486l.09.007h2c.276 0 .5-.22.5-.493a.497.497 0 00-.5-.493zm6 0h-1c-.276 0-.5.22-.5.493 0 .242.177.444.41.486l.09.007h1c.276 0 .5-.22.5-.493a.497.497 0 00-.5-.493zm-6-2.96h-2c-.276 0-.5.22-.5.493 0 .242.177.444.41.486l.09.008h2c.276 0 .5-.221.5-.494a.497.497 0 00-.5-.493z" fill="#D3DAE5" fill-rule="nonzero"/>
+																											</g>
+																										</svg>
+																									</span>
+																									<div class="work-item-content">
+																										<span title="广东广宇科技发展有限公司" class="work-item-compname" style="max-width: 252px;">广东广宇科技发展有限公司</span>
+																										<em>·</em>
+																										<span class="work-item-extra">
+																											<span title="嵌入式开发工程师">
+																												<span data-selector="keyword_嵌入式开发" class="jsx-3110714573 c-highlight">嵌入式开发</span>工程师</span>
+																											<span title="2022.08-至今(1年2个月)" class="work-item-content-duration">2022.08-至今(1年2个月)</span>
+																										</span>
+																									</div>
+																								</div>
+																								<div class="new-resume-work-item work-item-content-icon">
+																									<div class="work-item-content">
+																										<span title="深圳市矽昊智能科技有限公司" class="work-item-compname" style="max-width: 252px;">深圳市矽昊智能科技有限公司</span>
+																										<em>·</em>
+																										<span class="work-item-extra">
+																											<span title="嵌入式软件工程师">嵌入式软件工程师</span>
+																											<span title="2022.01-2022.06(5个月)" class="work-item-content-duration">2022.01-2022.06(5个月)</span>
+																										</span>
+																									</div>
+																								</div>
+																								<div class="new-resume-work-item work-item-content-icon">
+																									<div class="work-item-content">
+																										<span title="佛山云芯电子科技有限公司" class="work-item-compname" style="max-width: 252px;">佛山云芯电子科技有限公司</span>
+																										<em>·</em>
+																										<span class="work-item-extra">
+																											<span title="单片机">单片机</span>
+																											<span title="2020.06-2021.12(1年6个月)" class="work-item-content-duration">2020.06-2021.12(1年6个月)</span>
+																										</span>
+																									</div>
+																								</div>
+																							</div>
+																							<div class="new-resume-right-item new-resume-edu" style="width: 594px;">
+																								<div class="new-resume-edu-item">
+																									<span role="img" class="anticon" style="margin-right: 6px; font-size: 19px;">
+																										<svg width="1em" height="1em" viewBox="0 0 19 19" xmlns="http://www.w3.org/2000/svg" fill="currentColor" aria-hidden="true" focusable="false" class="">
+																											<g fill="none" fill-rule="evenodd">
+																												<path d="M0 0h19v19H0z"/>
+																												<path d="M5.004 9.93c.072 0 .143.016.209.047l2.197 1.045a4.85 4.85 0 004.18 0l2.197-1.045a.493.493 0 01.663.253.53.53 0 01.046.216v1.122a2.08 2.08 0 01-.97 1.77l-1.528.947a4.722 4.722 0 01-4.996 0l-1.528-.947a2.08 2.08 0 01-.97-1.77v-1.122c0-.285.224-.517.5-.517zm2.112-5.432a5.819 5.819 0 014.76.021L15.4 6.113a1.046 1.046 0 010 1.892l-3.47 1.568a5.82 5.82 0 01-4.853-.02L3.591 7.938a1.045 1.045 0 01.016-1.892v.001z" fill="#D3DAE5" fill-rule="nonzero"/>
+																											</g>
+																										</svg>
+																									</span>
+																									<div title="广州航海学院 · 船舶电子电气专业 · 本科 · 统招 2016.09-2020.06(4年)" class="edu-item-content">
+																										<span>广州航海学院</span>
+																										<em>·</em>
+																										<span>船舶电子电气专业</span>
+																										<em>·</em>
+																										<span>本科</span>
+																										<em>·</em>
+																										<span>统招</span>
+																										<span class="edu-item-content-duration">2016.09-2020.06(4年)</span>
+																									</div>
+																								</div>
+																							</div>
+																						</div>
+																						<button type="button" class="ant-btn resume-item-chat ant-btn-sm">
+																							<span>立即沟通</span>
+																						</button>
+																					</div>
+																				</div>
+																			</li>
+																			<li data-resumeidencode="2f9b86d278R315f98aaf3ba" data-resumeurl="https://lpt.liepin.com/cvview/showresumedetail?resIdEncode=2f9b86d278R315f98aaf3ba&amp;sfrom=R_SEARCH_CONDITION&amp;ck_id=cae454c1-2c43-45f6-937d-5b81bb21cc10&amp;sk_id=cae454c1-2c43-45f6-937d-5b81bb21cc10&amp;fk_id=cae454c1-2c43-45f6-937d-5b81bb21cc10&amp;sv=abtest-page-search_resume-new&amp;st=0&amp;cur_page=0&amp;page_size=20&amp;auth_status=0&amp;res_source=1&amp;index=9&amp;position=10&amp;sss=e774a71d70b2c5fffa7566f3841932dd&amp;sScene=49382s7WS&amp;dqCode=&amp;jobtitleCode=N000046" data-info="%7B%22sfrom%22%3A%22R_SEARCH_CONDITION%22%7D" class="resumecard-new-li-wrap">
+																				<label class="checkbox-box ant-checkbox-wrapper">
+																					<span class="ant-checkbox">
+																						<input type="checkbox" class="ant-checkbox-input" value="2f9b86d278R315f98aaf3ba">
+																							<span class="ant-checkbox-inner"/>
+																						</span>
+																					</label>
+																					<div class="clearfix resume-card resume-card-container resume-card-new resume-card-new-2f9b86d278R315f98aaf3ba" data-info="%7B%22res_id%22%3A%222f9b86d278R315f98aaf3ba%22%2C%22sk_id%22%3A%22cae454c1-2c43-45f6-937d-5b81bb21cc10%22%2C%22ck_id%22%3A%22cae454c1-2c43-45f6-937d-5b81bb21cc10%22%2C%22fk_id%22%3A%22cae454c1-2c43-45f6-937d-5b81bb21cc10%22%2C%22res_source%22%3A%221%22%2C%22sfrom%22%3A%22R_SEARCH_CONDITION%22%2C%22shield_flag%22%3A0%7D">
+																						<div class="new-search-card-container">
+																							<div class="new-search-left">
+																								<div class="new-resume-status">
+																									<div class="">
+																										<img class="new-resume-logo" src="//image0.lietou-static.com/big/5dbaebdacd52473b94b4e6e806u.png" alt="头像"/>
+																										<span class="new-resume-offline new-resume-offline-active">
+																											<em>今天活跃</em>
+																										</span>
+																									</div>
+																									<div class="new-resume-personal" style="width: 312px;">
+																										<div class="new-resume-personal-name">
+																											<em>张**</em>
+																											<span role="img" class="anticon" style="margin-left: 8px; font-size: 16px;">
+																												<svg width="1em" height="1em" viewBox="0 0 16 17" xmlns="http://www.w3.org/2000/svg" fill="currentColor" aria-hidden="true" focusable="false" class="">
+																													<g transform="translate(0 .41)" fill="none" fill-rule="evenodd">
+																														<ellipse fill="#085DFF" opacity="0.2" cx="8" cy="8.268" rx="7.429" ry="7.677"/>
+																														<g fill-rule="nonzero" stroke="#085DFF" stroke-width="1.2">
+																															<path d="M7.04 12.366c1.507 0 2.727-1.257 2.727-2.808 0-1.55-1.22-2.808-2.726-2.808S4.315 8.007 4.315 9.558s1.22 2.808 2.726 2.808z"/>
+																															<path stroke-linecap="square" d="M8.625 7.103l1.29-1.763"/>
+																															<path stroke-linecap="round" d="M8 4.578h2.496l.78 2.172"/>
+																														</g>
+																													</g>
+																												</svg>
+																											</span>
+																										</div>
+																										<div class="new-resume-personal-detail">
+																											<span title="31岁" class="personal-detail-age" style="max-width: 50px;">31岁</span>
+																											<span title="工作9年" class="personal-detail-workyears" style="max-width: 78px;">工作9年</span>
+																											<span title="本科" class="personal-detail-edulevel" style="max-width: 78px;">本科</span>
+																											<span title="深圳-南山区" class="personal-detail-dq">深圳-南山区</span>
+																										</div>
+																										<div class="new-resume-personal-expect">
+																											<em>求职期望：</em>
+																											<span title="深圳  技术/研发经理" class="personal-expect-content">
+																												<span>深圳</span>
+																												<span>技术/研发经理</span>
+																											</span>
+																										</div>
+																										<div class="new-resume-personal-skills">
+																											<span>人工智能</span>
+																										</div>
+																									</div>
+																								</div>
+																								<div class="new-search-right">
+																									<div class="new-resume-right-item new-resume-work" style="width: 594px;">
+																										<div class="new-resume-work-item">
+																											<span role="img" class="anticon" style="margin-right: 6px; font-size: 19px;">
+																												<svg width="1em" height="1em" viewBox="0 0 19 19" xmlns="http://www.w3.org/2000/svg" fill="currentColor" aria-hidden="true" focusable="false" class="">
+																													<g fill="none" fill-rule="evenodd">
+																														<path d="M0 0h19v19H0z"/>
+																														<path d="M9.883 4.31c.078.213.117.438.117.664v8.052h1v-5.34a.993.993 0 011-.988c.15 0 .296.033.431.097l1.862.878A2.957 2.957 0 0116 10.343v2.684c0 1.09-.895 1.973-2 1.973h-3v-.001h-1V15H5c-1.105 0-2-.883-2-1.973v-6.3c0-1.252.797-2.368 1.991-2.788l2.336-.824A2.007 2.007 0 019.883 4.31zM7.5 10.067h-2c-.276 0-.5.22-.5.493 0 .242.177.444.41.486l.09.007h2c.276 0 .5-.22.5-.493a.497.497 0 00-.5-.493zm6 0h-1c-.276 0-.5.22-.5.493 0 .242.177.444.41.486l.09.007h1c.276 0 .5-.22.5-.493a.497.497 0 00-.5-.493zm-6-2.96h-2c-.276 0-.5.22-.5.493 0 .242.177.444.41.486l.09.008h2c.276 0 .5-.221.5-.494a.497.497 0 00-.5-.493z" fill="#D3DAE5" fill-rule="nonzero"/>
+																													</g>
+																												</svg>
+																											</span>
+																											<div class="work-item-content">
+																												<span title="苏州思必驰信息科技有限公司" class="work-item-compname" style="max-width: 252px;">苏州思必驰信息科技有限公司</span>
+																												<em>·</em>
+																												<span class="work-item-extra">
+																													<span title="嵌入式开发leader">
+																														<span data-selector="keyword_嵌入式开发" class="jsx-3110714573 c-highlight">嵌入式开发</span>leader</span>
+																													<span title="2018.03-至今(5年7个月)" class="work-item-content-duration">2018.03-至今(5年7个月)</span>
+																												</span>
+																											</div>
+																										</div>
+																										<div class="new-resume-work-item work-item-content-icon">
+																											<div class="work-item-content">
+																												<span title="深圳市慧声信息科技有限公司" class="work-item-compname" style="max-width: 252px;">深圳市慧声信息科技有限公司</span>
+																												<em>·</em>
+																												<span class="work-item-extra">
+																													<span title="嵌入式软件工程师">嵌入式软件工程师</span>
+																													<span title="2018.03-2020.01(1年10个月)" class="work-item-content-duration">2018.03-2020.01(1年10个月)</span>
+																												</span>
+																											</div>
+																										</div>
+																										<div class="new-resume-work-item work-item-content-icon">
+																											<div class="work-item-content">
+																												<span title="上海庆科信息技术有限公司" class="work-item-compname" style="max-width: 252px;">上海庆科信息技术有限公司</span>
+																												<em>·</em>
+																												<span class="work-item-extra">
+																													<span title="嵌入式">嵌入式</span>
+																													<span title="2016.09-2018.02(1年5个月)" class="work-item-content-duration">2016.09-2018.02(1年5个月)</span>
+																												</span>
+																											</div>
+																										</div>
+																									</div>
+																									<div class="new-resume-right-item new-resume-edu" style="width: 594px;">
+																										<div class="new-resume-edu-item">
+																											<span role="img" class="anticon" style="margin-right: 6px; font-size: 19px;">
+																												<svg width="1em" height="1em" viewBox="0 0 19 19" xmlns="http://www.w3.org/2000/svg" fill="currentColor" aria-hidden="true" focusable="false" class="">
+																													<g fill="none" fill-rule="evenodd">
+																														<path d="M0 0h19v19H0z"/>
+																														<path d="M5.004 9.93c.072 0 .143.016.209.047l2.197 1.045a4.85 4.85 0 004.18 0l2.197-1.045a.493.493 0 01.663.253.53.53 0 01.046.216v1.122a2.08 2.08 0 01-.97 1.77l-1.528.947a4.722 4.722 0 01-4.996 0l-1.528-.947a2.08 2.08 0 01-.97-1.77v-1.122c0-.285.224-.517.5-.517zm2.112-5.432a5.819 5.819 0 014.76.021L15.4 6.113a1.046 1.046 0 010 1.892l-3.47 1.568a5.82 5.82 0 01-4.853-.02L3.591 7.938a1.045 1.045 0 01.016-1.892v.001z" fill="#D3DAE5" fill-rule="nonzero"/>
+																													</g>
+																												</svg>
+																											</span>
+																											<div title="广东石油化工学院 · 电气工程及其自动化 · 本科 · 统招 2011.09-2015.07(4年)" class="edu-item-content">
+																												<span>广东石油化工学院</span>
+																												<em>·</em>
+																												<span>电气工程及其自动化</span>
+																												<em>·</em>
+																												<span>本科</span>
+																												<em>·</em>
+																												<span>统招</span>
+																												<span class="edu-item-content-duration">2011.09-2015.07(4年)</span>
+																											</div>
+																										</div>
+																									</div>
+																								</div>
+																								<button type="button" class="ant-btn resume-item-chat ant-btn-sm">
+																									<span>立即沟通</span>
+																								</button>
+																							</div>
+																						</div>
+																					</li>
+																					<li data-resumeidencode="279f88de7eK345c9ea4f3b7" data-resumeurl="https://lpt.liepin.com/cvview/showresumedetail?resIdEncode=279f88de7eK345c9ea4f3b7&amp;sfrom=R_SEARCH_CONDITION&amp;ck_id=cae454c1-2c43-45f6-937d-5b81bb21cc10&amp;sk_id=cae454c1-2c43-45f6-937d-5b81bb21cc10&amp;fk_id=cae454c1-2c43-45f6-937d-5b81bb21cc10&amp;sv=abtest-page-search_resume-new&amp;st=0&amp;cur_page=0&amp;page_size=20&amp;auth_status=0&amp;res_source=1&amp;index=10&amp;position=11&amp;sss=96ff4617ac2ef2d7b6f540e3766d7354&amp;sScene=49382s7WS&amp;dqCode=&amp;jobtitleCode=N000046" data-info="%7B%22sfrom%22%3A%22R_SEARCH_CONDITION%22%7D" class="resumecard-new-li-wrap">
+																						<label class="checkbox-box ant-checkbox-wrapper">
+																							<span class="ant-checkbox">
+																								<input type="checkbox" class="ant-checkbox-input" value="279f88de7eK345c9ea4f3b7">
+																									<span class="ant-checkbox-inner"/>
+																								</span>
+																							</label>
+																							<div class="clearfix resume-card resume-card-container resume-card-new resume-card-new-279f88de7eK345c9ea4f3b7" data-info="%7B%22res_id%22%3A%22279f88de7eK345c9ea4f3b7%22%2C%22sk_id%22%3A%22cae454c1-2c43-45f6-937d-5b81bb21cc10%22%2C%22ck_id%22%3A%22cae454c1-2c43-45f6-937d-5b81bb21cc10%22%2C%22fk_id%22%3A%22cae454c1-2c43-45f6-937d-5b81bb21cc10%22%2C%22res_source%22%3A%221%22%2C%22sfrom%22%3A%22R_SEARCH_CONDITION%22%2C%22shield_flag%22%3A0%7D">
+																								<div class="new-search-card-container">
+																									<div class="new-search-left">
+																										<div class="new-resume-status">
+																											<div class="">
+																												<img class="new-resume-logo" src="//image0.lietou-static.com/big/6524d4cb721a3b4f0ca69eba06u.jpg" alt="头像"/>
+																												<span class="new-resume-offline new-resume-offline-active">
+																													<em>今天活跃</em>
+																												</span>
+																											</div>
+																											<div class="new-resume-personal" style="width: 312px;">
+																												<div class="new-resume-personal-name">
+																													<em>李**</em>
+																													<span role="img" class="anticon" style="margin-left: 8px; font-size: 16px;">
+																														<svg width="1em" height="1em" viewBox="0 0 16 17" xmlns="http://www.w3.org/2000/svg" fill="currentColor" aria-hidden="true" focusable="false" class="">
+																															<g transform="translate(0 .41)" fill="none" fill-rule="evenodd">
+																																<ellipse fill="#085DFF" opacity="0.2" cx="8" cy="8.268" rx="7.429" ry="7.677"/>
+																																<g fill-rule="nonzero" stroke="#085DFF" stroke-width="1.2">
+																																	<path d="M7.04 12.366c1.507 0 2.727-1.257 2.727-2.808 0-1.55-1.22-2.808-2.726-2.808S4.315 8.007 4.315 9.558s1.22 2.808 2.726 2.808z"/>
+																																	<path stroke-linecap="square" d="M8.625 7.103l1.29-1.763"/>
+																																	<path stroke-linecap="round" d="M8 4.578h2.496l.78 2.172"/>
+																																</g>
+																															</g>
+																														</svg>
+																													</span>
+																												</div>
+																												<div class="new-resume-personal-detail">
+																													<span title="23岁" class="personal-detail-age" style="max-width: 50px;">23岁</span>
+																													<span title="2023年毕业" class="personal-detail-workyears" style="max-width: 78px;">2023年毕业</span>
+																													<span title="本科" class="personal-detail-edulevel" style="max-width: 78px;">本科</span>
+																													<span title="茂名-茂南区" class="personal-detail-dq">茂名-茂南区</span>
+																												</div>
+																												<div class="new-resume-personal-expect">
+																													<em>求职期望：</em>
+																													<span title="广州  嵌入式开发" class="personal-expect-content">
+																														<span>广州</span>
+																														<span>嵌入式开发</span>
+																													</span>
+																												</div>
+																												<div class="new-resume-personal-skills">
+																													<span>计算机软件</span>
+																													<span>嵌入式开发</span>
+																													<span>软件开发</span>
+																												</div>
+																											</div>
+																										</div>
+																										<div class="new-search-right">
+																											<div class="new-resume-right-item new-resume-work" style="width: 594px;">
+																												<div class="new-resume-work-item">
+																													<span role="img" class="anticon" style="margin-right: 6px; font-size: 19px;">
+																														<svg width="1em" height="1em" viewBox="0 0 19 19" xmlns="http://www.w3.org/2000/svg" fill="currentColor" aria-hidden="true" focusable="false" class="">
+																															<g fill="none" fill-rule="evenodd">
+																																<path d="M0 0h19v19H0z"/>
+																																<path d="M9.883 4.31c.078.213.117.438.117.664v8.052h1v-5.34a.993.993 0 011-.988c.15 0 .296.033.431.097l1.862.878A2.957 2.957 0 0116 10.343v2.684c0 1.09-.895 1.973-2 1.973h-3v-.001h-1V15H5c-1.105 0-2-.883-2-1.973v-6.3c0-1.252.797-2.368 1.991-2.788l2.336-.824A2.007 2.007 0 019.883 4.31zM7.5 10.067h-2c-.276 0-.5.22-.5.493 0 .242.177.444.41.486l.09.007h2c.276 0 .5-.22.5-.493a.497.497 0 00-.5-.493zm6 0h-1c-.276 0-.5.22-.5.493 0 .242.177.444.41.486l.09.007h1c.276 0 .5-.22.5-.493a.497.497 0 00-.5-.493zm-6-2.96h-2c-.276 0-.5.22-.5.493 0 .242.177.444.41.486l.09.008h2c.276 0 .5-.221.5-.494a.497.497 0 00-.5-.493z" fill="#D3DAE5" fill-rule="nonzero"/>
+																															</g>
+																														</svg>
+																													</span>
+																													<div class="work-item-content">
+																														<span title="珠海向量科技有限公司" class="work-item-compname" style="max-width: 252px;">珠海向量科技有限公司</span>
+																														<em>·</em>
+																														<span class="work-item-extra">
+																															<span title="嵌入式开发助理">
+																																<span data-selector="keyword_嵌入式开发" class="jsx-3110714573 c-highlight">嵌入式开发</span>助理</span>
+																															<span title="2022.10-2023.02(4个月)" class="work-item-content-duration">2022.10-2023.02(4个月)</span>
+																														</span>
+																													</div>
+																												</div>
+																											</div>
+																											<div class="new-resume-right-item new-resume-edu" style="width: 594px;">
+																												<div class="new-resume-edu-item">
+																													<span role="img" class="anticon" style="margin-right: 6px; font-size: 19px;">
+																														<svg width="1em" height="1em" viewBox="0 0 19 19" xmlns="http://www.w3.org/2000/svg" fill="currentColor" aria-hidden="true" focusable="false" class="">
+																															<g fill="none" fill-rule="evenodd">
+																																<path d="M0 0h19v19H0z"/>
+																																<path d="M5.004 9.93c.072 0 .143.016.209.047l2.197 1.045a4.85 4.85 0 004.18 0l2.197-1.045a.493.493 0 01.663.253.53.53 0 01.046.216v1.122a2.08 2.08 0 01-.97 1.77l-1.528.947a4.722 4.722 0 01-4.996 0l-1.528-.947a2.08 2.08 0 01-.97-1.77v-1.122c0-.285.224-.517.5-.517zm2.112-5.432a5.819 5.819 0 014.76.021L15.4 6.113a1.046 1.046 0 010 1.892l-3.47 1.568a5.82 5.82 0 01-4.853-.02L3.591 7.938a1.045 1.045 0 01.016-1.892v.001z" fill="#D3DAE5" fill-rule="nonzero"/>
+																															</g>
+																														</svg>
+																													</span>
+																													<div title="北京理工大学珠海学院 · 计算机科学与技术 · 本科 · 统招 2019.09-2023.06(4年)" class="edu-item-content">
+																														<span>北京理工大学珠海学院</span>
+																														<em>·</em>
+																														<span>计算机科学与技术</span>
+																														<em>·</em>
+																														<span>本科</span>
+																														<em>·</em>
+																														<span>统招</span>
+																														<span class="edu-item-content-duration">2019.09-2023.06(4年)</span>
+																													</div>
+																												</div>
+																											</div>
+																										</div>
+																										<button type="button" class="ant-btn resume-item-chat ant-btn-sm">
+																											<span>立即沟通</span>
+																										</button>
+																									</div>
+																								</div>
+																							</li>
+																							<li data-resumeidencode="2a9e86d777A375b98aaf4b9" data-resumeurl="https://lpt.liepin.com/cvview/showresumedetail?resIdEncode=2a9e86d777A375b98aaf4b9&amp;sfrom=R_SEARCH_CONDITION&amp;ck_id=cae454c1-2c43-45f6-937d-5b81bb21cc10&amp;sk_id=cae454c1-2c43-45f6-937d-5b81bb21cc10&amp;fk_id=cae454c1-2c43-45f6-937d-5b81bb21cc10&amp;sv=abtest-page-search_resume-new&amp;st=0&amp;cur_page=0&amp;page_size=20&amp;auth_status=0&amp;res_source=1&amp;index=11&amp;position=12&amp;sss=3265eb29782c0bff1ee8437d37b52f51&amp;sScene=49382s7WS&amp;dqCode=&amp;jobtitleCode=N000046" data-info="%7B%22sfrom%22%3A%22R_SEARCH_CONDITION%22%7D" class="resumecard-new-li-wrap">
+																								<label class="checkbox-box ant-checkbox-wrapper">
+																									<span class="ant-checkbox">
+																										<input type="checkbox" class="ant-checkbox-input" value="2a9e86d777A375b98aaf4b9">
+																											<span class="ant-checkbox-inner"/>
+																										</span>
+																									</label>
+																									<div class="clearfix resume-card resume-card-container resume-card-new resume-card-new-2a9e86d777A375b98aaf4b9" data-info="%7B%22res_id%22%3A%222a9e86d777A375b98aaf4b9%22%2C%22sk_id%22%3A%22cae454c1-2c43-45f6-937d-5b81bb21cc10%22%2C%22ck_id%22%3A%22cae454c1-2c43-45f6-937d-5b81bb21cc10%22%2C%22fk_id%22%3A%22cae454c1-2c43-45f6-937d-5b81bb21cc10%22%2C%22res_source%22%3A%221%22%2C%22sfrom%22%3A%22R_SEARCH_CONDITION%22%2C%22shield_flag%22%3A0%7D">
+																										<div class="new-search-card-container">
+																											<div class="new-search-left">
+																												<div class="new-resume-status">
+																													<div class="">
+																														<img class="new-resume-logo" src="//image0.lietou-static.com/big/5f8fa3a78dbe6273dcf85e2608u.png" alt="头像"/>
+																														<span class="new-resume-offline">
+																															<em>30天内活跃</em>
+																														</span>
+																													</div>
+																													<div class="new-resume-personal" style="width: 312px;">
+																														<div class="new-resume-personal-name">
+																															<em>王**</em>
+																															<span role="img" class="anticon" style="margin-left: 8px; font-size: 16px;">
+																																<svg width="1em" height="1em" viewBox="0 0 16 17" xmlns="http://www.w3.org/2000/svg" fill="currentColor" aria-hidden="true" focusable="false" class="">
+																																	<g transform="translate(0 .41)" fill="none" fill-rule="evenodd">
+																																		<ellipse fill="#085DFF" opacity="0.2" cx="8" cy="8.268" rx="7.429" ry="7.677"/>
+																																		<g fill-rule="nonzero" stroke="#085DFF" stroke-width="1.2">
+																																			<path d="M7.04 12.366c1.507 0 2.727-1.257 2.727-2.808 0-1.55-1.22-2.808-2.726-2.808S4.315 8.007 4.315 9.558s1.22 2.808 2.726 2.808z"/>
+																																			<path stroke-linecap="square" d="M8.625 7.103l1.29-1.763"/>
+																																			<path stroke-linecap="round" d="M8 4.578h2.496l.78 2.172"/>
+																																		</g>
+																																	</g>
+																																</svg>
+																															</span>
+																														</div>
+																														<div class="new-resume-personal-detail">
+																															<span title="29岁" class="personal-detail-age" style="max-width: 50px;">29岁</span>
+																															<span title="工作6年" class="personal-detail-workyears" style="max-width: 78px;">工作6年</span>
+																															<span title="本科" class="personal-detail-edulevel" style="max-width: 78px;">本科</span>
+																															<span title="阜阳" class="personal-detail-dq">阜阳</span>
+																														</div>
+																														<div class="new-resume-personal-expect">
+																															<em>求职期望：</em>
+																															<span title="合肥  嵌入式软件开发" class="personal-expect-content">
+																																<span>合肥</span>
+																																<span>嵌入式软件开发</span>
+																															</span>
+																														</div>
+																														<div class="new-resume-personal-skills">
+																															<span>智能硬件</span>
+																														</div>
+																													</div>
+																												</div>
+																												<div class="new-search-right">
+																													<div class="new-resume-right-item new-resume-work" style="width: 594px;">
+																														<div class="new-resume-work-item">
+																															<span role="img" class="anticon" style="margin-right: 6px; font-size: 19px;">
+																																<svg width="1em" height="1em" viewBox="0 0 19 19" xmlns="http://www.w3.org/2000/svg" fill="currentColor" aria-hidden="true" focusable="false" class="">
+																																	<g fill="none" fill-rule="evenodd">
+																																		<path d="M0 0h19v19H0z"/>
+																																		<path d="M9.883 4.31c.078.213.117.438.117.664v8.052h1v-5.34a.993.993 0 011-.988c.15 0 .296.033.431.097l1.862.878A2.957 2.957 0 0116 10.343v2.684c0 1.09-.895 1.973-2 1.973h-3v-.001h-1V15H5c-1.105 0-2-.883-2-1.973v-6.3c0-1.252.797-2.368 1.991-2.788l2.336-.824A2.007 2.007 0 019.883 4.31zM7.5 10.067h-2c-.276 0-.5.22-.5.493 0 .242.177.444.41.486l.09.007h2c.276 0 .5-.22.5-.493a.497.497 0 00-.5-.493zm6 0h-1c-.276 0-.5.22-.5.493 0 .242.177.444.41.486l.09.007h1c.276 0 .5-.22.5-.493a.497.497 0 00-.5-.493zm-6-2.96h-2c-.276 0-.5.22-.5.493 0 .242.177.444.41.486l.09.008h2c.276 0 .5-.221.5-.494a.497.497 0 00-.5-.493z" fill="#D3DAE5" fill-rule="nonzero"/>
+																																	</g>
+																																</svg>
+																															</span>
+																															<div class="work-item-content">
+																																<span title="合肥任洁智能科技有限公司" class="work-item-compname" style="max-width: 252px;">合肥任洁智能科技有限公司</span>
+																																<em>·</em>
+																																<span class="work-item-extra">
+																																	<span title="嵌入式开发工程师">
+																																		<span data-selector="keyword_嵌入式开发" class="jsx-3110714573 c-highlight">嵌入式开发</span>工程师</span>
+																																	<span title="2021.08-至今(2年2个月)" class="work-item-content-duration">2021.08-至今(2年2个月)</span>
+																																</span>
+																															</div>
+																														</div>
+																														<div class="new-resume-work-item work-item-content-icon">
+																															<div class="work-item-content">
+																																<span title="仁洁智能科技有限公司" class="work-item-compname" style="max-width: 252px;">仁洁智能科技有限公司</span>
+																																<em>·</em>
+																																<span class="work-item-extra">
+																																	<span title="嵌入式软件工程师">嵌入式软件工程师</span>
+																																	<span title="2021.08-2023.08(2年)" class="work-item-content-duration">2021.08-2023.08(2年)</span>
+																																</span>
+																															</div>
+																														</div>
+																														<div class="new-resume-work-item work-item-content-icon">
+																															<div class="work-item-content">
+																																<span title="南京智能制造研究院" class="work-item-compname" style="max-width: 252px;">南京智能制造研究院</span>
+																																<em>·</em>
+																																<span class="work-item-extra">
+																																	<span title="嵌入式软件工程师">嵌入式软件工程师</span>
+																																	<span title="2020.12-2021.08(8个月)" class="work-item-content-duration">2020.12-2021.08(8个月)</span>
+																																</span>
+																															</div>
+																														</div>
+																													</div>
+																													<div class="new-resume-right-item new-resume-edu" style="width: 594px;">
+																														<div class="new-resume-edu-item">
+																															<span role="img" class="anticon" style="margin-right: 6px; font-size: 19px;">
+																																<svg width="1em" height="1em" viewBox="0 0 19 19" xmlns="http://www.w3.org/2000/svg" fill="currentColor" aria-hidden="true" focusable="false" class="">
+																																	<g fill="none" fill-rule="evenodd">
+																																		<path d="M0 0h19v19H0z"/>
+																																		<path d="M5.004 9.93c.072 0 .143.016.209.047l2.197 1.045a4.85 4.85 0 004.18 0l2.197-1.045a.493.493 0 01.663.253.53.53 0 01.046.216v1.122a2.08 2.08 0 01-.97 1.77l-1.528.947a4.722 4.722 0 01-4.996 0l-1.528-.947a2.08 2.08 0 01-.97-1.77v-1.122c0-.285.224-.517.5-.517zm2.112-5.432a5.819 5.819 0 014.76.021L15.4 6.113a1.046 1.046 0 010 1.892l-3.47 1.568a5.82 5.82 0 01-4.853-.02L3.591 7.938a1.045 1.045 0 01.016-1.892v.001z" fill="#D3DAE5" fill-rule="nonzero"/>
+																																	</g>
+																																</svg>
+																															</span>
+																															<div title="淮阴工学院 · 测控技术与仪器 · 本科 · 统招 2013.09-2017.06(4年)" class="edu-item-content">
+																																<span>淮阴工学院</span>
+																																<em>·</em>
+																																<span>测控技术与仪器</span>
+																																<em>·</em>
+																																<span>本科</span>
+																																<em>·</em>
+																																<span>统招</span>
+																																<span class="edu-item-content-duration">2013.09-2017.06(4年)</span>
+																															</div>
+																														</div>
+																													</div>
+																												</div>
+																												<button type="button" class="ant-btn resume-item-chat ant-btn-sm">
+																													<span>立即沟通</span>
+																												</button>
+																											</div>
+																										</div>
+																									</li>
+																									<li data-resumeidencode="2e948dde7d29L385999a0f2bd" data-resumeurl="https://lpt.liepin.com/cvview/showresumedetail?resIdEncode=2e948dde7d29L385999a0f2bd&amp;sfrom=R_SEARCH_CONDITION&amp;ck_id=cae454c1-2c43-45f6-937d-5b81bb21cc10&amp;sk_id=cae454c1-2c43-45f6-937d-5b81bb21cc10&amp;fk_id=cae454c1-2c43-45f6-937d-5b81bb21cc10&amp;sv=abtest-page-search_resume-new&amp;st=0&amp;cur_page=0&amp;page_size=20&amp;auth_status=0&amp;res_source=1&amp;index=12&amp;position=13&amp;sss=30c1c8cf344934931efd67b01ec3edef&amp;sScene=49382s7WS&amp;dqCode=&amp;jobtitleCode=N000046" data-info="%7B%22sfrom%22%3A%22R_SEARCH_CONDITION%22%7D" class="resumecard-new-li-wrap">
+																										<label class="checkbox-box ant-checkbox-wrapper">
+																											<span class="ant-checkbox">
+																												<input type="checkbox" class="ant-checkbox-input" value="2e948dde7d29L385999a0f2bd">
+																													<span class="ant-checkbox-inner"/>
+																												</span>
+																											</label>
+																											<div class="clearfix resume-card resume-card-container resume-card-new resume-card-new-2e948dde7d29L385999a0f2bd" data-info="%7B%22res_id%22%3A%222e948dde7d29L385999a0f2bd%22%2C%22sk_id%22%3A%22cae454c1-2c43-45f6-937d-5b81bb21cc10%22%2C%22ck_id%22%3A%22cae454c1-2c43-45f6-937d-5b81bb21cc10%22%2C%22fk_id%22%3A%22cae454c1-2c43-45f6-937d-5b81bb21cc10%22%2C%22res_source%22%3A%221%22%2C%22sfrom%22%3A%22R_SEARCH_CONDITION%22%2C%22shield_flag%22%3A0%7D">
+																												<div class="new-search-card-container">
+																													<div class="new-search-left">
+																														<div class="new-resume-status">
+																															<div class="">
+																																<img class="new-resume-logo" src="//image0.lietou-static.com/big/5f8fa3bc8dbe6273dcf85e5e08u.png" alt="头像"/>
+																																<span class="new-resume-offline">
+																																	<em>3天内活跃</em>
+																																</span>
+																															</div>
+																															<div class="new-resume-personal" style="width: 312px;">
+																																<div class="new-resume-personal-name">
+																																	<em>高**</em>
+																																	<span role="img" class="anticon" style="margin-left: 8px; font-size: 16px;">
+																																		<svg width="1em" height="1em" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg" fill="currentColor" aria-hidden="true" focusable="false" class="">
+																																			<g fill="none" fill-rule="evenodd">
+																																				<circle fill="#FF5833" opacity="0.2" cx="8" cy="8" r="7.429"/>
+																																				<g transform="translate(5.143 4)" fill-rule="nonzero" stroke="#FF5833" stroke-width="1.247">
+																																					<ellipse cx="2.857" cy="2.783" rx="2.857" ry="2.783"/>
+																																					<path stroke-linecap="round" d="M2.792 8.55V5.565M1.539 7.329h2.572"/>
+																																				</g>
+																																			</g>
+																																		</svg>
+																																	</span>
+																																</div>
+																																<div class="new-resume-personal-detail">
+																																	<span title="22岁" class="personal-detail-age" style="max-width: 50px;">22岁</span>
+																																	<span title="工作1年" class="personal-detail-workyears" style="max-width: 78px;">工作1年</span>
+																																	<span title="本科" class="personal-detail-edulevel" style="max-width: 78px;">本科</span>
+																																	<span title="杭州" class="personal-detail-dq">杭州</span>
+																																</div>
+																																<div class="new-resume-personal-expect">
+																																	<em>求职期望：</em>
+																																	<span title="杭州  产品经理" class="personal-expect-content">
+																																		<span>杭州</span>
+																																		<span>产品经理</span>
+																																	</span>
+																																</div>
+																																<div class="new-resume-personal-skills">
+																																	<span>电子/半导体/集成电路</span>
+																																	<span>C/C++</span>
+																																	<span>C++</span>
+																																	<span>C语言</span>
+																																</div>
+																															</div>
+																														</div>
+																														<div class="new-search-right">
+																															<div class="new-resume-right-item new-resume-work" style="width: 594px;">
+																																<div class="new-resume-work-item">
+																																	<span role="img" class="anticon" style="margin-right: 6px; font-size: 19px;">
+																																		<svg width="1em" height="1em" viewBox="0 0 19 19" xmlns="http://www.w3.org/2000/svg" fill="currentColor" aria-hidden="true" focusable="false" class="">
+																																			<g fill="none" fill-rule="evenodd">
+																																				<path d="M0 0h19v19H0z"/>
+																																				<path d="M9.883 4.31c.078.213.117.438.117.664v8.052h1v-5.34a.993.993 0 011-.988c.15 0 .296.033.431.097l1.862.878A2.957 2.957 0 0116 10.343v2.684c0 1.09-.895 1.973-2 1.973h-3v-.001h-1V15H5c-1.105 0-2-.883-2-1.973v-6.3c0-1.252.797-2.368 1.991-2.788l2.336-.824A2.007 2.007 0 019.883 4.31zM7.5 10.067h-2c-.276 0-.5.22-.5.493 0 .242.177.444.41.486l.09.007h2c.276 0 .5-.22.5-.493a.497.497 0 00-.5-.493zm6 0h-1c-.276 0-.5.22-.5.493 0 .242.177.444.41.486l.09.007h1c.276 0 .5-.22.5-.493a.497.497 0 00-.5-.493zm-6-2.96h-2c-.276 0-.5.22-.5.493 0 .242.177.444.41.486l.09.008h2c.276 0 .5-.221.5-.494a.497.497 0 00-.5-.493z" fill="#D3DAE5" fill-rule="nonzero"/>
+																																			</g>
+																																		</svg>
+																																	</span>
+																																	<div class="work-item-content">
+																																		<span title="浙江大华股份技术有限公司" class="work-item-compname" style="max-width: 252px;">浙江大华股份技术有限公司</span>
+																																		<em>·</em>
+																																		<span class="work-item-extra">
+																																			<span title="嵌入式开发工程师">
+																																				<span data-selector="keyword_嵌入式开发" class="jsx-3110714573 c-highlight">嵌入式开发</span>工程师</span>
+																																			<span title="2022.07-2023.03(8个月)" class="work-item-content-duration">2022.07-2023.03(8个月)</span>
+																																		</span>
+																																	</div>
+																																</div>
+																															</div>
+																															<div class="new-resume-right-item new-resume-edu" style="width: 594px;">
+																																<div class="new-resume-edu-item">
+																																	<span role="img" class="anticon" style="margin-right: 6px; font-size: 19px;">
+																																		<svg width="1em" height="1em" viewBox="0 0 19 19" xmlns="http://www.w3.org/2000/svg" fill="currentColor" aria-hidden="true" focusable="false" class="">
+																																			<g fill="none" fill-rule="evenodd">
+																																				<path d="M0 0h19v19H0z"/>
+																																				<path d="M5.004 9.93c.072 0 .143.016.209.047l2.197 1.045a4.85 4.85 0 004.18 0l2.197-1.045a.493.493 0 01.663.253.53.53 0 01.046.216v1.122a2.08 2.08 0 01-.97 1.77l-1.528.947a4.722 4.722 0 01-4.996 0l-1.528-.947a2.08 2.08 0 01-.97-1.77v-1.122c0-.285.224-.517.5-.517zm2.112-5.432a5.819 5.819 0 014.76.021L15.4 6.113a1.046 1.046 0 010 1.892l-3.47 1.568a5.82 5.82 0 01-4.853-.02L3.591 7.938a1.045 1.045 0 01.016-1.892v.001z" fill="#D3DAE5" fill-rule="nonzero"/>
+																																			</g>
+																																		</svg>
+																																	</span>
+																																	<div title="哈尔滨师范大学 · 物联网工程 · 本科 · 统招 2018.09-2022.06(4年)" class="edu-item-content">
+																																		<span>哈尔滨师范大学</span>
+																																		<em>·</em>
+																																		<span>物联网工程</span>
+																																		<em>·</em>
+																																		<span>本科</span>
+																																		<em>·</em>
+																																		<span>统招</span>
+																																		<span class="edu-item-content-duration">2018.09-2022.06(4年)</span>
+																																	</div>
+																																</div>
+																															</div>
+																														</div>
+																														<button type="button" class="ant-btn resume-item-chat ant-btn-sm">
+																															<span>立即沟通</span>
+																														</button>
+																													</div>
+																												</div>
+																											</li>
+																											<li data-resumeidencode="2c9586d37b2cY305e98a6f3bb" data-resumeurl="https://lpt.liepin.com/cvview/showresumedetail?resIdEncode=2c9586d37b2cY305e98a6f3bb&amp;sfrom=R_SEARCH_CONDITION&amp;ck_id=cae454c1-2c43-45f6-937d-5b81bb21cc10&amp;sk_id=cae454c1-2c43-45f6-937d-5b81bb21cc10&amp;fk_id=cae454c1-2c43-45f6-937d-5b81bb21cc10&amp;sv=abtest-page-search_resume-new&amp;st=0&amp;cur_page=0&amp;page_size=20&amp;auth_status=0&amp;res_source=1&amp;index=13&amp;position=14&amp;sss=73fdc60b6438c1014ff9a519a2e4e70f&amp;sScene=49382s7WS&amp;dqCode=&amp;jobtitleCode=N000046" data-info="%7B%22sfrom%22%3A%22R_SEARCH_CONDITION%22%7D" class="resumecard-new-li-wrap">
+																												<label class="checkbox-box ant-checkbox-wrapper">
+																													<span class="ant-checkbox">
+																														<input type="checkbox" class="ant-checkbox-input" value="2c9586d37b2cY305e98a6f3bb">
+																															<span class="ant-checkbox-inner"/>
+																														</span>
+																													</label>
+																													<div class="clearfix resume-card resume-card-container resume-card-new resume-card-new-2c9586d37b2cY305e98a6f3bb" data-info="%7B%22res_id%22%3A%222c9586d37b2cY305e98a6f3bb%22%2C%22sk_id%22%3A%22cae454c1-2c43-45f6-937d-5b81bb21cc10%22%2C%22ck_id%22%3A%22cae454c1-2c43-45f6-937d-5b81bb21cc10%22%2C%22fk_id%22%3A%22cae454c1-2c43-45f6-937d-5b81bb21cc10%22%2C%22res_source%22%3A%221%22%2C%22sfrom%22%3A%22R_SEARCH_CONDITION%22%2C%22shield_flag%22%3A0%7D">
+																														<div class="new-search-card-container">
+																															<div class="new-search-left">
+																																<div class="new-resume-status">
+																																	<div class="">
+																																		<img class="new-resume-logo" src="//image0.lietou-static.com/big/652e1ca2f05e8c0f02ffd59b04u.jpeg" alt="头像"/>
+																																		<span class="new-resume-offline">
+																																			<em>7天内活跃</em>
+																																		</span>
+																																	</div>
+																																	<div class="new-resume-personal" style="width: 312px;">
+																																		<div class="new-resume-personal-name">
+																																			<em>汪**</em>
+																																			<span role="img" class="anticon" style="margin-left: 8px; font-size: 16px;">
+																																				<svg width="1em" height="1em" viewBox="0 0 16 17" xmlns="http://www.w3.org/2000/svg" fill="currentColor" aria-hidden="true" focusable="false" class="">
+																																					<g transform="translate(0 .41)" fill="none" fill-rule="evenodd">
+																																						<ellipse fill="#085DFF" opacity="0.2" cx="8" cy="8.268" rx="7.429" ry="7.677"/>
+																																						<g fill-rule="nonzero" stroke="#085DFF" stroke-width="1.2">
+																																							<path d="M7.04 12.366c1.507 0 2.727-1.257 2.727-2.808 0-1.55-1.22-2.808-2.726-2.808S4.315 8.007 4.315 9.558s1.22 2.808 2.726 2.808z"/>
+																																							<path stroke-linecap="square" d="M8.625 7.103l1.29-1.763"/>
+																																							<path stroke-linecap="round" d="M8 4.578h2.496l.78 2.172"/>
+																																						</g>
+																																					</g>
+																																				</svg>
+																																			</span>
+																																		</div>
+																																		<div class="new-resume-personal-detail">
+																																			<span title="21岁" class="personal-detail-age" style="max-width: 50px;">21岁</span>
+																																			<span title="2024年毕业" class="personal-detail-workyears" style="max-width: 78px;">2024年毕业</span>
+																																			<span title="本科" class="personal-detail-edulevel" style="max-width: 78px;">本科</span>
+																																			<span title="绵阳-游仙区" class="personal-detail-dq">绵阳-游仙区</span>
+																																		</div>
+																																		<div class="new-resume-personal-expect">
+																																			<em>求职期望：</em>
+																																			<span title="成都  通信技术工程师" class="personal-expect-content">
+																																				<span>成都</span>
+																																				<span>通信技术工程师</span>
+																																			</span>
+																																		</div>
+																																		<div class="new-resume-personal-skills">
+																																			<span>物联网</span>
+																																			<span>架构设计</span>
+																																		</div>
+																																	</div>
+																																</div>
+																																<div class="new-search-right">
+																																	<div class="new-resume-right-item new-resume-work" style="width: 594px;">
+																																		<div class="new-resume-work-item">
+																																			<span role="img" class="anticon" style="margin-right: 6px; font-size: 19px;">
+																																				<svg width="1em" height="1em" viewBox="0 0 19 19" xmlns="http://www.w3.org/2000/svg" fill="currentColor" aria-hidden="true" focusable="false" class="">
+																																					<g fill="none" fill-rule="evenodd">
+																																						<path d="M0 0h19v19H0z"/>
+																																						<path d="M9.883 4.31c.078.213.117.438.117.664v8.052h1v-5.34a.993.993 0 011-.988c.15 0 .296.033.431.097l1.862.878A2.957 2.957 0 0116 10.343v2.684c0 1.09-.895 1.973-2 1.973h-3v-.001h-1V15H5c-1.105 0-2-.883-2-1.973v-6.3c0-1.252.797-2.368 1.991-2.788l2.336-.824A2.007 2.007 0 019.883 4.31zM7.5 10.067h-2c-.276 0-.5.22-.5.493 0 .242.177.444.41.486l.09.007h2c.276 0 .5-.22.5-.493a.497.497 0 00-.5-.493zm6 0h-1c-.276 0-.5.22-.5.493 0 .242.177.444.41.486l.09.007h1c.276 0 .5-.22.5-.493a.497.497 0 00-.5-.493zm-6-2.96h-2c-.276 0-.5.22-.5.493 0 .242.177.444.41.486l.09.008h2c.276 0 .5-.221.5-.494a.497.497 0 00-.5-.493z" fill="#D3DAE5" fill-rule="nonzero"/>
+																																					</g>
+																																				</svg>
+																																			</span>
+																																			<div class="work-item-content">
+																																				<span title="深圳信盈达电子有限公司" class="work-item-compname" style="max-width: 252px;">深圳信盈达电子有限公司</span>
+																																				<em>·</em>
+																																				<span class="work-item-extra">
+																																					<span title="嵌入式开发">
+																																						<span data-selector="keyword_嵌入式开发" class="jsx-3110714573 c-highlight">嵌入式开发</span>
+																																					</span>
+																																					<span title="2023.09-2023.10(1个月)" class="work-item-content-duration">2023.09-2023.10(1个月)</span>
+																																				</span>
+																																			</div>
+																																		</div>
+																																		<div class="new-resume-work-item work-item-content-icon">
+																																			<div class="work-item-content">
+																																				<span title="中国移动" class="work-item-compname" style="max-width: 252px;">中国移动</span>
+																																				<em>·</em>
+																																				<span class="work-item-extra">
+																																					<span title="销售专员">销售专员</span>
+																																					<span title="2022.09-2022.10(1个月)" class="work-item-content-duration">2022.09-2022.10(1个月)</span>
+																																				</span>
+																																			</div>
+																																		</div>
+																																	</div>
+																																	<div class="new-resume-right-item new-resume-edu" style="width: 594px;">
+																																		<div class="new-resume-edu-item">
+																																			<span role="img" class="anticon" style="margin-right: 6px; font-size: 19px;">
+																																				<svg width="1em" height="1em" viewBox="0 0 19 19" xmlns="http://www.w3.org/2000/svg" fill="currentColor" aria-hidden="true" focusable="false" class="">
+																																					<g fill="none" fill-rule="evenodd">
+																																						<path d="M0 0h19v19H0z"/>
+																																						<path d="M5.004 9.93c.072 0 .143.016.209.047l2.197 1.045a4.85 4.85 0 004.18 0l2.197-1.045a.493.493 0 01.663.253.53.53 0 01.046.216v1.122a2.08 2.08 0 01-.97 1.77l-1.528.947a4.722 4.722 0 01-4.996 0l-1.528-.947a2.08 2.08 0 01-.97-1.77v-1.122c0-.285.224-.517.5-.517zm2.112-5.432a5.819 5.819 0 014.76.021L15.4 6.113a1.046 1.046 0 010 1.892l-3.47 1.568a5.82 5.82 0 01-4.853-.02L3.591 7.938a1.045 1.045 0 01.016-1.892v.001z" fill="#D3DAE5" fill-rule="nonzero"/>
+																																					</g>
+																																				</svg>
+																																			</span>
+																																			<div title="桂林理工大学 · 通信工程 · 本科 · 统招 2020.09-2024.06(4年)" class="edu-item-content">
+																																				<span>桂林理工大学</span>
+																																				<em>·</em>
+																																				<span>通信工程</span>
+																																				<em>·</em>
+																																				<span>本科</span>
+																																				<em>·</em>
+																																				<span>统招</span>
+																																				<span class="edu-item-content-duration">2020.09-2024.06(4年)</span>
+																																			</div>
+																																		</div>
+																																	</div>
+																																</div>
+																																<button type="button" class="ant-btn resume-item-chat ant-btn-sm">
+																																	<span>立即沟通</span>
+																																</button>
+																															</div>
+																														</div>
+																													</li>
+																													<li data-resumeidencode="2a9480d472M37599ba7f1bd" data-resumeurl="https://lpt.liepin.com/cvview/showresumedetail?resIdEncode=2a9480d472M37599ba7f1bd&amp;sfrom=R_SEARCH_CONDITION&amp;ck_id=cae454c1-2c43-45f6-937d-5b81bb21cc10&amp;sk_id=cae454c1-2c43-45f6-937d-5b81bb21cc10&amp;fk_id=cae454c1-2c43-45f6-937d-5b81bb21cc10&amp;sv=abtest-page-search_resume-new&amp;st=0&amp;cur_page=0&amp;page_size=20&amp;auth_status=0&amp;res_source=1&amp;index=14&amp;position=15&amp;sss=9689d2eeb6dbb6c8098ee8d6dde06558&amp;sScene=49382s7WS&amp;dqCode=&amp;jobtitleCode=N000046" data-info="%7B%22sfrom%22%3A%22R_SEARCH_CONDITION%22%7D" class="resumecard-new-li-wrap">
+																														<label class="checkbox-box ant-checkbox-wrapper">
+																															<span class="ant-checkbox">
+																																<input type="checkbox" class="ant-checkbox-input" value="2a9480d472M37599ba7f1bd">
+																																	<span class="ant-checkbox-inner"/>
+																																</span>
+																															</label>
+																															<div class="clearfix resume-card resume-card-container resume-card-new resume-card-new-2a9480d472M37599ba7f1bd" data-info="%7B%22res_id%22%3A%222a9480d472M37599ba7f1bd%22%2C%22sk_id%22%3A%22cae454c1-2c43-45f6-937d-5b81bb21cc10%22%2C%22ck_id%22%3A%22cae454c1-2c43-45f6-937d-5b81bb21cc10%22%2C%22fk_id%22%3A%22cae454c1-2c43-45f6-937d-5b81bb21cc10%22%2C%22res_source%22%3A%221%22%2C%22sfrom%22%3A%22R_SEARCH_CONDITION%22%2C%22shield_flag%22%3A0%7D">
+																																<div class="new-search-card-container">
+																																	<div class="new-search-left">
+																																		<div class="new-resume-status">
+																																			<div class="">
+																																				<img class="new-resume-logo" src="//image0.lietou-static.com/big/5f8fa3a8ea60860b75385c7208u.png" alt="头像"/>
+																																				<span class="new-resume-offline">
+																																					<em>3天内活跃</em>
+																																				</span>
+																																			</div>
+																																			<div class="new-resume-personal" style="width: 312px;">
+																																				<div class="new-resume-personal-name">
+																																					<em>张**</em>
+																																					<span role="img" class="anticon" style="margin-left: 8px; font-size: 16px;">
+																																						<svg width="1em" height="1em" viewBox="0 0 16 17" xmlns="http://www.w3.org/2000/svg" fill="currentColor" aria-hidden="true" focusable="false" class="">
+																																							<g transform="translate(0 .41)" fill="none" fill-rule="evenodd">
+																																								<ellipse fill="#085DFF" opacity="0.2" cx="8" cy="8.268" rx="7.429" ry="7.677"/>
+																																								<g fill-rule="nonzero" stroke="#085DFF" stroke-width="1.2">
+																																									<path d="M7.04 12.366c1.507 0 2.727-1.257 2.727-2.808 0-1.55-1.22-2.808-2.726-2.808S4.315 8.007 4.315 9.558s1.22 2.808 2.726 2.808z"/>
+																																									<path stroke-linecap="square" d="M8.625 7.103l1.29-1.763"/>
+																																									<path stroke-linecap="round" d="M8 4.578h2.496l.78 2.172"/>
+																																								</g>
+																																							</g>
+																																						</svg>
+																																					</span>
+																																				</div>
+																																				<div class="new-resume-personal-detail">
+																																					<span title="31岁" class="personal-detail-age" style="max-width: 50px;">31岁</span>
+																																					<span title="工作7年" class="personal-detail-workyears" style="max-width: 78px;">工作7年</span>
+																																					<span title="本科" class="personal-detail-edulevel" style="max-width: 78px;">本科</span>
+																																					<span title="北京" class="personal-detail-dq">北京</span>
+																																				</div>
+																																				<div class="new-resume-personal-expect">
+																																					<em>求职期望：</em>
+																																					<span title="西安  嵌入式软件开发" class="personal-expect-content">
+																																						<span>西安</span>
+																																						<span>嵌入式软件开发</span>
+																																					</span>
+																																				</div>
+																																				<div class="new-resume-personal-skills">
+																																					<span>计算机软件</span>
+																																					<span>SVN</span>
+																																					<span>Makefile</span>
+																																					<span>GIT</span>
+																																					<span>C/C++</span>
+																																					<span>C语言</span>
+																																				</div>
+																																			</div>
+																																		</div>
+																																		<div class="new-search-right">
+																																			<div class="new-resume-right-item new-resume-work" style="width: 594px;">
+																																				<div class="new-resume-work-item">
+																																					<span role="img" class="anticon" style="margin-right: 6px; font-size: 19px;">
+																																						<svg width="1em" height="1em" viewBox="0 0 19 19" xmlns="http://www.w3.org/2000/svg" fill="currentColor" aria-hidden="true" focusable="false" class="">
+																																							<g fill="none" fill-rule="evenodd">
+																																								<path d="M0 0h19v19H0z"/>
+																																								<path d="M9.883 4.31c.078.213.117.438.117.664v8.052h1v-5.34a.993.993 0 011-.988c.15 0 .296.033.431.097l1.862.878A2.957 2.957 0 0116 10.343v2.684c0 1.09-.895 1.973-2 1.973h-3v-.001h-1V15H5c-1.105 0-2-.883-2-1.973v-6.3c0-1.252.797-2.368 1.991-2.788l2.336-.824A2.007 2.007 0 019.883 4.31zM7.5 10.067h-2c-.276 0-.5.22-.5.493 0 .242.177.444.41.486l.09.007h2c.276 0 .5-.22.5-.493a.497.497 0 00-.5-.493zm6 0h-1c-.276 0-.5.22-.5.493 0 .242.177.444.41.486l.09.007h1c.276 0 .5-.22.5-.493a.497.497 0 00-.5-.493zm-6-2.96h-2c-.276 0-.5.22-.5.493 0 .242.177.444.41.486l.09.008h2c.276 0 .5-.221.5-.494a.497.497 0 00-.5-.493z" fill="#D3DAE5" fill-rule="nonzero"/>
+																																							</g>
+																																						</svg>
+																																					</span>
+																																					<div class="work-item-content">
+																																						<span title="网易有道信息技术(北京)有限公司" class="work-item-compname" style="max-width: 252px;">网易有道信息技术(北京)有限公司</span>
+																																						<em>·</em>
+																																						<span class="work-item-extra">
+																																							<span title="高级嵌入式开发工程师">高级<span data-selector="keyword_嵌入式开发" class="jsx-3110714573 c-highlight">嵌入式开发</span>工程师</span>
+																																							<span title="2021.03-2023.03(2年)" class="work-item-content-duration">2021.03-2023.03(2年)</span>
+																																						</span>
+																																					</div>
+																																				</div>
+																																				<div class="new-resume-work-item work-item-content-icon">
+																																					<div class="work-item-content">
+																																						<span title="湖北亿咖通科技有限公司" class="work-item-compname" style="max-width: 252px;">湖北亿咖通科技有限公司</span>
+																																						<em>·</em>
+																																						<span class="work-item-extra">
+																																							<span title="软件开发工程师">软件开发工程师</span>
+																																							<span title="2020.10-2021.03(5个月)" class="work-item-content-duration">2020.10-2021.03(5个月)</span>
+																																						</span>
+																																					</div>
+																																				</div>
+																																				<div class="new-resume-work-item work-item-content-icon">
+																																					<div class="work-item-content">
+																																						<span title="大众问问(北京)信息科技有限公司" class="work-item-compname" style="max-width: 252px;">大众问问(北京)信息科技有限公司</span>
+																																						<em>·</em>
+																																						<span class="work-item-extra">
+																																							<span title="C++开发工程师">C++开发工程师</span>
+																																							<span title="2019.03-2020.10(1年7个月)" class="work-item-content-duration">2019.03-2020.10(1年7个月)</span>
+																																						</span>
+																																					</div>
+																																				</div>
+																																			</div>
+																																			<div class="new-resume-right-item new-resume-edu" style="width: 594px;">
+																																				<div class="new-resume-edu-item">
+																																					<span role="img" class="anticon" style="margin-right: 6px; font-size: 19px;">
+																																						<svg width="1em" height="1em" viewBox="0 0 19 19" xmlns="http://www.w3.org/2000/svg" fill="currentColor" aria-hidden="true" focusable="false" class="">
+																																							<g fill="none" fill-rule="evenodd">
+																																								<path d="M0 0h19v19H0z"/>
+																																								<path d="M5.004 9.93c.072 0 .143.016.209.047l2.197 1.045a4.85 4.85 0 004.18 0l2.197-1.045a.493.493 0 01.663.253.53.53 0 01.046.216v1.122a2.08 2.08 0 01-.97 1.77l-1.528.947a4.722 4.722 0 01-4.996 0l-1.528-.947a2.08 2.08 0 01-.97-1.77v-1.122c0-.285.224-.517.5-.517zm2.112-5.432a5.819 5.819 0 014.76.021L15.4 6.113a1.046 1.046 0 010 1.892l-3.47 1.568a5.82 5.82 0 01-4.853-.02L3.591 7.938a1.045 1.045 0 01.016-1.892v.001z" fill="#D3DAE5" fill-rule="nonzero"/>
+																																							</g>
+																																						</svg>
+																																					</span>
+																																					<div title="陇东学院 · 计算机科学与技术 · 本科 · 统招 2012.09-2016.06(4年)" class="edu-item-content">
+																																						<span>陇东学院</span>
+																																						<em>·</em>
+																																						<span>计算机科学与技术</span>
+																																						<em>·</em>
+																																						<span>本科</span>
+																																						<em>·</em>
+																																						<span>统招</span>
+																																						<span class="edu-item-content-duration">2012.09-2016.06(4年)</span>
+																																					</div>
+																																				</div>
+																																			</div>
+																																		</div>
+																																		<button type="button" class="ant-btn resume-item-chat ant-btn-sm">
+																																			<span>立即沟通</span>
+																																		</button>
+																																	</div>
+																																</div>
+																															</li>
+																															<li data-resumeidencode="279f8ed477I345c96a4f0b9" data-resumeurl="https://lpt.liepin.com/cvview/showresumedetail?resIdEncode=279f8ed477I345c96a4f0b9&amp;sfrom=R_SEARCH_CONDITION&amp;ck_id=cae454c1-2c43-45f6-937d-5b81bb21cc10&amp;sk_id=cae454c1-2c43-45f6-937d-5b81bb21cc10&amp;fk_id=cae454c1-2c43-45f6-937d-5b81bb21cc10&amp;sv=abtest-page-search_resume-new&amp;st=0&amp;cur_page=0&amp;page_size=20&amp;auth_status=0&amp;res_source=1&amp;index=15&amp;position=16&amp;sss=0e29cd07308fdc9d1e5a4a6b6b44dfb5&amp;sScene=49382s7WS&amp;dqCode=&amp;jobtitleCode=N000046" data-info="%7B%22sfrom%22%3A%22R_SEARCH_CONDITION%22%7D" class="resumecard-new-li-wrap">
+																																<label class="checkbox-box ant-checkbox-wrapper">
+																																	<span class="ant-checkbox">
+																																		<input type="checkbox" class="ant-checkbox-input" value="279f8ed477I345c96a4f0b9">
+																																			<span class="ant-checkbox-inner"/>
+																																		</span>
+																																	</label>
+																																	<div class="clearfix resume-card resume-card-container resume-card-new resume-card-new-279f8ed477I345c96a4f0b9" data-info="%7B%22res_id%22%3A%22279f8ed477I345c96a4f0b9%22%2C%22sk_id%22%3A%22cae454c1-2c43-45f6-937d-5b81bb21cc10%22%2C%22ck_id%22%3A%22cae454c1-2c43-45f6-937d-5b81bb21cc10%22%2C%22fk_id%22%3A%22cae454c1-2c43-45f6-937d-5b81bb21cc10%22%2C%22res_source%22%3A%221%22%2C%22sfrom%22%3A%22R_SEARCH_CONDITION%22%2C%22shield_flag%22%3A0%7D">
+																																		<div class="new-search-card-container">
+																																			<div class="new-search-left">
+																																				<div class="new-resume-status">
+																																					<div class="">
+																																						<img class="new-resume-logo" src="//image0.lietou-static.com/big/626522087398a9091c4667db05u.jpg" alt="头像"/>
+																																						<span class="new-resume-offline">
+																																							<em>3天内活跃</em>
+																																						</span>
+																																					</div>
+																																					<div class="new-resume-personal" style="width: 312px;">
+																																						<div class="new-resume-personal-name">
+																																							<em>天**</em>
+																																							<span role="img" class="anticon" style="margin-left: 8px; font-size: 16px;">
+																																								<svg width="1em" height="1em" viewBox="0 0 16 17" xmlns="http://www.w3.org/2000/svg" fill="currentColor" aria-hidden="true" focusable="false" class="">
+																																									<g transform="translate(0 .41)" fill="none" fill-rule="evenodd">
+																																										<ellipse fill="#085DFF" opacity="0.2" cx="8" cy="8.268" rx="7.429" ry="7.677"/>
+																																										<g fill-rule="nonzero" stroke="#085DFF" stroke-width="1.2">
+																																											<path d="M7.04 12.366c1.507 0 2.727-1.257 2.727-2.808 0-1.55-1.22-2.808-2.726-2.808S4.315 8.007 4.315 9.558s1.22 2.808 2.726 2.808z"/>
+																																											<path stroke-linecap="square" d="M8.625 7.103l1.29-1.763"/>
+																																											<path stroke-linecap="round" d="M8 4.578h2.496l.78 2.172"/>
+																																										</g>
+																																									</g>
+																																								</svg>
+																																							</span>
+																																						</div>
+																																						<div class="new-resume-personal-detail">
+																																							<span title="24岁" class="personal-detail-age" style="max-width: 50px;">24岁</span>
+																																							<span title="工作1年" class="personal-detail-workyears" style="max-width: 78px;">工作1年</span>
+																																							<span title="本科" class="personal-detail-edulevel" style="max-width: 78px;">本科</span>
+																																							<span title="上海" class="personal-detail-dq">上海</span>
+																																						</div>
+																																						<div class="new-resume-personal-expect">
+																																							<em>求职期望：</em>
+																																							<span title="上海  电子技术研发工程师" class="personal-expect-content">
+																																								<span>上海</span>
+																																								<span>电子技术研发工程师</span>
+																																							</span>
+																																						</div>
+																																						<div class="new-resume-personal-skills">
+																																							<span>新能源汽车</span>
+																																						</div>
+																																					</div>
+																																				</div>
+																																				<div class="new-search-right">
+																																					<div class="new-resume-right-item new-resume-work" style="width: 594px;">
+																																						<div class="new-resume-work-item">
+																																							<span role="img" class="anticon" style="margin-right: 6px; font-size: 19px;">
+																																								<svg width="1em" height="1em" viewBox="0 0 19 19" xmlns="http://www.w3.org/2000/svg" fill="currentColor" aria-hidden="true" focusable="false" class="">
+																																									<g fill="none" fill-rule="evenodd">
+																																										<path d="M0 0h19v19H0z"/>
+																																										<path d="M9.883 4.31c.078.213.117.438.117.664v8.052h1v-5.34a.993.993 0 011-.988c.15 0 .296.033.431.097l1.862.878A2.957 2.957 0 0116 10.343v2.684c0 1.09-.895 1.973-2 1.973h-3v-.001h-1V15H5c-1.105 0-2-.883-2-1.973v-6.3c0-1.252.797-2.368 1.991-2.788l2.336-.824A2.007 2.007 0 019.883 4.31zM7.5 10.067h-2c-.276 0-.5.22-.5.493 0 .242.177.444.41.486l.09.007h2c.276 0 .5-.22.5-.493a.497.497 0 00-.5-.493zm6 0h-1c-.276 0-.5.22-.5.493 0 .242.177.444.41.486l.09.007h1c.276 0 .5-.22.5-.493a.497.497 0 00-.5-.493zm-6-2.96h-2c-.276 0-.5.22-.5.493 0 .242.177.444.41.486l.09.008h2c.276 0 .5-.221.5-.494a.497.497 0 00-.5-.493z" fill="#D3DAE5" fill-rule="nonzero"/>
+																																									</g>
+																																								</svg>
+																																							</span>
+																																							<div class="work-item-content">
+																																								<span title="上海炙云新能源科技有限公司" class="work-item-compname" style="max-width: 252px;">上海炙云新能源科技有限公司</span>
+																																								<em>·</em>
+																																								<span class="work-item-extra">
+																																									<span title="嵌入式开发工程师">
+																																										<span data-selector="keyword_嵌入式开发" class="jsx-3110714573 c-highlight">嵌入式开发</span>工程师</span>
+																																									<span title="2023.05-至今(5个月)" class="work-item-content-duration">2023.05-至今(5个月)</span>
+																																								</span>
+																																							</div>
+																																						</div>
+																																						<div class="new-resume-work-item work-item-content-icon">
+																																							<div class="work-item-content">
+																																								<span title="上海黎明瑞达电子科技有限公司" class="work-item-compname" style="max-width: 252px;">上海黎明瑞达电子科技有限公司</span>
+																																								<em>·</em>
+																																								<span class="work-item-extra">
+																																									<span title="嵌入式开发工程师">
+																																										<span data-selector="keyword_嵌入式开发" class="jsx-3110714573 c-highlight">嵌入式开发</span>工程师</span>
+																																									<span title="2022.06-2022.11(5个月)" class="work-item-content-duration">2022.06-2022.11(5个月)</span>
+																																								</span>
+																																							</div>
+																																						</div>
+																																					</div>
+																																					<div class="new-resume-right-item new-resume-edu" style="width: 594px;">
+																																						<div class="new-resume-edu-item">
+																																							<span role="img" class="anticon" style="margin-right: 6px; font-size: 19px;">
+																																								<svg width="1em" height="1em" viewBox="0 0 19 19" xmlns="http://www.w3.org/2000/svg" fill="currentColor" aria-hidden="true" focusable="false" class="">
+																																									<g fill="none" fill-rule="evenodd">
+																																										<path d="M0 0h19v19H0z"/>
+																																										<path d="M5.004 9.93c.072 0 .143.016.209.047l2.197 1.045a4.85 4.85 0 004.18 0l2.197-1.045a.493.493 0 01.663.253.53.53 0 01.046.216v1.122a2.08 2.08 0 01-.97 1.77l-1.528.947a4.722 4.722 0 01-4.996 0l-1.528-.947a2.08 2.08 0 01-.97-1.77v-1.122c0-.285.224-.517.5-.517zm2.112-5.432a5.819 5.819 0 014.76.021L15.4 6.113a1.046 1.046 0 010 1.892l-3.47 1.568a5.82 5.82 0 01-4.853-.02L3.591 7.938a1.045 1.045 0 01.016-1.892v.001z" fill="#D3DAE5" fill-rule="nonzero"/>
+																																									</g>
+																																								</svg>
+																																							</span>
+																																							<div title="太原科技大学 · 机械设计制造及自动化 · 本科 · 统招 2018.09-2022.06(4年)" class="edu-item-content">
+																																								<span>太原科技大学</span>
+																																								<em>·</em>
+																																								<span>机械设计制造及自动化</span>
+																																								<em>·</em>
+																																								<span>本科</span>
+																																								<em>·</em>
+																																								<span>统招</span>
+																																								<span class="edu-item-content-duration">2018.09-2022.06(4年)</span>
+																																							</div>
+																																						</div>
+																																					</div>
+																																				</div>
+																																				<button type="button" class="ant-btn resume-item-chat ant-btn-sm">
+																																					<span>立即沟通</span>
+																																				</button>
+																																			</div>
+																																		</div>
+																																	</li>
+																																	<li data-resumeidencode="2f9988d975W315397a3f3bb" data-resumeurl="https://lpt.liepin.com/cvview/showresumedetail?resIdEncode=2f9988d975W315397a3f3bb&amp;sfrom=R_SEARCH_CONDITION&amp;ck_id=cae454c1-2c43-45f6-937d-5b81bb21cc10&amp;sk_id=cae454c1-2c43-45f6-937d-5b81bb21cc10&amp;fk_id=cae454c1-2c43-45f6-937d-5b81bb21cc10&amp;sv=abtest-page-search_resume-new&amp;st=0&amp;cur_page=0&amp;page_size=20&amp;auth_status=0&amp;res_source=1&amp;index=16&amp;position=17&amp;sss=43baf0103b6facb039cf303d655d51af&amp;sScene=49382s7WS&amp;dqCode=&amp;jobtitleCode=N000046" data-info="%7B%22sfrom%22%3A%22R_SEARCH_CONDITION%22%7D" class="resumecard-new-li-wrap">
+																																		<label class="checkbox-box ant-checkbox-wrapper">
+																																			<span class="ant-checkbox">
+																																				<input type="checkbox" class="ant-checkbox-input" value="2f9988d975W315397a3f3bb">
+																																					<span class="ant-checkbox-inner"/>
+																																				</span>
+																																			</label>
+																																			<div class="clearfix resume-card resume-card-container resume-card-new resume-card-new-2f9988d975W315397a3f3bb" data-info="%7B%22res_id%22%3A%222f9988d975W315397a3f3bb%22%2C%22sk_id%22%3A%22cae454c1-2c43-45f6-937d-5b81bb21cc10%22%2C%22ck_id%22%3A%22cae454c1-2c43-45f6-937d-5b81bb21cc10%22%2C%22fk_id%22%3A%22cae454c1-2c43-45f6-937d-5b81bb21cc10%22%2C%22res_source%22%3A%221%22%2C%22sfrom%22%3A%22R_SEARCH_CONDITION%22%2C%22shield_flag%22%3A0%7D">
+																																				<div class="new-search-card-container">
+																																					<div class="new-search-left">
+																																						<div class="new-resume-status">
+																																							<div class="">
+																																								<img class="new-resume-logo" src="//image0.lietou-static.com/big/5f8fa3a6f6d1ab58476f322808u.png" alt="头像"/>
+																																								<span class="new-resume-offline">
+																																									<em>7天内活跃</em>
+																																								</span>
+																																							</div>
+																																							<div class="new-resume-personal" style="width: 312px;">
+																																								<div class="new-resume-personal-name">
+																																									<em>林**</em>
+																																									<span role="img" class="anticon" style="margin-left: 8px; font-size: 16px;">
+																																										<svg width="1em" height="1em" viewBox="0 0 16 17" xmlns="http://www.w3.org/2000/svg" fill="currentColor" aria-hidden="true" focusable="false" class="">
+																																											<g transform="translate(0 .41)" fill="none" fill-rule="evenodd">
+																																												<ellipse fill="#085DFF" opacity="0.2" cx="8" cy="8.268" rx="7.429" ry="7.677"/>
+																																												<g fill-rule="nonzero" stroke="#085DFF" stroke-width="1.2">
+																																													<path d="M7.04 12.366c1.507 0 2.727-1.257 2.727-2.808 0-1.55-1.22-2.808-2.726-2.808S4.315 8.007 4.315 9.558s1.22 2.808 2.726 2.808z"/>
+																																													<path stroke-linecap="square" d="M8.625 7.103l1.29-1.763"/>
+																																													<path stroke-linecap="round" d="M8 4.578h2.496l.78 2.172"/>
+																																												</g>
+																																											</g>
+																																										</svg>
+																																									</span>
+																																								</div>
+																																								<div class="new-resume-personal-detail">
+																																									<span title="24岁" class="personal-detail-age" style="max-width: 50px;">24岁</span>
+																																									<span title="2024年毕业" class="personal-detail-workyears" style="max-width: 78px;">2024年毕业</span>
+																																									<span title="硕士" class="personal-detail-edulevel" style="max-width: 78px;">硕士</span>
+																																									<span title="常州" class="personal-detail-dq">常州</span>
+																																								</div>
+																																								<div class="new-resume-personal-expect">
+																																									<em>求职期望：</em>
+																																									<span title="上海  机器人工程师" class="personal-expect-content">
+																																										<span>上海</span>
+																																										<span>机器人工程师</span>
+																																									</span>
+																																								</div>
+																																								<div class="new-resume-personal-skills">
+																																									<span>电气机械/器材</span>
+																																								</div>
+																																							</div>
+																																						</div>
+																																						<div class="new-search-right">
+																																							<div class="new-resume-right-item new-resume-work" style="width: 594px;">
+																																								<div class="new-resume-work-item">
+																																									<span role="img" class="anticon" style="margin-right: 6px; font-size: 19px;">
+																																										<svg width="1em" height="1em" viewBox="0 0 19 19" xmlns="http://www.w3.org/2000/svg" fill="currentColor" aria-hidden="true" focusable="false" class="">
+																																											<g fill="none" fill-rule="evenodd">
+																																												<path d="M0 0h19v19H0z"/>
+																																												<path d="M9.883 4.31c.078.213.117.438.117.664v8.052h1v-5.34a.993.993 0 011-.988c.15 0 .296.033.431.097l1.862.878A2.957 2.957 0 0116 10.343v2.684c0 1.09-.895 1.973-2 1.973h-3v-.001h-1V15H5c-1.105 0-2-.883-2-1.973v-6.3c0-1.252.797-2.368 1.991-2.788l2.336-.824A2.007 2.007 0 019.883 4.31zM7.5 10.067h-2c-.276 0-.5.22-.5.493 0 .242.177.444.41.486l.09.007h2c.276 0 .5-.22.5-.493a.497.497 0 00-.5-.493zm6 0h-1c-.276 0-.5.22-.5.493 0 .242.177.444.41.486l.09.007h1c.276 0 .5-.22.5-.493a.497.497 0 00-.5-.493zm-6-2.96h-2c-.276 0-.5.22-.5.493 0 .242.177.444.41.486l.09.008h2c.276 0 .5-.221.5-.494a.497.497 0 00-.5-.493z" fill="#D3DAE5" fill-rule="nonzero"/>
+																																											</g>
+																																										</svg>
+																																									</span>
+																																									<div class="work-item-content">
+																																										<span title="无锡信捷电气股份有限公司" class="work-item-compname" style="max-width: 252px;">无锡信捷电气股份有限公司</span>
+																																										<em>·</em>
+																																										<span class="work-item-extra">
+																																											<span title="linux C 嵌入式开发">linux C <span data-selector="keyword_嵌入式开发" class="jsx-3110714573 c-highlight">嵌入式开发</span>
+																																											</span>
+																																											<span title="2022.07-2023.04(9个月)" class="work-item-content-duration">2022.07-2023.04(9个月)</span>
+																																										</span>
+																																									</div>
+																																								</div>
+																																							</div>
+																																							<div class="new-resume-right-item new-resume-edu" style="width: 594px;">
+																																								<div class="new-resume-edu-item">
+																																									<span role="img" class="anticon" style="margin-right: 6px; font-size: 19px;">
+																																										<svg width="1em" height="1em" viewBox="0 0 19 19" xmlns="http://www.w3.org/2000/svg" fill="currentColor" aria-hidden="true" focusable="false" class="">
+																																											<g fill="none" fill-rule="evenodd">
+																																												<path d="M0 0h19v19H0z"/>
+																																												<path d="M5.004 9.93c.072 0 .143.016.209.047l2.197 1.045a4.85 4.85 0 004.18 0l2.197-1.045a.493.493 0 01.663.253.53.53 0 01.046.216v1.122a2.08 2.08 0 01-.97 1.77l-1.528.947a4.722 4.722 0 01-4.996 0l-1.528-.947a2.08 2.08 0 01-.97-1.77v-1.122c0-.285.224-.517.5-.517zm2.112-5.432a5.819 5.819 0 014.76.021L15.4 6.113a1.046 1.046 0 010 1.892l-3.47 1.568a5.82 5.82 0 01-4.853-.02L3.591 7.938a1.045 1.045 0 01.016-1.892v.001z" fill="#D3DAE5" fill-rule="nonzero"/>
+																																											</g>
+																																										</svg>
+																																									</span>
+																																									<div title="江苏理工学院 · 机械电子工程 · 硕士 · 统招 2021.09-2024.06(3年)" class="edu-item-content">
+																																										<span>江苏理工学院</span>
+																																										<em>·</em>
+																																										<span>机械电子工程</span>
+																																										<em>·</em>
+																																										<span>硕士</span>
+																																										<em>·</em>
+																																										<span>统招</span>
+																																										<span class="edu-item-content-duration">2021.09-2024.06(3年)</span>
+																																									</div>
+																																								</div>
+																																							</div>
+																																						</div>
+																																						<button type="button" class="ant-btn resume-item-chat ant-btn-sm">
+																																							<span>立即沟通</span>
+																																						</button>
+																																					</div>
+																																				</div>
+																																			</li>
+																																			<li data-resumeidencode="2f9e8dde7f2dC325b99a0f1ba" data-resumeurl="https://lpt.liepin.com/cvview/showresumedetail?resIdEncode=2f9e8dde7f2dC325b99a0f1ba&amp;sfrom=R_SEARCH_CONDITION&amp;ck_id=cae454c1-2c43-45f6-937d-5b81bb21cc10&amp;sk_id=cae454c1-2c43-45f6-937d-5b81bb21cc10&amp;fk_id=cae454c1-2c43-45f6-937d-5b81bb21cc10&amp;sv=abtest-page-search_resume-new&amp;st=0&amp;cur_page=0&amp;page_size=20&amp;auth_status=0&amp;res_source=1&amp;index=17&amp;position=18&amp;sss=ffc3ad534cef9ad4e91f5cf582c6eb52&amp;sScene=49382s7WS&amp;dqCode=&amp;jobtitleCode=N000046" data-info="%7B%22sfrom%22%3A%22R_SEARCH_CONDITION%22%7D" class="resumecard-new-li-wrap">
+																																				<label class="checkbox-box ant-checkbox-wrapper">
+																																					<span class="ant-checkbox">
+																																						<input type="checkbox" class="ant-checkbox-input" value="2f9e8dde7f2dC325b99a0f1ba">
+																																							<span class="ant-checkbox-inner"/>
+																																						</span>
+																																					</label>
+																																					<div class="clearfix resume-card resume-card-container resume-card-new resume-card-new-2f9e8dde7f2dC325b99a0f1ba" data-info="%7B%22res_id%22%3A%222f9e8dde7f2dC325b99a0f1ba%22%2C%22sk_id%22%3A%22cae454c1-2c43-45f6-937d-5b81bb21cc10%22%2C%22ck_id%22%3A%22cae454c1-2c43-45f6-937d-5b81bb21cc10%22%2C%22fk_id%22%3A%22cae454c1-2c43-45f6-937d-5b81bb21cc10%22%2C%22res_source%22%3A%221%22%2C%22sfrom%22%3A%22R_SEARCH_CONDITION%22%2C%22shield_flag%22%3A0%7D">
+																																						<div class="new-search-card-container">
+																																							<div class="new-search-left">
+																																								<div class="new-resume-status">
+																																									<div class="">
+																																										<img class="new-resume-logo" src="//image0.lietou-static.com/big/5f8fa3a6f6d1ab58476f322808u.png" alt="头像"/>
+																																										<span class="new-resume-offline new-resume-offline-active">
+																																											<em>今天活跃</em>
+																																										</span>
+																																									</div>
+																																									<div class="new-resume-personal" style="width: 312px;">
+																																										<div class="new-resume-personal-name">
+																																											<em>曹**</em>
+																																											<span role="img" class="anticon" style="margin-left: 8px; font-size: 16px;">
+																																												<svg width="1em" height="1em" viewBox="0 0 16 17" xmlns="http://www.w3.org/2000/svg" fill="currentColor" aria-hidden="true" focusable="false" class="">
+																																													<g transform="translate(0 .41)" fill="none" fill-rule="evenodd">
+																																														<ellipse fill="#085DFF" opacity="0.2" cx="8" cy="8.268" rx="7.429" ry="7.677"/>
+																																														<g fill-rule="nonzero" stroke="#085DFF" stroke-width="1.2">
+																																															<path d="M7.04 12.366c1.507 0 2.727-1.257 2.727-2.808 0-1.55-1.22-2.808-2.726-2.808S4.315 8.007 4.315 9.558s1.22 2.808 2.726 2.808z"/>
+																																															<path stroke-linecap="square" d="M8.625 7.103l1.29-1.763"/>
+																																															<path stroke-linecap="round" d="M8 4.578h2.496l.78 2.172"/>
+																																														</g>
+																																													</g>
+																																												</svg>
+																																											</span>
+																																										</div>
+																																										<div class="new-resume-personal-detail">
+																																											<span title="22岁" class="personal-detail-age" style="max-width: 50px;">22岁</span>
+																																											<span title="工作1年" class="personal-detail-workyears" style="max-width: 78px;">工作1年</span>
+																																											<span title="本科" class="personal-detail-edulevel" style="max-width: 78px;">本科</span>
+																																											<span title="西安" class="personal-detail-dq">西安</span>
+																																										</div>
+																																										<div class="new-resume-personal-expect">
+																																											<em>求职期望：</em>
+																																											<span title="杭州  C" class="personal-expect-content">
+																																												<span>杭州</span>
+																																												<span>C</span>
+																																											</span>
+																																										</div>
+																																										<div class="new-resume-personal-skills">
+																																											<span>通信设备</span>
+																																											<span>C/C++</span>
+																																											<span>C语言</span>
+																																										</div>
+																																									</div>
+																																								</div>
+																																								<div class="new-search-right">
+																																									<div class="new-resume-right-item new-resume-work" style="width: 594px;">
+																																										<div class="new-resume-work-item">
+																																											<span role="img" class="anticon" style="margin-right: 6px; font-size: 19px;">
+																																												<svg width="1em" height="1em" viewBox="0 0 19 19" xmlns="http://www.w3.org/2000/svg" fill="currentColor" aria-hidden="true" focusable="false" class="">
+																																													<g fill="none" fill-rule="evenodd">
+																																														<path d="M0 0h19v19H0z"/>
+																																														<path d="M9.883 4.31c.078.213.117.438.117.664v8.052h1v-5.34a.993.993 0 011-.988c.15 0 .296.033.431.097l1.862.878A2.957 2.957 0 0116 10.343v2.684c0 1.09-.895 1.973-2 1.973h-3v-.001h-1V15H5c-1.105 0-2-.883-2-1.973v-6.3c0-1.252.797-2.368 1.991-2.788l2.336-.824A2.007 2.007 0 019.883 4.31zM7.5 10.067h-2c-.276 0-.5.22-.5.493 0 .242.177.444.41.486l.09.007h2c.276 0 .5-.22.5-.493a.497.497 0 00-.5-.493zm6 0h-1c-.276 0-.5.22-.5.493 0 .242.177.444.41.486l.09.007h1c.276 0 .5-.22.5-.493a.497.497 0 00-.5-.493zm-6-2.96h-2c-.276 0-.5.22-.5.493 0 .242.177.444.41.486l.09.008h2c.276 0 .5-.221.5-.494a.497.497 0 00-.5-.493z" fill="#D3DAE5" fill-rule="nonzero"/>
+																																													</g>
+																																												</svg>
+																																											</span>
+																																											<div class="work-item-content">
+																																												<span title="tplink" class="work-item-compname" style="max-width: 252px;">tplink</span>
+																																												<em>·</em>
+																																												<span class="work-item-extra">
+																																													<span title="linux C 嵌入式开发">linux C <span data-selector="keyword_嵌入式开发" class="jsx-3110714573 c-highlight">嵌入式开发</span>
+																																													</span>
+																																													<span title="2022.07-2023.04(9个月)" class="work-item-content-duration">2022.07-2023.04(9个月)</span>
+																																												</span>
+																																											</div>
+																																										</div>
+																																									</div>
+																																									<div class="new-resume-right-item new-resume-edu" style="width: 594px;">
+																																										<div class="new-resume-edu-item">
+																																											<span role="img" class="anticon" style="margin-right: 6px; font-size: 19px;">
+																																												<svg width="1em" height="1em" viewBox="0 0 19 19" xmlns="http://www.w3.org/2000/svg" fill="currentColor" aria-hidden="true" focusable="false" class="">
+																																													<g fill="none" fill-rule="evenodd">
+																																														<path d="M0 0h19v19H0z"/>
+																																														<path d="M5.004 9.93c.072 0 .143.016.209.047l2.197 1.045a4.85 4.85 0 004.18 0l2.197-1.045a.493.493 0 01.663.253.53.53 0 01.046.216v1.122a2.08 2.08 0 01-.97 1.77l-1.528.947a4.722 4.722 0 01-4.996 0l-1.528-.947a2.08 2.08 0 01-.97-1.77v-1.122c0-.285.224-.517.5-.517zm2.112-5.432a5.819 5.819 0 014.76.021L15.4 6.113a1.046 1.046 0 010 1.892l-3.47 1.568a5.82 5.82 0 01-4.853-.02L3.591 7.938a1.045 1.045 0 01.016-1.892v.001z" fill="#D3DAE5" fill-rule="nonzero"/>
+																																													</g>
+																																												</svg>
+																																											</span>
+																																											<div title="湖南大学 · 自动化 · 本科 · 统招 2018.09-2022.06(4年)" class="edu-item-content">
+																																												<span>湖南大学</span>
+																																												<em>·</em>
+																																												<span>自动化</span>
+																																												<em>·</em>
+																																												<span>本科</span>
+																																												<em>·</em>
+																																												<span>统招</span>
+																																												<span class="edu-item-content-duration">2018.09-2022.06(4年)</span>
+																																											</div>
+																																										</div>
+																																									</div>
+																																								</div>
+																																								<button type="button" class="ant-btn resume-item-chat ant-btn-sm">
+																																									<span>立即沟通</span>
+																																								</button>
+																																							</div>
+																																						</div>
+																																					</li>
+																																					<li data-resumeidencode="2d9586d178L305e98a2f4b9" data-resumeurl="https://lpt.liepin.com/cvview/showresumedetail?resIdEncode=2d9586d178L305e98a2f4b9&amp;sfrom=R_SEARCH_CONDITION&amp;ck_id=cae454c1-2c43-45f6-937d-5b81bb21cc10&amp;sk_id=cae454c1-2c43-45f6-937d-5b81bb21cc10&amp;fk_id=cae454c1-2c43-45f6-937d-5b81bb21cc10&amp;sv=abtest-page-search_resume-new&amp;st=0&amp;cur_page=0&amp;page_size=20&amp;auth_status=0&amp;res_source=1&amp;index=18&amp;position=19&amp;sss=3d6ac40b4052a0efaa63058e77a617ef&amp;sScene=49382s7WS&amp;dqCode=&amp;jobtitleCode=N000046" data-info="%7B%22sfrom%22%3A%22R_SEARCH_CONDITION%22%7D" class="resumecard-new-li-wrap">
+																																						<label class="checkbox-box ant-checkbox-wrapper">
+																																							<span class="ant-checkbox">
+																																								<input type="checkbox" class="ant-checkbox-input" value="2d9586d178L305e98a2f4b9">
+																																									<span class="ant-checkbox-inner"/>
+																																								</span>
+																																							</label>
+																																							<div class="clearfix resume-card resume-card-container resume-card-new resume-card-new-2d9586d178L305e98a2f4b9" data-info="%7B%22res_id%22%3A%222d9586d178L305e98a2f4b9%22%2C%22sk_id%22%3A%22cae454c1-2c43-45f6-937d-5b81bb21cc10%22%2C%22ck_id%22%3A%22cae454c1-2c43-45f6-937d-5b81bb21cc10%22%2C%22fk_id%22%3A%22cae454c1-2c43-45f6-937d-5b81bb21cc10%22%2C%22res_source%22%3A%221%22%2C%22sfrom%22%3A%22R_SEARCH_CONDITION%22%2C%22shield_flag%22%3A0%7D">
+																																								<div class="new-search-card-container">
+																																									<div class="new-search-left">
+																																										<div class="new-resume-status">
+																																											<div class="">
+																																												<img class="new-resume-logo" src="//image0.lietou-static.com/big/62b033d5f30008002067bc4e06u.jpg" alt="头像"/>
+																																												<span class="new-resume-offline">
+																																													<em>3天内活跃</em>
+																																												</span>
+																																											</div>
+																																											<div class="new-resume-personal" style="width: 312px;">
+																																												<div class="new-resume-personal-name">
+																																													<em>聂**</em>
+																																													<span role="img" class="anticon" style="margin-left: 8px; font-size: 16px;">
+																																														<svg width="1em" height="1em" viewBox="0 0 16 17" xmlns="http://www.w3.org/2000/svg" fill="currentColor" aria-hidden="true" focusable="false" class="">
+																																															<g transform="translate(0 .41)" fill="none" fill-rule="evenodd">
+																																																<ellipse fill="#085DFF" opacity="0.2" cx="8" cy="8.268" rx="7.429" ry="7.677"/>
+																																																<g fill-rule="nonzero" stroke="#085DFF" stroke-width="1.2">
+																																																	<path d="M7.04 12.366c1.507 0 2.727-1.257 2.727-2.808 0-1.55-1.22-2.808-2.726-2.808S4.315 8.007 4.315 9.558s1.22 2.808 2.726 2.808z"/>
+																																																	<path stroke-linecap="square" d="M8.625 7.103l1.29-1.763"/>
+																																																	<path stroke-linecap="round" d="M8 4.578h2.496l.78 2.172"/>
+																																																</g>
+																																															</g>
+																																														</svg>
+																																													</span>
+																																												</div>
+																																												<div class="new-resume-personal-detail">
+																																													<span title="26岁" class="personal-detail-age" style="max-width: 50px;">26岁</span>
+																																													<span title="工作3年" class="personal-detail-workyears" style="max-width: 78px;">工作3年</span>
+																																													<span title="本科" class="personal-detail-edulevel" style="max-width: 78px;">本科</span>
+																																													<span title="上海" class="personal-detail-dq">上海</span>
+																																												</div>
+																																												<div class="new-resume-personal-expect">
+																																													<em>求职期望：</em>
+																																													<span title="苏州  嵌入式软件开发" class="personal-expect-content">
+																																														<span>苏州</span>
+																																														<span>嵌入式软件开发</span>
+																																													</span>
+																																												</div>
+																																												<div class="new-resume-personal-skills">
+																																													<span>智能硬件</span>
+																																													<span>RTOS</span>
+																																													<span>C/C++</span>
+																																													<span>C语言</span>
+																																												</div>
+																																											</div>
+																																										</div>
+																																										<div class="new-search-right">
+																																											<div class="new-resume-right-item new-resume-work" style="width: 594px;">
+																																												<div class="new-resume-work-item">
+																																													<span role="img" class="anticon" style="margin-right: 6px; font-size: 19px;">
+																																														<svg width="1em" height="1em" viewBox="0 0 19 19" xmlns="http://www.w3.org/2000/svg" fill="currentColor" aria-hidden="true" focusable="false" class="">
+																																															<g fill="none" fill-rule="evenodd">
+																																																<path d="M0 0h19v19H0z"/>
+																																																<path d="M9.883 4.31c.078.213.117.438.117.664v8.052h1v-5.34a.993.993 0 011-.988c.15 0 .296.033.431.097l1.862.878A2.957 2.957 0 0116 10.343v2.684c0 1.09-.895 1.973-2 1.973h-3v-.001h-1V15H5c-1.105 0-2-.883-2-1.973v-6.3c0-1.252.797-2.368 1.991-2.788l2.336-.824A2.007 2.007 0 019.883 4.31zM7.5 10.067h-2c-.276 0-.5.22-.5.493 0 .242.177.444.41.486l.09.007h2c.276 0 .5-.22.5-.493a.497.497 0 00-.5-.493zm6 0h-1c-.276 0-.5.22-.5.493 0 .242.177.444.41.486l.09.007h1c.276 0 .5-.22.5-.493a.497.497 0 00-.5-.493zm-6-2.96h-2c-.276 0-.5.22-.5.493 0 .242.177.444.41.486l.09.008h2c.276 0 .5-.221.5-.494a.497.497 0 00-.5-.493z" fill="#D3DAE5" fill-rule="nonzero"/>
+																																															</g>
+																																														</svg>
+																																													</span>
+																																													<div class="work-item-content">
+																																														<span title="上海利鉴智能科技有限公司" class="work-item-compname" style="max-width: 252px;">上海利鉴智能科技有限公司</span>
+																																														<em>·</em>
+																																														<span class="work-item-extra">
+																																															<span title="嵌入式开发工程师">
+																																																<span data-selector="keyword_嵌入式开发" class="jsx-3110714573 c-highlight">嵌入式开发</span>工程师</span>
+																																															<span title="2022.09-至今(1年1个月)" class="work-item-content-duration">2022.09-至今(1年1个月)</span>
+																																														</span>
+																																													</div>
+																																												</div>
+																																												<div class="new-resume-work-item work-item-content-icon">
+																																													<div class="work-item-content">
+																																														<span title="上海伊鲁特电气技术有限公司" class="work-item-compname" style="max-width: 252px;">上海伊鲁特电气技术有限公司</span>
+																																														<em>·</em>
+																																														<span class="work-item-extra">
+																																															<span title="项目管理">项目管理</span>
+																																															<span title="2020.06-2022.08(2年2个月)" class="work-item-content-duration">2020.06-2022.08(2年2个月)</span>
+																																														</span>
+																																													</div>
+																																												</div>
+																																											</div>
+																																											<div class="new-resume-right-item new-resume-edu" style="width: 594px;">
+																																												<div class="new-resume-edu-item">
+																																													<span role="img" class="anticon" style="margin-right: 6px; font-size: 19px;">
+																																														<svg width="1em" height="1em" viewBox="0 0 19 19" xmlns="http://www.w3.org/2000/svg" fill="currentColor" aria-hidden="true" focusable="false" class="">
+																																															<g fill="none" fill-rule="evenodd">
+																																																<path d="M0 0h19v19H0z"/>
+																																																<path d="M5.004 9.93c.072 0 .143.016.209.047l2.197 1.045a4.85 4.85 0 004.18 0l2.197-1.045a.493.493 0 01.663.253.53.53 0 01.046.216v1.122a2.08 2.08 0 01-.97 1.77l-1.528.947a4.722 4.722 0 01-4.996 0l-1.528-.947a2.08 2.08 0 01-.97-1.77v-1.122c0-.285.224-.517.5-.517zm2.112-5.432a5.819 5.819 0 014.76.021L15.4 6.113a1.046 1.046 0 010 1.892l-3.47 1.568a5.82 5.82 0 01-4.853-.02L3.591 7.938a1.045 1.045 0 01.016-1.892v.001z" fill="#D3DAE5" fill-rule="nonzero"/>
+																																															</g>
+																																														</svg>
+																																													</span>
+																																													<div title="山东科技大学泰山科技学院 · 电气工程及其自动化 · 本科 · 统招 2017.09-2019.06(2年)" class="edu-item-content">
+																																														<span>山东科技大学泰山科技学院</span>
+																																														<em>·</em>
+																																														<span>电气工程及其自动化</span>
+																																														<em>·</em>
+																																														<span>本科</span>
+																																														<em>·</em>
+																																														<span>统招</span>
+																																														<span class="edu-item-content-duration">2017.09-2019.06(2年)</span>
+																																													</div>
+																																												</div>
+																																												<div class="new-resume-edu-item edu-item-content-icon">
+																																													<div title="山东电力高等专科学校 · 电力系统继电保护与自动化 · 大专 · 统招 2014.09-2017.06(3年)" class="edu-item-content">
+																																														<span>山东电力高等专科学校</span>
+																																														<em>·</em>
+																																														<span>电力系统继电保护与自动化</span>
+																																														<em>·</em>
+																																														<span>大专</span>
+																																														<em>·</em>
+																																														<span>统招</span>
+																																														<span class="edu-item-content-duration">2014.09-2017.06(3年)</span>
+																																													</div>
+																																												</div>
+																																											</div>
+																																										</div>
+																																										<button type="button" class="ant-btn resume-item-chat ant-btn-sm">
+																																											<span>立即沟通</span>
+																																										</button>
+																																									</div>
+																																								</div>
+																																							</li>
+																																							<li data-resumeidencode="279e86d57c27T395b98a2f7be" data-resumeurl="https://lpt.liepin.com/cvview/showresumedetail?resIdEncode=279e86d57c27T395b98a2f7be&amp;sfrom=R_SEARCH_CONDITION&amp;ck_id=cae454c1-2c43-45f6-937d-5b81bb21cc10&amp;sk_id=cae454c1-2c43-45f6-937d-5b81bb21cc10&amp;fk_id=cae454c1-2c43-45f6-937d-5b81bb21cc10&amp;sv=abtest-page-search_resume-new&amp;st=0&amp;cur_page=0&amp;page_size=20&amp;auth_status=0&amp;res_source=1&amp;index=19&amp;position=20&amp;sss=c1c4da0d1d371421595c1170370e44f5&amp;sScene=49382s7WS&amp;dqCode=&amp;jobtitleCode=N000046" data-info="%7B%22sfrom%22%3A%22R_SEARCH_CONDITION%22%7D" class="resumecard-new-li-wrap">
+																																								<label class="checkbox-box ant-checkbox-wrapper">
+																																									<span class="ant-checkbox">
+																																										<input type="checkbox" class="ant-checkbox-input" value="279e86d57c27T395b98a2f7be">
+																																											<span class="ant-checkbox-inner"/>
+																																										</span>
+																																									</label>
+																																									<div class="clearfix resume-card resume-card-container resume-card-new resume-card-new-279e86d57c27T395b98a2f7be" data-info="%7B%22res_id%22%3A%22279e86d57c27T395b98a2f7be%22%2C%22sk_id%22%3A%22cae454c1-2c43-45f6-937d-5b81bb21cc10%22%2C%22ck_id%22%3A%22cae454c1-2c43-45f6-937d-5b81bb21cc10%22%2C%22fk_id%22%3A%22cae454c1-2c43-45f6-937d-5b81bb21cc10%22%2C%22res_source%22%3A%221%22%2C%22sfrom%22%3A%22R_SEARCH_CONDITION%22%2C%22shield_flag%22%3A0%7D">
+																																										<div class="new-search-card-container">
+																																											<div class="new-search-left">
+																																												<div class="new-resume-status">
+																																													<div class="">
+																																														<img class="new-resume-logo" src="//image0.lietou-static.com/big/64a6202bde53ce6f7edabd1902u.jpg" alt="头像"/>
+																																														<span class="new-resume-offline new-resume-offline-active">
+																																															<em>今天活跃</em>
+																																														</span>
+																																													</div>
+																																													<div class="new-resume-personal" style="width: 312px;">
+																																														<div class="new-resume-personal-name">
+																																															<em>何**</em>
+																																															<span role="img" class="anticon" style="margin-left: 8px; font-size: 16px;">
+																																																<svg width="1em" height="1em" viewBox="0 0 16 17" xmlns="http://www.w3.org/2000/svg" fill="currentColor" aria-hidden="true" focusable="false" class="">
+																																																	<g transform="translate(0 .41)" fill="none" fill-rule="evenodd">
+																																																		<ellipse fill="#085DFF" opacity="0.2" cx="8" cy="8.268" rx="7.429" ry="7.677"/>
+																																																		<g fill-rule="nonzero" stroke="#085DFF" stroke-width="1.2">
+																																																			<path d="M7.04 12.366c1.507 0 2.727-1.257 2.727-2.808 0-1.55-1.22-2.808-2.726-2.808S4.315 8.007 4.315 9.558s1.22 2.808 2.726 2.808z"/>
+																																																			<path stroke-linecap="square" d="M8.625 7.103l1.29-1.763"/>
+																																																			<path stroke-linecap="round" d="M8 4.578h2.496l.78 2.172"/>
+																																																		</g>
+																																																	</g>
+																																																</svg>
+																																															</span>
+																																														</div>
+																																														<div class="new-resume-personal-detail">
+																																															<span title="26岁" class="personal-detail-age" style="max-width: 50px;">26岁</span>
+																																															<span title="工作5年" class="personal-detail-workyears" style="max-width: 78px;">工作5年</span>
+																																															<span title="本科" class="personal-detail-edulevel" style="max-width: 78px;">本科</span>
+																																															<span title="上海" class="personal-detail-dq">上海</span>
+																																														</div>
+																																														<div class="new-resume-personal-expect">
+																																															<em>求职期望：</em>
+																																															<span title="上海  C" class="personal-expect-content">
+																																																<span>上海</span>
+																																																<span>C</span>
+																																															</span>
+																																														</div>
+																																														<div class="new-resume-personal-skills">
+																																															<span>通信设备</span>
+																																															<span>模块开发</span>
+																																															<span>系统开发</span>
+																																														</div>
+																																													</div>
+																																												</div>
+																																												<div class="new-search-right">
+																																													<div class="new-resume-right-item new-resume-work" style="width: 594px;">
+																																														<div class="new-resume-work-item">
+																																															<span role="img" class="anticon" style="margin-right: 6px; font-size: 19px;">
+																																																<svg width="1em" height="1em" viewBox="0 0 19 19" xmlns="http://www.w3.org/2000/svg" fill="currentColor" aria-hidden="true" focusable="false" class="">
+																																																	<g fill="none" fill-rule="evenodd">
+																																																		<path d="M0 0h19v19H0z"/>
+																																																		<path d="M9.883 4.31c.078.213.117.438.117.664v8.052h1v-5.34a.993.993 0 011-.988c.15 0 .296.033.431.097l1.862.878A2.957 2.957 0 0116 10.343v2.684c0 1.09-.895 1.973-2 1.973h-3v-.001h-1V15H5c-1.105 0-2-.883-2-1.973v-6.3c0-1.252.797-2.368 1.991-2.788l2.336-.824A2.007 2.007 0 019.883 4.31zM7.5 10.067h-2c-.276 0-.5.22-.5.493 0 .242.177.444.41.486l.09.007h2c.276 0 .5-.22.5-.493a.497.497 0 00-.5-.493zm6 0h-1c-.276 0-.5.22-.5.493 0 .242.177.444.41.486l.09.007h1c.276 0 .5-.22.5-.493a.497.497 0 00-.5-.493zm-6-2.96h-2c-.276 0-.5.22-.5.493 0 .242.177.444.41.486l.09.008h2c.276 0 .5-.221.5-.494a.497.497 0 00-.5-.493z" fill="#D3DAE5" fill-rule="nonzero"/>
+																																																	</g>
+																																																</svg>
+																																															</span>
+																																															<div class="work-item-content">
+																																																<span title="华勤技术股份有限公司" class="work-item-compname" style="max-width: 252px;">华勤技术股份有限公司</span>
+																																																<em>·</em>
+																																																<span class="work-item-extra">
+																																																	<span title="嵌入式开发工程师">
+																																																		<span data-selector="keyword_嵌入式开发" class="jsx-3110714573 c-highlight">嵌入式开发</span>工程师</span>
+																																																	<span title="2019.08-至今(4年2个月)" class="work-item-content-duration">2019.08-至今(4年2个月)</span>
+																																																</span>
+																																															</div>
+																																														</div>
+																																														<div class="new-resume-work-item work-item-content-icon">
+																																															<div class="work-item-content">
+																																																<span title="富力信息技术有限公司" class="work-item-compname" style="max-width: 252px;">富力信息技术有限公司</span>
+																																																<em>·</em>
+																																																<span class="work-item-extra">
+																																																	<span title="javascript开发工程师">javascript开发工程师</span>
+																																																	<span title="2018.06-2019.08(1年2个月)" class="work-item-content-duration">2018.06-2019.08(1年2个月)</span>
+																																																</span>
+																																															</div>
+																																														</div>
+																																													</div>
+																																													<div class="new-resume-right-item new-resume-edu" style="width: 594px;">
+																																														<div class="new-resume-edu-item">
+																																															<span role="img" class="anticon" style="margin-right: 6px; font-size: 19px;">
+																																																<svg width="1em" height="1em" viewBox="0 0 19 19" xmlns="http://www.w3.org/2000/svg" fill="currentColor" aria-hidden="true" focusable="false" class="">
+																																																	<g fill="none" fill-rule="evenodd">
+																																																		<path d="M0 0h19v19H0z"/>
+																																																		<path d="M5.004 9.93c.072 0 .143.016.209.047l2.197 1.045a4.85 4.85 0 004.18 0l2.197-1.045a.493.493 0 01.663.253.53.53 0 01.046.216v1.122a2.08 2.08 0 01-.97 1.77l-1.528.947a4.722 4.722 0 01-4.996 0l-1.528-.947a2.08 2.08 0 01-.97-1.77v-1.122c0-.285.224-.517.5-.517zm2.112-5.432a5.819 5.819 0 014.76.021L15.4 6.113a1.046 1.046 0 010 1.892l-3.47 1.568a5.82 5.82 0 01-4.853-.02L3.591 7.938a1.045 1.045 0 01.016-1.892v.001z" fill="#D3DAE5" fill-rule="nonzero"/>
+																																																	</g>
+																																																</svg>
+																																															</span>
+																																															<div title="湖南大学 · 计算机科学与技术 · 本科 · 非统招 2020.06-2023.06(3年)" class="edu-item-content">
+																																																<span>湖南大学</span>
+																																																<em>·</em>
+																																																<span>计算机科学与技术</span>
+																																																<em>·</em>
+																																																<span>本科</span>
+																																																<em>·</em>
+																																																<span>非统招</span>
+																																																<span class="edu-item-content-duration">2020.06-2023.06(3年)</span>
+																																															</div>
+																																														</div>
+																																														<div class="new-resume-edu-item edu-item-content-icon">
+																																															<div title="湖南化工职业技术学院 · 计算机网络技术 · 大专 · 统招 2016.06-2019.06(3年)" class="edu-item-content">
+																																																<span>湖南化工职业技术学院</span>
+																																																<em>·</em>
+																																																<span>计算机网络技术</span>
+																																																<em>·</em>
+																																																<span>大专</span>
+																																																<em>·</em>
+																																																<span>统招</span>
+																																																<span class="edu-item-content-duration">2016.06-2019.06(3年)</span>
+																																															</div>
+																																														</div>
+																																													</div>
+																																												</div>
+																																												<button type="button" class="ant-btn resume-item-chat ant-btn-sm">
+																																													<span>立即沟通</span>
+																																												</button>
+																																											</div>
+																																										</div>
+																																									</li>
+																																								</ul>
